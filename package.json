@@ -1,0 +1,19 @@
+{
+  "name": "truly",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "tsc && vite build",
+    "preview": "vite preview"
+  },
+  "devDependencies": {
+    "typescript": "^5.2.2",
+    "vite": "^5.1.0"
+  },
+  "dependencies": {
+    "buffer": "^6.0.3",
+    "eccrypto": "^1.1.6"
+  }
+}
