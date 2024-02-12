@@ -1,0 +1,79 @@
+<!doctype html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Welcome</title>
+    <style>
+        .main-card {
+            --main-padding: 2rem;
+            --card-width: 100%;
+            --card-height: 100%;
+            padding: var(--main-padding);
+        }
+
+        @media screen and (min-width: 800px) {
+            .main-card {
+                margin: 2rem;
+                --card-width: calc(100% - var(--main-padding) * 2);
+                --card-height: calc(100% - var(--main-padding) * 2);
+            }
+        }
+
+        body {
+            position: absolute;
+            min-width: 400px;
+            min-height: 680px;
+            height: 100vh;
+            width: 100vw;
+            margin: 0;
+            padding: 0;
+            --fill-transparent-color: #fbfbfbbb;
+            top: 0;
+        }
+    </style>
+    <script type="module" src="./src/init.ts"></script>
+</head>
+
+<body>
+    <fluent-card class="main-card">
+        <div id="first-page">
+            <h1>Welcome to Truly!</h1>
+            <p>This Guide will help you get started with Truly.</p>
+            <bottom-buttons>
+                <fluent-button appearance="accent" onclick="nextStep('sign-up');">Sign up</fluent-button>
+                <fluent-button appearance="neutral" onclick="nextStep('sign-in');">Sign in</fluent-button>
+                <fluent-button appearance="neutral" onclick="nextStep('problems');">Have Problems?</fluent-button>
+            </bottom-buttons>
+        </div>
+        <div id="sign-in-page" style="display: none;">
+            <h1><back-button></back-button>Sign in</h1>
+            <form>
+                <p>
+                    Type your username here:<br />
+                    <fluent-text-field placeholder="Username" id="input-username-sign-in">
+                    </fluent-text-field>
+                </p>
+                <bottom-buttons><fluent-button appearance="accent"
+                        onclick="nextStep('submit-sign-in');">Submit</fluent-button></bottom-buttons>
+            </form>
+        </div>
+        <div id="sign-up-page" style="display: none;">
+            <h1><back-button></back-button>Sign up</h1>
+            <form>
+                <p>
+                    Type your username here:<br />
+                    <fluent-text-field placeholder="Username" id="input-username-sign-up">
+                    </fluent-text-field>
+                </p>
+                <bottom-buttons><fluent-button appearance="accent"
+                        onclick="nextStep('submit-sign-up');">Submit</fluent-button></bottom-buttons>
+            </form>
+        </div>
+    </fluent-card>
+    <loading-fullscreen id="show-loading"></loading-fullscreen>
+    <script type="module" src="./Pages/welcome.ts"></script>
+</body>
+
+</html>
