@@ -16,6 +16,7 @@
   "dependencies": {
     "@fluentui/web-components": "^2.5.16",
     "@types/eccrypto": "^1.1.6",
+    "@types/webfontloader": "^1.6.38",
     "assert": "^2.1.0",
     "base58-js": "^2.0.0",
     "blakejs": "^1.2.1",
@@ -23,6 +24,7 @@
     "eccrypto": "^1.1.6",
     "js-chacha20": "^1.1.0",
     "jssha": "^3.3.1",
-    "sphincs": "github:cheese233/pqcrypto.js#sphincs"
+    "sphincs": "github:cheese233/pqcrypto.js#sphincs",
+    "webfontloader": "^1.6.28"
   }
 }

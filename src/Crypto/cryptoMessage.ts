@@ -3,9 +3,10 @@ import { Buffer } from "buffer/";
 import secureRandom from "../Utils/secure-random";
 import JSChaCha20 from "js-chacha20";
 import * as blake from "blakejs";
-import * as sphincs from "./sphincs"
+import * as sphincs from "./sphincs";
 function randomBytes(length) {
-    let rand = new secureRandom(), randArray = new Array(length);
+    let rand = new secureRandom(),
+        randArray = new Array(length);
     rand.nextBytes(randArray);
     return Buffer.from(randArray);
 }
@@ -15,75 +16,89 @@ function equalConstTime(b1, b2) {
     }
     var res = 0;
     for (var i = 0; i < b1.length; i++) {
-        res |= b1[i] ^ b2[i];  // jshint ignore:line
+        res |= b1[i] ^ b2[i]; // jshint ignore:line
     }
     return res === 0;
 }
-export class SecureError extends Error {
-
-}
+export class SecureError extends Error {}
 export default class {
-    #PublicKey;
-    #PrivateKey;
-    #hisPublicKey;
-    constructor(PrivateKey, PublicKey) {
+    #PublicKey: Buffer;
+    #PrivateKey: Buffer;
+    #hisPublicKey: Buffer;
+    constructor(PrivateKey: Buffer, PublicKey: Buffer) {
         this.#PrivateKey = PrivateKey;
         this.#PublicKey = PublicKey;
     }
-    /**
-     * 
-     * @param {Buffer} ciphertext 
-     * @param {Buffer} mac
-     * @param {Buffer} nonce 
-     */
-    async decrypt(ciphertext, mac, nonce) {
-        const key = blake.blake2b(await eccrypto.derive(this.#PrivateKey, this.#hisPublicKey), undefined, 64);
-        var decrypted = new JSChaCha20(key.subarray(0, 32), nonce, 0).decrypt(ciphertext);
+    async decrypt(ciphertext: Buffer, mac: Buffer, nonce: Buffer) {
+        const key = blake.blake2b(
+            await eccrypto.derive(
+                this.#PrivateKey as any,
+                this.#hisPublicKey as any
+            ),
+            undefined,
+            64
+        );
+        var decrypted = new JSChaCha20(key.subarray(0, 32), nonce, 0).decrypt(
+            ciphertext
+        );
         var contextMac = blake.blake2bInit(32, key.subarray(32));
-        blake.blake2bUpdate(contextMac, nonce)
-        blake.blake2bUpdate(contextMac, this.#hisPublicKey)
-        blake.blake2bUpdate(contextMac, ciphertext)
+        blake.blake2bUpdate(contextMac, nonce);
+        blake.blake2bUpdate(contextMac, this.#hisPublicKey);
+        blake.blake2bUpdate(contextMac, ciphertext);
         const realMac = blake.blake2bFinal(contextMac);
         if (!equalConstTime(mac, realMac)) {
             throw new SecureError("verify failed!!!");
         }
         return decrypted;
-
     }
-    /**
-     * 
-     * @param {Buffer} msg 
-     */
-    async encrypt(msg) {
-        const key = blake.blake2b(await eccrypto.derive(this.#PrivateKey, this.#hisPublicKey), undefined, 64);
+    async encrypt(msg: Buffer) {
+        const key = blake.blake2b(
+            await eccrypto.derive(
+                this.#PrivateKey as any,
+                this.#hisPublicKey as any
+            ),
+            undefined,
+            64
+        );
         const nonce = randomBytes(12);
-        var encrypted = new JSChaCha20(key.subarray(0, 32), nonce, 0).encrypt(msg);
+        var encrypted = new JSChaCha20(key.subarray(0, 32), nonce, 0).encrypt(
+            msg
+        );
         var contextMac = blake.blake2bInit(32, key.subarray(32));
-        blake.blake2bUpdate(contextMac, nonce)
-        blake.blake2bUpdate(contextMac, this.#PublicKey)
-        blake.blake2bUpdate(contextMac, encrypted)
+        blake.blake2bUpdate(contextMac, nonce);
+        blake.blake2bUpdate(contextMac, this.#PublicKey);
+        blake.blake2bUpdate(contextMac, encrypted);
         const mac = blake.blake2bFinal(contextMac);
         return {
             ciphertext: encrypted,
             mac: mac,
-            nonce: nonce
-        }
+            nonce: nonce,
+        };
     }
     async setHisPublicKey(signature, hisPublicKey, ephemPublicKey) {
-        if (await sphincs.verifyDetached(signature, hisPublicKey, ephemPublicKey)) {
-            this.#hisPublicKey = hisPublicKey
-        }
-        else {
-            throw new SecureError("public key has been changed!!!")
+        if (
+            await sphincs.verifyDetached(
+                signature,
+                hisPublicKey,
+                ephemPublicKey
+            )
+        ) {
+            this.#hisPublicKey = hisPublicKey;
+        } else {
+            throw new SecureError("public key has been changed!!!");
         }
     }
     async exportPublicKey() {
-        const { publicKey: ephemPublicKey, privateKey: ephemPrivateKey } = await sphincs.generateKeyPair();
-        const signature = await sphincs.detached(this.#PublicKey, ephemPrivateKey);
+        const { publicKey: ephemPublicKey, privateKey: ephemPrivateKey } =
+            await sphincs.generateKeyPair();
+        const signature = await sphincs.detached(
+            this.#PublicKey,
+            ephemPrivateKey
+        );
         return {
             signature: signature,
             publicKey: this.#PublicKey,
-            ephemPublicKey: ephemPublicKey
-        }
+            ephemPublicKey: ephemPublicKey,
+        };
     }
 }
