@@ -1,0 +1,38 @@
+import { chacha20Transformer } from "../src/Crypto/chacha20";
+import { createPrivateKey, isValidPrivateKey } from "../src/Crypto/generateKey";
+import { base58_to_binary, binary_to_base58 } from "base58-js";
+import { Buffer } from "buffer/";
+import * as eccrypto from "eccrypto";
+const k = new Uint8Array(new Array<Number>(32).fill(114) as any),
+    n = new Uint8Array(new Array<Number>(12).fill(51) as any);
+(async () => {
+    let c = "hello world",
+        c1 = 0;
+    const stream = new ReadableStream({
+        start(controller) {},
+        pull(controller) {
+            let string = new Uint8Array(Buffer.from([c.charCodeAt(c1++)]));
+            controller.enqueue(string);
+            if (c1 >= c.length) {
+                controller.close();
+            }
+        },
+        cancel() {},
+    });
+    let trans = new TransformStream(new chacha20Transformer(k, n));
+    let reader = stream.pipeThrough(trans).getReader();
+    let t1 = new chacha20Transformer(k, n);
+    let a1 = "";
+    while (true) {
+        const { done, value } = await reader.read();
+        if (done) {
+            break;
+        }
+        t1.transform(value, {
+            enqueue: (a) => {
+                a1 += String.fromCharCode(...a);
+            },
+        });
+    }
+    console.log(a1);
+})();

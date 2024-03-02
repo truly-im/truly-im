@@ -1,15 +1,12 @@
-
 import { createPrivateKey, isValidPrivateKey } from "../src/Crypto/generateKey";
-import { generateSeed, seededRandom } from "../src/Crypto/random";
-import { base58_to_binary, binary_to_base58 } from "base58-js"
-import { Buffer } from "buffer/"
+import { base58_to_binary, binary_to_base58 } from "base58-js";
+import { Buffer } from "buffer/";
 import * as eccrypto from "eccrypto";
 import cryptoMessage from "../src/Crypto/cryptoMessage";
-import * as sphincs from "../src/Crypto/sphincs"
+import * as sphincs from "../src/Crypto/sphincs";
 import showWhich from "../src/Utils/showWhich";
 import { createUser } from "../src/account";
 (async () => {
-
     // await generateSeed(window, (progress: number) => {
     //     console.log("progress:", Math.floor(progress * 100), "%");
     // });
@@ -23,34 +20,39 @@ import { createUser } from "../src/account";
     // await msg2.setHisPublicKey(public1.signature, public1.publicKey, public1.ephemPublicKey);
     // let msgOutput = await msg.encrypt("value");
     // let msg2Output = await msg2.decrypt(msgOutput.ciphertext, msgOutput.mac, msgOutput.nonce);
-
 })();
 async function initTruly(newUser: boolean, userName) {
     createUser(userName);
-    location.href = "/" + (newUser ? "#newUser" : "")
+    location.href = "/" + (newUser ? "#newUser" : "");
 }
 const showLoading = document.getElementById("show-loading") as any;
 globalThis.nextStep = async function (step) {
     showLoading.show();
     switch (step) {
         case "sign-in":
-            showWhich("sign-in-page")
+            showWhich("sign-in-page");
             break;
         case "sign-up":
-            showWhich("sign-up-page")
+            showWhich("sign-up-page");
             break;
         case "submit-sign-in":
-            await initTruly(false, (document.getElementById("input-username-sign-in") as any).value)
+            await initTruly(
+                false,
+                (document.getElementById("input-username-sign-in") as any).value
+            );
             break;
         case "submit-sign-up":
-            await initTruly(true, (document.getElementById("input-username-sign-in") as any).value)
+            await initTruly(
+                true,
+                (document.getElementById("input-username-sign-in") as any).value
+            );
             break;
         case "problems":
-            location.href = "https://github.com/cheese233/truly-im"
+            location.href = "https://github.com/cheese233/truly-im";
             break;
         default:
             throw new Error();
             break;
     }
     showLoading.close();
-}
+};
