@@ -1,9 +1,9 @@
-import { chacha20Transformer } from "../src/Crypto/chacha20";
-import { blake2bSink } from "../src/Crypto/blake2";
-import { createPrivateKey, isValidPrivateKey } from "../src/Crypto/generateKey";
+import { chacha20Transformer } from "./Crypto/chacha20";
+import { blake2bSink } from "./Crypto/blake2";
+import { createPrivateKey, isValidPrivateKey } from "./Crypto/generateKey";
 import { base58_to_binary, binary_to_base58 } from "base58-js";
 import { Buffer } from "buffer/";
-import * as sphincs from "../src/Crypto/sphincs";
+import * as sphincs from "./Crypto/sphincs";
 import * as eccrypto from "eccrypto";
 const k = new Uint8Array(new Array<Number>(32).fill(114) as any),
     n = new Uint8Array(new Array<Number>(12).fill(51) as any);

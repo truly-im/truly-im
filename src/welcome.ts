@@ -1,11 +1,11 @@
-import { createPrivateKey, isValidPrivateKey } from "../src/Crypto/generateKey";
+import { createPrivateKey, isValidPrivateKey } from "./Crypto/generateKey";
 import { base58_to_binary, binary_to_base58 } from "base58-js";
 import { Buffer } from "buffer/";
 import * as eccrypto from "eccrypto";
-import cryptoMessage from "../src/Crypto/cryptoMessage";
-import * as sphincs from "../src/Crypto/sphincs";
-import showWhich from "../src/Utils/showWhich";
-import { createUser } from "../src/account";
+import cryptoMessage from "./Crypto/cryptoMessage";
+import * as sphincs from "./Crypto/sphincs";
+import showWhich from "./Utils/showWhich";
+import { createUser } from "./account";
 (async () => {
     // await generateSeed(window, (progress: number) => {
     //     console.log("progress:", Math.floor(progress * 100), "%");
