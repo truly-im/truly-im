@@ -1,30 +1,33 @@
 {
-  "name": "truly",
-  "private": true,
-  "version": "0.0.0",
-  "type": "module",
-  "scripts": {
-    "dev": "vite",
-    "build": "tsc && vite build",
-    "preview": "vite preview"
-  },
-  "devDependencies": {
-    "typescript": "^5.2.2",
-    "vite": "^5.1.0",
-    "vite-plugin-node-polyfills": "^0.20.0"
-  },
-  "dependencies": {
-    "@fluentui/web-components": "^2.5.16",
-    "@types/eccrypto": "^1.1.6",
-    "@types/webfontloader": "^1.6.38",
-    "assert": "^2.1.0",
-    "base58-js": "^2.0.0",
-    "blakejs": "^1.2.1",
-    "buffer": "^6.0.3",
-    "eccrypto": "^1.1.6",
-    "js-chacha20": "^1.1.0",
-    "jssha": "^3.3.1",
-    "sphincs": "github:cheese233/pqcrypto.js#sphincs",
-    "webfontloader": "^1.6.28"
-  }
+    "name": "truly",
+    "private": true,
+    "version": "0.0.0",
+    "type": "module",
+    "scripts": {
+        "build:core": "gulp build:core",
+        "build:web": "gulp build:web",
+        "preview": "gulp preview:web"
+    },
+    "devDependencies": {
+        "@rbnlffl/gulp-rollup": "^0.2.3",
+        "@rollup/plugin-commonjs": "^25.0.7",
+        "@rollup/plugin-node-resolve": "^15.2.3",
+        "@rollup/plugin-swc": "^0.3.0",
+        "@rollup/plugin-typescript": "^11.1.6",
+        "gulp": "^4.0.2",
+        "gulp-sourcemaps": "^3.0.0",
+        "typescript": "^5.2.2"
+    },
+    "dependencies": {
+        "@fluentui/web-components": "^2.5.16",
+        "@noble/curves": "^1.3.0",
+        "@types/webfontloader": "^1.6.38",
+        "blakejs": "^1.2.1",
+        "buffer": "^6.0.3",
+        "js-chacha20": "^1.1.0",
+        "jssha": "^3.3.1",
+        "reflect-metadata": "^0.2.1",
+        "sphincs": "github:cheese233/pqcrypto.js#sphincs",
+        "webfontloader": "^1.6.28"
+    }
 }

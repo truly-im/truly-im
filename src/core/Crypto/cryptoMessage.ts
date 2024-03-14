@@ -1,9 +1,10 @@
-import * as eccrypto from "eccrypto";
 import { Buffer } from "buffer/";
+import { secp256k1 } from "@noble/curves/secp256k1";
 import secureRandom from "../Utils/secure-random";
 import JSChaCha20 from "js-chacha20";
 import * as blake from "blakejs";
 import * as sphincs from "./sphincs";
+import { injectable } from "../Plugin/inject/injectable";
 function randomBytes(length) {
     let rand = new secureRandom(),
         randArray = new Array(length);
@@ -31,10 +32,7 @@ export default class {
     }
     async decrypt(ciphertext: Buffer, mac: Buffer, nonce: Buffer) {
         const key = blake.blake2b(
-            await eccrypto.derive(
-                this.#PrivateKey as any,
-                this.#hisPublicKey as any
-            ),
+            secp256k1.getSharedSecret(this.#PrivateKey, this.#hisPublicKey),
             undefined,
             64
         );
@@ -51,12 +49,10 @@ export default class {
         }
         return decrypted;
     }
+    @injectable("encryptMessage")
     async encrypt(msg: Buffer) {
         const key = blake.blake2b(
-            await eccrypto.derive(
-                this.#PrivateKey as any,
-                this.#hisPublicKey as any
-            ),
+            secp256k1.getSharedSecret(this.#PrivateKey, this.#hisPublicKey),
             undefined,
             64
         );

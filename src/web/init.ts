@@ -1,5 +1,5 @@
 import "./elements";
-import { checkUserExists } from "../src/account";
+import { checkUserExists } from "./account";
 import { loadDefaultFonts } from "./Utils/fonts";
 if (!checkUserExists() && !location.pathname.includes("welcome")) {
     location.pathname = "/welcome.html";
