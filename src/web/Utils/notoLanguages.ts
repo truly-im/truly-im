@@ -1,6 +1,6 @@
-{
-    "langToNotoFamilies": {
-        "aa_Latn": [
+export default {
+    langToNotoFamilies: {
+        aa_Latn: [
             "Noto Music",
             "Noto Sans",
             "Noto Sans Cypro Minoan",
@@ -16,30 +16,30 @@
             "Noto Serif Display",
             "Noto Serif Khitan Small Script",
             "Noto Serif Ottoman Siyaq",
-            "Noto Znamenny Musical Notation"
+            "Noto Znamenny Musical Notation",
         ],
-        "ab_Cyrl": [
+        ab_Cyrl: [
             "Noto Sans",
             "Noto Sans Display",
             "Noto Sans Mono",
             "Noto Serif",
-            "Noto Serif Display"
+            "Noto Serif Display",
         ],
-        "abq_Cyrl": [
+        abq_Cyrl: [
             "Noto Sans",
             "Noto Sans Display",
             "Noto Sans Mono",
             "Noto Serif",
-            "Noto Serif Display"
+            "Noto Serif Display",
         ],
-        "abr_Latn": [
+        abr_Latn: [
             "Noto Sans",
             "Noto Sans Display",
             "Noto Sans Mono",
             "Noto Serif",
-            "Noto Serif Display"
+            "Noto Serif Display",
         ],
-        "ace_Latn": [
+        ace_Latn: [
             "Noto Music",
             "Noto Sans",
             "Noto Sans Cypro Minoan",
@@ -54,9 +54,9 @@
             "Noto Serif Display",
             "Noto Serif Khitan Small Script",
             "Noto Serif Ottoman Siyaq",
-            "Noto Znamenny Musical Notation"
+            "Noto Znamenny Musical Notation",
         ],
-        "acf_Latn": [
+        acf_Latn: [
             "Noto Music",
             "Noto Sans",
             "Noto Sans Cypro Minoan",
@@ -71,17 +71,17 @@
             "Noto Serif Display",
             "Noto Serif Khitan Small Script",
             "Noto Serif Ottoman Siyaq",
-            "Noto Znamenny Musical Notation"
+            "Noto Znamenny Musical Notation",
         ],
-        "ach_Latn": [
+        ach_Latn: [
             "Noto Sans",
             "Noto Sans Display",
             "Noto Sans Mono",
             "Noto Serif",
             "Noto Serif Display",
-            "Noto Znamenny Musical Notation"
+            "Noto Znamenny Musical Notation",
         ],
-        "acu_Latn": [
+        acu_Latn: [
             "Noto Music",
             "Noto Sans",
             "Noto Sans Cypro Minoan",
@@ -96,16 +96,16 @@
             "Noto Serif Display",
             "Noto Serif Khitan Small Script",
             "Noto Serif Ottoman Siyaq",
-            "Noto Znamenny Musical Notation"
+            "Noto Znamenny Musical Notation",
         ],
-        "ada_Latn": [
+        ada_Latn: [
             "Noto Sans",
             "Noto Sans Display",
             "Noto Sans Mono",
             "Noto Serif",
-            "Noto Serif Display"
+            "Noto Serif Display",
         ],
-        "adl_Latn": [
+        adl_Latn: [
             "Noto Music",
             "Noto Sans",
             "Noto Sans Cypro Minoan",
@@ -120,24 +120,24 @@
             "Noto Serif Display",
             "Noto Serif Khitan Small Script",
             "Noto Serif Ottoman Siyaq",
-            "Noto Znamenny Musical Notation"
+            "Noto Znamenny Musical Notation",
         ],
-        "ady_Cyrl": [
+        ady_Cyrl: [
             "Noto Sans",
             "Noto Sans Display",
             "Noto Sans Mono",
             "Noto Serif",
-            "Noto Serif Display"
+            "Noto Serif Display",
         ],
-        "ae_Avst": ["Noto Sans Avestan"],
-        "aeb_Arab": [
+        ae_Avst: ["Noto Sans Avestan"],
+        aeb_Arab: [
             "Noto Kufi Arabic",
             "Noto Naskh Arabic",
             "Noto Naskh Arabic UI",
             "Noto Sans Arabic",
-            "Noto Sans Arabic UI"
+            "Noto Sans Arabic UI",
         ],
-        "af_Latn": [
+        af_Latn: [
             "Noto Music",
             "Noto Sans",
             "Noto Sans Cypro Minoan",
@@ -152,16 +152,16 @@
             "Noto Serif Display",
             "Noto Serif Khitan Small Script",
             "Noto Serif Ottoman Siyaq",
-            "Noto Znamenny Musical Notation"
+            "Noto Znamenny Musical Notation",
         ],
-        "agq_Latn": [
+        agq_Latn: [
             "Noto Sans",
             "Noto Sans Display",
             "Noto Sans Mono",
             "Noto Serif",
-            "Noto Serif Display"
+            "Noto Serif Display",
         ],
-        "agr_Latn": [
+        agr_Latn: [
             "Noto Music",
             "Noto Sans",
             "Noto Sans Cypro Minoan",
@@ -176,23 +176,23 @@
             "Noto Serif Display",
             "Noto Serif Khitan Small Script",
             "Noto Serif Ottoman Siyaq",
-            "Noto Znamenny Musical Notation"
+            "Noto Znamenny Musical Notation",
         ],
-        "aho_Ahom": ["Noto Serif Ahom"],
-        "aii_Armi": ["Noto Sans Imperial Aramaic"],
-        "aii_Brah": ["Noto Sans Brahmi"],
-        "aii_Chrs": ["Noto Sans Chorasmian"],
-        "aii_Cyrl": [
+        aho_Ahom: ["Noto Serif Ahom"],
+        aii_Armi: ["Noto Sans Imperial Aramaic"],
+        aii_Brah: ["Noto Sans Brahmi"],
+        aii_Chrs: ["Noto Sans Chorasmian"],
+        aii_Cyrl: [
             "Noto Sans",
             "Noto Sans Display",
             "Noto Sans Mono",
             "Noto Serif",
-            "Noto Serif Display"
+            "Noto Serif Display",
         ],
-        "aii_Egyp": ["Noto Sans Egyptian Hieroglyphs"],
-        "aii_Elym": ["Noto Sans Elymaic"],
-        "aii_Hatr": ["Noto Sans Hatran"],
-        "aii_Latn": [
+        aii_Egyp: ["Noto Sans Egyptian Hieroglyphs"],
+        aii_Elym: ["Noto Sans Elymaic"],
+        aii_Hatr: ["Noto Sans Hatran"],
+        aii_Latn: [
             "Noto Music",
             "Noto Sans",
             "Noto Sans Cypro Minoan",
@@ -207,53 +207,53 @@
             "Noto Serif Display",
             "Noto Serif Khitan Small Script",
             "Noto Serif Ottoman Siyaq",
-            "Noto Znamenny Musical Notation"
+            "Noto Znamenny Musical Notation",
         ],
-        "aii_Mani": ["Noto Sans Manichaean"],
-        "aii_Narb": ["Noto Sans Old North Arabian"],
-        "aii_Nbat": ["Noto Sans Nabataean"],
-        "aii_Palm": ["Noto Sans Palmyrene"],
-        "aii_Phli": ["Noto Sans Inscriptional Pahlavi"],
-        "aii_Phlp": ["Noto Sans Psalter Pahlavi"],
-        "aii_Phnx": ["Noto Sans Phoenician"],
-        "aii_Prti": ["Noto Sans Inscriptional Parthian"],
-        "aii_Samr": ["Noto Sans Samaritan"],
-        "aii_Sarb": ["Noto Sans Old South Arabian"],
-        "aii_Sogd": ["Noto Sans Sogdian"],
-        "aii_Sogo": ["Noto Sans Old Sogdian"],
-        "aii_Syrc": ["Noto Sans Syriac", "Noto Sans Syriac Eastern"],
-        "aii_Ugar": ["Noto Sans Ugaritic"],
-        "ain_Kana": ["Noto Sans JP", "Noto Serif JP"],
-        "ain_Latn": [
+        aii_Mani: ["Noto Sans Manichaean"],
+        aii_Narb: ["Noto Sans Old North Arabian"],
+        aii_Nbat: ["Noto Sans Nabataean"],
+        aii_Palm: ["Noto Sans Palmyrene"],
+        aii_Phli: ["Noto Sans Inscriptional Pahlavi"],
+        aii_Phlp: ["Noto Sans Psalter Pahlavi"],
+        aii_Phnx: ["Noto Sans Phoenician"],
+        aii_Prti: ["Noto Sans Inscriptional Parthian"],
+        aii_Samr: ["Noto Sans Samaritan"],
+        aii_Sarb: ["Noto Sans Old South Arabian"],
+        aii_Sogd: ["Noto Sans Sogdian"],
+        aii_Sogo: ["Noto Sans Old Sogdian"],
+        aii_Syrc: ["Noto Sans Syriac", "Noto Sans Syriac Eastern"],
+        aii_Ugar: ["Noto Sans Ugaritic"],
+        ain_Kana: ["Noto Sans JP", "Noto Serif JP"],
+        ain_Latn: [
             "Noto Sans",
             "Noto Sans Display",
             "Noto Sans Mono",
             "Noto Serif",
-            "Noto Serif Display"
+            "Noto Serif Display",
         ],
-        "ajg_Latn": [
+        ajg_Latn: [
             "Noto Sans",
             "Noto Sans Display",
             "Noto Sans Mono",
             "Noto Serif",
-            "Noto Serif Display"
+            "Noto Serif Display",
         ],
-        "ak_Latn": [
+        ak_Latn: [
             "Noto Sans",
             "Noto Sans Display",
             "Noto Sans Mono",
             "Noto Serif",
-            "Noto Serif Display"
+            "Noto Serif Display",
         ],
-        "akk_Xsux": ["Noto Sans Cuneiform"],
-        "akz_Latn": [
+        akk_Xsux: ["Noto Sans Cuneiform"],
+        akz_Latn: [
             "Noto Sans",
             "Noto Sans Display",
             "Noto Sans Mono",
             "Noto Serif",
-            "Noto Serif Display"
+            "Noto Serif Display",
         ],
-        "ala_Latn": [
+        ala_Latn: [
             "Noto Music",
             "Noto Sans Cypro Minoan",
             "Noto Sans Indic Siyaq Numbers",
@@ -263,25 +263,9 @@
             "Noto Sans Symbols 2",
             "Noto Serif Khitan Small Script",
             "Noto Serif Ottoman Siyaq",
-            "Noto Znamenny Musical Notation"
+            "Noto Znamenny Musical Notation",
         ],
-        "ale_Latn": [
-            "Noto Music",
-            "Noto Sans",
-            "Noto Sans Cypro Minoan",
-            "Noto Sans Display",
-            "Noto Sans Indic Siyaq Numbers",
-            "Noto Sans Mayan Numerals",
-            "Noto Sans Mono",
-            "Noto Sans SignWriting",
-            "Noto Sans Symbols",
-            "Noto Sans Symbols 2",
-            "Noto Serif",
-            "Noto Serif Display",
-            "Noto Serif Khitan Small Script",
-            "Noto Serif Ottoman Siyaq"
-        ],
-        "aln_Latn": [
+        ale_Latn: [
             "Noto Music",
             "Noto Sans",
             "Noto Sans Cypro Minoan",
@@ -296,17 +280,8 @@
             "Noto Serif Display",
             "Noto Serif Khitan Small Script",
             "Noto Serif Ottoman Siyaq",
-            "Noto Znamenny Musical Notation"
         ],
-        "alt_Cyrl": [
-            "Noto Sans",
-            "Noto Sans Display",
-            "Noto Sans Mono",
-            "Noto Serif",
-            "Noto Serif Display"
-        ],
-        "am_Ethi": ["Noto Sans Ethiopic", "Noto Serif Ethiopic"],
-        "amc_Latn": [
+        aln_Latn: [
             "Noto Music",
             "Noto Sans",
             "Noto Sans Cypro Minoan",
@@ -321,9 +296,17 @@
             "Noto Serif Display",
             "Noto Serif Khitan Small Script",
             "Noto Serif Ottoman Siyaq",
-            "Noto Znamenny Musical Notation"
+            "Noto Znamenny Musical Notation",
         ],
-        "ame_Latn": [
+        alt_Cyrl: [
+            "Noto Sans",
+            "Noto Sans Display",
+            "Noto Sans Mono",
+            "Noto Serif",
+            "Noto Serif Display",
+        ],
+        am_Ethi: ["Noto Sans Ethiopic", "Noto Serif Ethiopic"],
+        amc_Latn: [
             "Noto Music",
             "Noto Sans",
             "Noto Sans Cypro Minoan",
@@ -338,9 +321,9 @@
             "Noto Serif Display",
             "Noto Serif Khitan Small Script",
             "Noto Serif Ottoman Siyaq",
-            "Noto Znamenny Musical Notation"
+            "Noto Znamenny Musical Notation",
         ],
-        "ami_Latn": [
+        ame_Latn: [
             "Noto Music",
             "Noto Sans",
             "Noto Sans Cypro Minoan",
@@ -355,16 +338,9 @@
             "Noto Serif Display",
             "Noto Serif Khitan Small Script",
             "Noto Serif Ottoman Siyaq",
-            "Noto Znamenny Musical Notation"
+            "Noto Znamenny Musical Notation",
         ],
-        "amo_Latn": [
-            "Noto Sans",
-            "Noto Sans Display",
-            "Noto Sans Mono",
-            "Noto Serif",
-            "Noto Serif Display"
-        ],
-        "amr_Latn": [
+        ami_Latn: [
             "Noto Music",
             "Noto Sans",
             "Noto Sans Cypro Minoan",
@@ -379,9 +355,16 @@
             "Noto Serif Display",
             "Noto Serif Khitan Small Script",
             "Noto Serif Ottoman Siyaq",
-            "Noto Znamenny Musical Notation"
+            "Noto Znamenny Musical Notation",
         ],
-        "an_Latn": [
+        amo_Latn: [
+            "Noto Sans",
+            "Noto Sans Display",
+            "Noto Sans Mono",
+            "Noto Serif",
+            "Noto Serif Display",
+        ],
+        amr_Latn: [
             "Noto Music",
             "Noto Sans",
             "Noto Sans Cypro Minoan",
@@ -396,9 +379,9 @@
             "Noto Serif Display",
             "Noto Serif Khitan Small Script",
             "Noto Serif Ottoman Siyaq",
-            "Noto Znamenny Musical Notation"
+            "Noto Znamenny Musical Notation",
         ],
-        "ang_Latn": [
+        an_Latn: [
             "Noto Music",
             "Noto Sans",
             "Noto Sans Cypro Minoan",
@@ -413,16 +396,33 @@
             "Noto Serif Display",
             "Noto Serif Khitan Small Script",
             "Noto Serif Ottoman Siyaq",
-            "Noto Znamenny Musical Notation"
+            "Noto Znamenny Musical Notation",
         ],
-        "anp_Deva": [
+        ang_Latn: [
+            "Noto Music",
+            "Noto Sans",
+            "Noto Sans Cypro Minoan",
+            "Noto Sans Display",
+            "Noto Sans Indic Siyaq Numbers",
+            "Noto Sans Mayan Numerals",
+            "Noto Sans Mono",
+            "Noto Sans SignWriting",
+            "Noto Sans Symbols",
+            "Noto Sans Symbols 2",
+            "Noto Serif",
+            "Noto Serif Display",
+            "Noto Serif Khitan Small Script",
+            "Noto Serif Ottoman Siyaq",
+            "Noto Znamenny Musical Notation",
+        ],
+        anp_Deva: [
             "Noto Sans",
             "Noto Sans Devanagari",
             "Noto Sans Devanagari UI",
-            "Noto Serif Devanagari"
+            "Noto Serif Devanagari",
         ],
-        "anw_Latn": ["Noto Znamenny Musical Notation"],
-        "aoz_Latn": [
+        anw_Latn: ["Noto Znamenny Musical Notation"],
+        aoz_Latn: [
             "Noto Music",
             "Noto Sans",
             "Noto Sans Cypro Minoan",
@@ -437,27 +437,27 @@
             "Noto Serif Display",
             "Noto Serif Khitan Small Script",
             "Noto Serif Ottoman Siyaq",
-            "Noto Znamenny Musical Notation"
+            "Noto Znamenny Musical Notation",
         ],
-        "ar_Arab": [
+        ar_Arab: [
             "Noto Kufi Arabic",
             "Noto Naskh Arabic",
             "Noto Naskh Arabic UI",
             "Noto Sans Arabic",
-            "Noto Sans Arabic UI"
+            "Noto Sans Arabic UI",
         ],
-        "ar_Syrc": ["Noto Sans Syriac", "Noto Sans Syriac Eastern"],
-        "arb_Arab": [
+        ar_Syrc: ["Noto Sans Syriac", "Noto Sans Syriac Eastern"],
+        arb_Arab: [
             "Noto Kufi Arabic",
             "Noto Naskh Arabic",
             "Noto Naskh Arabic UI",
             "Noto Sans Arabic",
-            "Noto Sans Arabic UI"
+            "Noto Sans Arabic UI",
         ],
-        "arc_Armi": ["Noto Sans Imperial Aramaic"],
-        "arc_Nbat": ["Noto Sans Nabataean"],
-        "arc_Palm": ["Noto Sans Palmyrene"],
-        "arl_Latn": [
+        arc_Armi: ["Noto Sans Imperial Aramaic"],
+        arc_Nbat: ["Noto Sans Nabataean"],
+        arc_Palm: ["Noto Sans Palmyrene"],
+        arl_Latn: [
             "Noto Music",
             "Noto Sans",
             "Noto Sans Cypro Minoan",
@@ -472,9 +472,9 @@
             "Noto Serif Display",
             "Noto Serif Khitan Small Script",
             "Noto Serif Ottoman Siyaq",
-            "Noto Znamenny Musical Notation"
+            "Noto Znamenny Musical Notation",
         ],
-        "arn_Latn": [
+        arn_Latn: [
             "Noto Music",
             "Noto Sans",
             "Noto Sans Cypro Minoan",
@@ -489,16 +489,16 @@
             "Noto Serif Display",
             "Noto Serif Khitan Small Script",
             "Noto Serif Ottoman Siyaq",
-            "Noto Znamenny Musical Notation"
+            "Noto Znamenny Musical Notation",
         ],
-        "aro_Latn": [
+        aro_Latn: [
             "Noto Sans",
             "Noto Sans Display",
             "Noto Sans Mono",
             "Noto Serif",
-            "Noto Serif Display"
+            "Noto Serif Display",
         ],
-        "arp_Latn": [
+        arp_Latn: [
             "Noto Music",
             "Noto Sans",
             "Noto Sans Cypro Minoan",
@@ -513,23 +513,23 @@
             "Noto Serif Display",
             "Noto Serif Khitan Small Script",
             "Noto Serif Ottoman Siyaq",
-            "Noto Znamenny Musical Notation"
+            "Noto Znamenny Musical Notation",
         ],
-        "arq_Arab": [
+        arq_Arab: [
             "Noto Kufi Arabic",
             "Noto Naskh Arabic",
             "Noto Naskh Arabic UI",
             "Noto Sans Arabic",
-            "Noto Sans Arabic UI"
+            "Noto Sans Arabic UI",
         ],
-        "ars_Arab": [
+        ars_Arab: [
             "Noto Kufi Arabic",
             "Noto Naskh Arabic",
             "Noto Naskh Arabic UI",
             "Noto Sans Arabic",
-            "Noto Sans Arabic UI"
+            "Noto Sans Arabic UI",
         ],
-        "art_Latn": [
+        art_Latn: [
             "Noto Music",
             "Noto Sans",
             "Noto Sans Cypro Minoan",
@@ -544,35 +544,35 @@
             "Noto Serif Display",
             "Noto Serif Khitan Small Script",
             "Noto Serif Ottoman Siyaq",
-            "Noto Znamenny Musical Notation"
+            "Noto Znamenny Musical Notation",
         ],
-        "arw_Latn": [
+        arw_Latn: [
             "Noto Sans",
             "Noto Sans Display",
             "Noto Sans Mono",
             "Noto Serif",
-            "Noto Serif Display"
+            "Noto Serif Display",
         ],
-        "ary_Arab": [
+        ary_Arab: [
             "Noto Kufi Arabic",
             "Noto Naskh Arabic",
             "Noto Naskh Arabic UI",
             "Noto Sans Arabic",
-            "Noto Sans Arabic UI"
+            "Noto Sans Arabic UI",
         ],
-        "arz_Arab": [
+        arz_Arab: [
             "Noto Kufi Arabic",
             "Noto Naskh Arabic",
             "Noto Naskh Arabic UI",
             "Noto Sans Arabic",
-            "Noto Sans Arabic UI"
+            "Noto Sans Arabic UI",
         ],
-        "as_Beng": [
+        as_Beng: [
             "Noto Sans Bengali",
             "Noto Sans Bengali UI",
-            "Noto Serif Bengali"
+            "Noto Serif Bengali",
         ],
-        "asa_Latn": [
+        asa_Latn: [
             "Noto Music",
             "Noto Sans",
             "Noto Sans Cypro Minoan",
@@ -588,23 +588,23 @@
             "Noto Serif Display",
             "Noto Serif Khitan Small Script",
             "Noto Serif Ottoman Siyaq",
-            "Noto Znamenny Musical Notation"
+            "Noto Znamenny Musical Notation",
         ],
-        "ast_Latn": [
+        ast_Latn: [
             "Noto Sans",
             "Noto Sans Display",
             "Noto Sans Mono",
             "Noto Serif",
-            "Noto Serif Display"
+            "Noto Serif Display",
         ],
-        "atj_Latn": [
+        atj_Latn: [
             "Noto Sans",
             "Noto Sans Display",
             "Noto Sans Mono",
             "Noto Serif",
-            "Noto Serif Display"
+            "Noto Serif Display",
         ],
-        "auc_Latn": [
+        auc_Latn: [
             "Noto Music",
             "Noto Sans",
             "Noto Sans Cypro Minoan",
@@ -619,29 +619,29 @@
             "Noto Serif Display",
             "Noto Serif Khitan Small Script",
             "Noto Serif Ottoman Siyaq",
-            "Noto Znamenny Musical Notation"
+            "Noto Znamenny Musical Notation",
         ],
-        "av_Cyrl": [
+        av_Cyrl: [
             "Noto Sans",
             "Noto Sans Display",
             "Noto Sans Mono",
             "Noto Serif",
-            "Noto Serif Display"
+            "Noto Serif Display",
         ],
-        "avk_Latn": [
+        avk_Latn: [
             "Noto Sans",
             "Noto Sans Display",
             "Noto Sans Mono",
             "Noto Serif",
-            "Noto Serif Display"
+            "Noto Serif Display",
         ],
-        "awa_Deva": [
+        awa_Deva: [
             "Noto Sans",
             "Noto Sans Devanagari",
             "Noto Sans Devanagari UI",
-            "Noto Serif Devanagari"
+            "Noto Serif Devanagari",
         ],
-        "awo_Latn": [
+        awo_Latn: [
             "Noto Music",
             "Noto Sans Cypro Minoan",
             "Noto Sans Indic Siyaq Numbers",
@@ -651,68 +651,9 @@
             "Noto Sans Symbols 2",
             "Noto Serif Khitan Small Script",
             "Noto Serif Ottoman Siyaq",
-            "Noto Znamenny Musical Notation"
+            "Noto Znamenny Musical Notation",
         ],
-        "ay_Latn": [
-            "Noto Music",
-            "Noto Sans",
-            "Noto Sans Cypro Minoan",
-            "Noto Sans Display",
-            "Noto Sans Indic Siyaq Numbers",
-            "Noto Sans Mayan Numerals",
-            "Noto Sans Mono",
-            "Noto Sans SignWriting",
-            "Noto Sans Symbols",
-            "Noto Sans Symbols 2",
-            "Noto Serif",
-            "Noto Serif Display",
-            "Noto Serif Khitan Small Script",
-            "Noto Serif Ottoman Siyaq",
-            "Noto Znamenny Musical Notation"
-        ],
-        "az_Arab": [
-            "Noto Kufi Arabic",
-            "Noto Naskh Arabic",
-            "Noto Naskh Arabic UI",
-            "Noto Sans Arabic",
-            "Noto Sans Arabic UI"
-        ],
-        "az_Cyrl": [
-            "Noto Sans",
-            "Noto Sans Display",
-            "Noto Sans Mono",
-            "Noto Serif",
-            "Noto Serif Display"
-        ],
-        "az_Latn": [
-            "Noto Sans",
-            "Noto Sans Display",
-            "Noto Sans Mono",
-            "Noto Serif",
-            "Noto Serif Display"
-        ],
-        "azb_Arab": [
-            "Noto Kufi Arabic",
-            "Noto Naskh Arabic",
-            "Noto Naskh Arabic UI",
-            "Noto Sans Arabic",
-            "Noto Sans Arabic UI"
-        ],
-        "azj_Cyrl": [
-            "Noto Sans",
-            "Noto Sans Display",
-            "Noto Sans Mono",
-            "Noto Serif",
-            "Noto Serif Display"
-        ],
-        "ba_Cyrl": [
-            "Noto Sans",
-            "Noto Sans Display",
-            "Noto Sans Mono",
-            "Noto Serif",
-            "Noto Serif Display"
-        ],
-        "ba_Latn": [
+        ay_Latn: [
             "Noto Music",
             "Noto Sans",
             "Noto Sans Cypro Minoan",
@@ -727,24 +668,51 @@
             "Noto Serif Display",
             "Noto Serif Khitan Small Script",
             "Noto Serif Ottoman Siyaq",
-            "Noto Znamenny Musical Notation"
+            "Noto Znamenny Musical Notation",
         ],
-        "bal_Arab": [
+        az_Arab: [
             "Noto Kufi Arabic",
             "Noto Naskh Arabic",
             "Noto Naskh Arabic UI",
             "Noto Sans Arabic",
-            "Noto Sans Arabic UI"
+            "Noto Sans Arabic UI",
         ],
-        "bal_Latn": [
+        az_Cyrl: [
             "Noto Sans",
             "Noto Sans Display",
             "Noto Sans Mono",
             "Noto Serif",
-            "Noto Serif Display"
+            "Noto Serif Display",
         ],
-        "ban_Bali": ["Noto Sans Balinese", "Noto Serif Balinese"],
-        "ban_Latn": [
+        az_Latn: [
+            "Noto Sans",
+            "Noto Sans Display",
+            "Noto Sans Mono",
+            "Noto Serif",
+            "Noto Serif Display",
+        ],
+        azb_Arab: [
+            "Noto Kufi Arabic",
+            "Noto Naskh Arabic",
+            "Noto Naskh Arabic UI",
+            "Noto Sans Arabic",
+            "Noto Sans Arabic UI",
+        ],
+        azj_Cyrl: [
+            "Noto Sans",
+            "Noto Sans Display",
+            "Noto Sans Mono",
+            "Noto Serif",
+            "Noto Serif Display",
+        ],
+        ba_Cyrl: [
+            "Noto Sans",
+            "Noto Sans Display",
+            "Noto Sans Mono",
+            "Noto Serif",
+            "Noto Serif Display",
+        ],
+        ba_Latn: [
             "Noto Music",
             "Noto Sans",
             "Noto Sans Cypro Minoan",
@@ -759,30 +727,62 @@
             "Noto Serif Display",
             "Noto Serif Khitan Small Script",
             "Noto Serif Ottoman Siyaq",
-            "Noto Znamenny Musical Notation"
+            "Noto Znamenny Musical Notation",
         ],
-        "bap_Deva": [
+        bal_Arab: [
+            "Noto Kufi Arabic",
+            "Noto Naskh Arabic",
+            "Noto Naskh Arabic UI",
+            "Noto Sans Arabic",
+            "Noto Sans Arabic UI",
+        ],
+        bal_Latn: [
+            "Noto Sans",
+            "Noto Sans Display",
+            "Noto Sans Mono",
+            "Noto Serif",
+            "Noto Serif Display",
+        ],
+        ban_Bali: ["Noto Sans Balinese", "Noto Serif Balinese"],
+        ban_Latn: [
+            "Noto Music",
+            "Noto Sans",
+            "Noto Sans Cypro Minoan",
+            "Noto Sans Display",
+            "Noto Sans Indic Siyaq Numbers",
+            "Noto Sans Mayan Numerals",
+            "Noto Sans Mono",
+            "Noto Sans SignWriting",
+            "Noto Sans Symbols",
+            "Noto Sans Symbols 2",
+            "Noto Serif",
+            "Noto Serif Display",
+            "Noto Serif Khitan Small Script",
+            "Noto Serif Ottoman Siyaq",
+            "Noto Znamenny Musical Notation",
+        ],
+        bap_Deva: [
             "Noto Sans",
             "Noto Sans Devanagari",
             "Noto Sans Devanagari UI",
-            "Noto Serif Devanagari"
+            "Noto Serif Devanagari",
         ],
-        "bar_Latn": [
+        bar_Latn: [
             "Noto Sans",
             "Noto Sans Display",
             "Noto Sans Mono",
             "Noto Serif",
-            "Noto Serif Display"
+            "Noto Serif Display",
         ],
-        "bas_Latn": [
+        bas_Latn: [
             "Noto Sans",
             "Noto Sans Display",
             "Noto Sans Mono",
             "Noto Serif",
-            "Noto Serif Display"
+            "Noto Serif Display",
         ],
-        "bax_Bamu": ["Noto Sans Bamum"],
-        "bax_Latn": [
+        bax_Bamu: ["Noto Sans Bamum"],
+        bax_Latn: [
             "Noto Music",
             "Noto Sans",
             "Noto Sans Cypro Minoan",
@@ -797,9 +797,9 @@
             "Noto Serif Display",
             "Noto Serif Khitan Small Script",
             "Noto Serif Ottoman Siyaq",
-            "Noto Znamenny Musical Notation"
+            "Noto Znamenny Musical Notation",
         ],
-        "bba_Latn": [
+        bba_Latn: [
             "Noto Music",
             "Noto Sans",
             "Noto Sans Cypro Minoan",
@@ -813,10 +813,10 @@
             "Noto Serif",
             "Noto Serif Display",
             "Noto Serif Khitan Small Script",
-            "Noto Serif Ottoman Siyaq"
+            "Noto Serif Ottoman Siyaq",
         ],
-        "bbc_Batk": ["Noto Sans Batak"],
-        "bbc_Latn": [
+        bbc_Batk: ["Noto Sans Batak"],
+        bbc_Latn: [
             "Noto Music",
             "Noto Sans",
             "Noto Sans Cypro Minoan",
@@ -832,16 +832,16 @@
             "Noto Serif Display",
             "Noto Serif Khitan Small Script",
             "Noto Serif Ottoman Siyaq",
-            "Noto Znamenny Musical Notation"
+            "Noto Znamenny Musical Notation",
         ],
-        "bbj_Latn": [
+        bbj_Latn: [
             "Noto Sans",
             "Noto Sans Display",
             "Noto Sans Mono",
             "Noto Serif",
-            "Noto Serif Display"
+            "Noto Serif Display",
         ],
-        "bbp_Latn": [
+        bbp_Latn: [
             "Noto Music",
             "Noto Sans Cypro Minoan",
             "Noto Sans Indic Siyaq Numbers",
@@ -851,16 +851,16 @@
             "Noto Sans Symbols 2",
             "Noto Serif Khitan Small Script",
             "Noto Serif Ottoman Siyaq",
-            "Noto Znamenny Musical Notation"
+            "Noto Znamenny Musical Notation",
         ],
-        "bci_Latn": [
+        bci_Latn: [
             "Noto Sans",
             "Noto Sans Display",
             "Noto Sans Mono",
             "Noto Serif",
-            "Noto Serif Display"
+            "Noto Serif Display",
         ],
-        "bcq_Latn": [
+        bcq_Latn: [
             "Noto Music",
             "Noto Sans Cypro Minoan",
             "Noto Sans Indic Siyaq Numbers",
@@ -870,16 +870,16 @@
             "Noto Sans Symbols 2",
             "Noto Serif Khitan Small Script",
             "Noto Serif Ottoman Siyaq",
-            "Noto Znamenny Musical Notation"
+            "Noto Znamenny Musical Notation",
         ],
-        "be_Cyrl": [
+        be_Cyrl: [
             "Noto Sans",
             "Noto Sans Display",
             "Noto Sans Mono",
             "Noto Serif",
-            "Noto Serif Display"
+            "Noto Serif Display",
         ],
-        "be_Latn": [
+        be_Latn: [
             "Noto Music",
             "Noto Sans",
             "Noto Sans Cypro Minoan",
@@ -894,16 +894,16 @@
             "Noto Serif Display",
             "Noto Serif Khitan Small Script",
             "Noto Serif Ottoman Siyaq",
-            "Noto Znamenny Musical Notation"
+            "Noto Znamenny Musical Notation",
         ],
-        "bej_Arab": [
+        bej_Arab: [
             "Noto Kufi Arabic",
             "Noto Naskh Arabic",
             "Noto Naskh Arabic UI",
             "Noto Sans Arabic",
-            "Noto Sans Arabic UI"
+            "Noto Sans Arabic UI",
         ],
-        "bej_Latn": [
+        bej_Latn: [
             "Noto Music",
             "Noto Sans Cypro Minoan",
             "Noto Sans Indic Siyaq Numbers",
@@ -913,9 +913,9 @@
             "Noto Sans Symbols 2",
             "Noto Serif Khitan Small Script",
             "Noto Serif Ottoman Siyaq",
-            "Noto Znamenny Musical Notation"
+            "Noto Znamenny Musical Notation",
         ],
-        "bem_Latn": [
+        bem_Latn: [
             "Noto Music",
             "Noto Sans",
             "Noto Sans Cypro Minoan",
@@ -931,24 +931,24 @@
             "Noto Serif Display",
             "Noto Serif Khitan Small Script",
             "Noto Serif Ottoman Siyaq",
-            "Noto Znamenny Musical Notation"
+            "Noto Znamenny Musical Notation",
         ],
-        "ber_Arab": [
+        ber_Arab: [
             "Noto Kufi Arabic",
             "Noto Naskh Arabic",
             "Noto Naskh Arabic UI",
             "Noto Sans Arabic",
-            "Noto Sans Arabic UI"
+            "Noto Sans Arabic UI",
         ],
-        "ber_Latn": [
+        ber_Latn: [
             "Noto Sans",
             "Noto Sans Display",
             "Noto Sans Mono",
             "Noto Serif",
-            "Noto Serif Display"
+            "Noto Serif Display",
         ],
-        "ber_Tfng": ["Noto Sans Tifinagh"],
-        "bew_Latn": [
+        ber_Tfng: ["Noto Sans Tifinagh"],
+        bew_Latn: [
             "Noto Music",
             "Noto Sans",
             "Noto Sans Cypro Minoan",
@@ -963,9 +963,9 @@
             "Noto Serif Display",
             "Noto Serif Khitan Small Script",
             "Noto Serif Ottoman Siyaq",
-            "Noto Znamenny Musical Notation"
+            "Noto Znamenny Musical Notation",
         ],
-        "bez_Latn": [
+        bez_Latn: [
             "Noto Music",
             "Noto Sans",
             "Noto Sans Cypro Minoan",
@@ -981,9 +981,9 @@
             "Noto Serif Display",
             "Noto Serif Khitan Small Script",
             "Noto Serif Ottoman Siyaq",
-            "Noto Znamenny Musical Notation"
+            "Noto Znamenny Musical Notation",
         ],
-        "bfa_Latn": [
+        bfa_Latn: [
             "Noto Music",
             "Noto Sans",
             "Noto Sans Cypro Minoan",
@@ -998,89 +998,89 @@
             "Noto Serif Display",
             "Noto Serif Khitan Small Script",
             "Noto Serif Ottoman Siyaq",
-            "Noto Znamenny Musical Notation"
+            "Noto Znamenny Musical Notation",
         ],
-        "bfd_Latn": [
+        bfd_Latn: [
             "Noto Sans",
             "Noto Sans Display",
             "Noto Sans Mono",
             "Noto Serif",
-            "Noto Serif Display"
+            "Noto Serif Display",
         ],
-        "bfq_Taml": [
+        bfq_Taml: [
             "Noto Sans Tamil",
             "Noto Sans Tamil Supplement",
             "Noto Sans Tamil UI",
-            "Noto Serif Tamil"
+            "Noto Serif Tamil",
         ],
-        "bft_Arab": [
+        bft_Arab: [
             "Noto Kufi Arabic",
             "Noto Naskh Arabic",
             "Noto Naskh Arabic UI",
             "Noto Sans Arabic",
-            "Noto Sans Arabic UI"
+            "Noto Sans Arabic UI",
         ],
-        "bft_Tibt": ["Noto Serif Tibetan"],
-        "bfy_Deva": [
+        bft_Tibt: ["Noto Serif Tibetan"],
+        bfy_Deva: [
             "Noto Sans",
             "Noto Sans Devanagari",
             "Noto Sans Devanagari UI",
-            "Noto Serif Devanagari"
+            "Noto Serif Devanagari",
         ],
-        "bg_Cyrl": [
+        bg_Cyrl: [
             "Noto Sans",
             "Noto Sans Display",
             "Noto Sans Mono",
             "Noto Serif",
-            "Noto Serif Display"
+            "Noto Serif Display",
         ],
-        "bgc_Deva": [
+        bgc_Deva: [
             "Noto Sans",
             "Noto Sans Devanagari",
             "Noto Sans Devanagari UI",
-            "Noto Serif Devanagari"
+            "Noto Serif Devanagari",
         ],
-        "bgn_Arab": [
+        bgn_Arab: [
             "Noto Kufi Arabic",
             "Noto Naskh Arabic",
             "Noto Naskh Arabic UI",
             "Noto Sans Arabic",
-            "Noto Sans Arabic UI"
+            "Noto Sans Arabic UI",
         ],
-        "bgx_Grek": [
+        bgx_Grek: [
             "Noto Sans",
             "Noto Sans Display",
             "Noto Sans Mono",
             "Noto Serif",
-            "Noto Serif Display"
+            "Noto Serif Display",
         ],
-        "bhb_Deva": [
+        bhb_Deva: [
             "Noto Sans",
             "Noto Sans Devanagari",
             "Noto Sans Devanagari UI",
-            "Noto Serif Devanagari"
+            "Noto Serif Devanagari",
         ],
-        "bhi_Deva": [
+        bhi_Deva: [
             "Noto Sans",
             "Noto Sans Devanagari",
             "Noto Sans Devanagari UI",
-            "Noto Serif Devanagari"
+            "Noto Serif Devanagari",
         ],
-        "bhk_Latn": [
+        bhk_Latn: [
             "Noto Sans",
             "Noto Sans Display",
             "Noto Sans Mono",
             "Noto Serif",
-            "Noto Serif Display"
+            "Noto Serif Display",
         ],
-        "bho_Deva": [
+        bho_Deva: [
             "Noto Sans",
             "Noto Sans Devanagari",
             "Noto Sans Devanagari UI",
-            "Noto Serif Devanagari"
+            "Noto Serif Devanagari",
         ],
-        "bho_Kthi": ["Noto Sans Kaithi"],
-        "bi_Latn": [
+        bho_Kthi: ["Noto Sans Kaithi"],
+        bi_Latn: [
             "Noto Music",
             "Noto Sans",
             "Noto Sans Cypro Minoan",
@@ -1096,9 +1096,9 @@
             "Noto Serif Display",
             "Noto Serif Khitan Small Script",
             "Noto Serif Ottoman Siyaq",
-            "Noto Znamenny Musical Notation"
+            "Noto Znamenny Musical Notation",
         ],
-        "bik_Latn": [
+        bik_Latn: [
             "Noto Music",
             "Noto Sans",
             "Noto Sans Cypro Minoan",
@@ -1114,84 +1114,80 @@
             "Noto Serif Display",
             "Noto Serif Khitan Small Script",
             "Noto Serif Ottoman Siyaq",
-            "Noto Znamenny Musical Notation"
+            "Noto Znamenny Musical Notation",
         ],
-        "bin_Latn": [
+        bin_Latn: [
             "Noto Sans",
             "Noto Sans Display",
             "Noto Sans Mono",
             "Noto Serif",
-            "Noto Serif Display"
+            "Noto Serif Display",
         ],
-        "bjj_Deva": [
+        bjj_Deva: [
             "Noto Sans",
             "Noto Sans Devanagari",
             "Noto Sans Devanagari UI",
-            "Noto Serif Devanagari"
+            "Noto Serif Devanagari",
         ],
-        "bjn_Latn": [
+        bjn_Latn: [
             "Noto Sans",
             "Noto Sans Display",
             "Noto Sans Mono",
             "Noto Serif",
-            "Noto Serif Display"
+            "Noto Serif Display",
         ],
-        "bjt_Latn": [
+        bjt_Latn: [
             "Noto Sans",
             "Noto Sans Display",
             "Noto Sans Mono",
             "Noto Serif",
-            "Noto Serif Display"
+            "Noto Serif Display",
         ],
-        "bkm_Latn": [
+        bkm_Latn: [
             "Noto Sans",
             "Noto Sans Display",
             "Noto Sans Mono",
             "Noto Serif",
-            "Noto Serif Display"
+            "Noto Serif Display",
         ],
-        "bku_Buhd": ["Noto Sans Buhid"],
-        "bku_Latn": [
+        bku_Buhd: ["Noto Sans Buhid"],
+        bku_Latn: [
             "Noto Sans",
             "Noto Sans Display",
             "Noto Sans Mono",
             "Noto Serif",
-            "Noto Serif Display"
+            "Noto Serif Display",
         ],
-        "bla_Latn": [
+        bla_Latn: [
             "Noto Sans",
             "Noto Sans Display",
             "Noto Sans Mono",
             "Noto Serif",
-            "Noto Serif Display"
+            "Noto Serif Display",
         ],
-        "blt_Tavt": ["Noto Sans Tai Viet"],
-        "bm_Latn": [
+        blt_Tavt: ["Noto Sans Tai Viet"],
+        bm_Latn: [
             "Noto Sans",
             "Noto Sans Display",
             "Noto Sans Mono",
             "Noto Serif",
-            "Noto Serif Display"
+            "Noto Serif Display",
         ],
-        "bm_Nkoo": [
-            "Noto Sans N Ko",
-            "Noto Sans NKo",
-            "Noto Sans NKo Unjoined"
-        ],
-        "bmq_Latn": [
+        bm_Nkoo: ["Noto Sans N Ko", "Noto Sans NKo", "Noto Sans NKo Unjoined"],
+        bmq_Latn: [
             "Noto Sans",
             "Noto Sans Display",
             "Noto Sans Mono",
             "Noto Serif",
-            "Noto Serif Display"
+            "Noto Serif Display",
         ],
-        "bn_Beng": [
+        bn_Beng: [
             "Noto Sans Bengali",
             "Noto Sans Bengali UI",
-            "Noto Serif Bengali"
+            "Noto Serif Bengali",
         ],
-        "bn_Newa": ["Noto Sans Newa"],
-        "bng_Latn": [
+        bn_Newa: ["Noto Sans Newa"],
+        bng_Latn: [
             "Noto Music",
             "Noto Sans Cypro Minoan",
             "Noto Sans Indic Siyaq Numbers",
@@ -1201,9 +1197,9 @@
             "Noto Sans Symbols 2",
             "Noto Serif Khitan Small Script",
             "Noto Serif Ottoman Siyaq",
-            "Noto Znamenny Musical Notation"
+            "Noto Znamenny Musical Notation",
         ],
-        "bnm_Latn": [
+        bnm_Latn: [
             "Noto Music",
             "Noto Sans Cypro Minoan",
             "Noto Sans Indic Siyaq Numbers",
@@ -1213,38 +1209,38 @@
             "Noto Sans Symbols 2",
             "Noto Serif Khitan Small Script",
             "Noto Serif Ottoman Siyaq",
-            "Noto Znamenny Musical Notation"
+            "Noto Znamenny Musical Notation",
         ],
-        "bo_Marc": ["Noto Sans Marchen"],
-        "bo_Tibt": ["Noto Serif Tibetan"],
-        "bo_Zanb": ["Noto Sans Zanabazar Square"],
-        "boa_Latn": [
+        bo_Marc: ["Noto Sans Marchen"],
+        bo_Tibt: ["Noto Serif Tibetan"],
+        bo_Zanb: ["Noto Sans Zanabazar Square"],
+        boa_Latn: [
             "Noto Sans",
             "Noto Sans Display",
             "Noto Sans Mono",
             "Noto Serif",
-            "Noto Serif Display"
+            "Noto Serif Display",
         ],
-        "bpy_Beng": [
+        bpy_Beng: [
             "Noto Sans Bengali",
             "Noto Sans Bengali UI",
-            "Noto Serif Bengali"
+            "Noto Serif Bengali",
         ],
-        "bqi_Arab": [
+        bqi_Arab: [
             "Noto Kufi Arabic",
             "Noto Naskh Arabic",
             "Noto Naskh Arabic UI",
             "Noto Sans Arabic",
-            "Noto Sans Arabic UI"
+            "Noto Sans Arabic UI",
         ],
-        "bqv_Latn": [
+        bqv_Latn: [
             "Noto Sans",
             "Noto Sans Display",
             "Noto Sans Mono",
             "Noto Serif",
-            "Noto Serif Display"
+            "Noto Serif Display",
         ],
-        "br_Latn": [
+        br_Latn: [
             "Noto Music",
             "Noto Sans",
             "Noto Sans Cypro Minoan",
@@ -1259,22 +1255,22 @@
             "Noto Serif Display",
             "Noto Serif Khitan Small Script",
             "Noto Serif Ottoman Siyaq",
-            "Noto Znamenny Musical Notation"
+            "Noto Znamenny Musical Notation",
         ],
-        "bra_Deva": [
+        bra_Deva: [
             "Noto Sans",
             "Noto Sans Devanagari",
             "Noto Sans Devanagari UI",
-            "Noto Serif Devanagari"
+            "Noto Serif Devanagari",
         ],
-        "brh_Arab": [
+        brh_Arab: [
             "Noto Kufi Arabic",
             "Noto Naskh Arabic",
             "Noto Naskh Arabic UI",
             "Noto Sans Arabic",
-            "Noto Sans Arabic UI"
+            "Noto Sans Arabic UI",
         ],
-        "brh_Latn": [
+        brh_Latn: [
             "Noto Music",
             "Noto Sans",
             "Noto Sans Cypro Minoan",
@@ -1289,20 +1285,20 @@
             "Noto Serif Display",
             "Noto Serif Khitan Small Script",
             "Noto Serif Ottoman Siyaq",
-            "Noto Znamenny Musical Notation"
+            "Noto Znamenny Musical Notation",
         ],
-        "brx_Beng": [
+        brx_Beng: [
             "Noto Sans Bengali",
             "Noto Sans Bengali UI",
-            "Noto Serif Bengali"
+            "Noto Serif Bengali",
         ],
-        "brx_Deva": [
+        brx_Deva: [
             "Noto Sans",
             "Noto Sans Devanagari",
             "Noto Sans Devanagari UI",
-            "Noto Serif Devanagari"
+            "Noto Serif Devanagari",
         ],
-        "brx_Latn": [
+        brx_Latn: [
             "Noto Music",
             "Noto Sans",
             "Noto Sans Cypro Minoan",
@@ -1317,16 +1313,16 @@
             "Noto Serif Display",
             "Noto Serif Khitan Small Script",
             "Noto Serif Ottoman Siyaq",
-            "Noto Znamenny Musical Notation"
+            "Noto Znamenny Musical Notation",
         ],
-        "bs_Cyrl": [
+        bs_Cyrl: [
             "Noto Sans",
             "Noto Sans Display",
             "Noto Sans Mono",
             "Noto Serif",
-            "Noto Serif Display"
+            "Noto Serif Display",
         ],
-        "bs_Latn": [
+        bs_Latn: [
             "Noto Music",
             "Noto Sans",
             "Noto Sans Cypro Minoan",
@@ -1341,16 +1337,16 @@
             "Noto Serif Display",
             "Noto Serif Khitan Small Script",
             "Noto Serif Ottoman Siyaq",
-            "Noto Znamenny Musical Notation"
+            "Noto Znamenny Musical Notation",
         ],
-        "bsc_Latn": [
+        bsc_Latn: [
             "Noto Sans",
             "Noto Sans Display",
             "Noto Sans Mono",
             "Noto Serif",
-            "Noto Serif Display"
+            "Noto Serif Display",
         ],
-        "bsj_Latn": [
+        bsj_Latn: [
             "Noto Music",
             "Noto Sans Cypro Minoan",
             "Noto Sans Indic Siyaq Numbers",
@@ -1360,17 +1356,17 @@
             "Noto Sans Symbols 2",
             "Noto Serif Khitan Small Script",
             "Noto Serif Ottoman Siyaq",
-            "Noto Znamenny Musical Notation"
+            "Noto Znamenny Musical Notation",
         ],
-        "bsq_Bass": ["Noto Sans Bassa Vah"],
-        "bss_Latn": [
+        bsq_Bass: ["Noto Sans Bassa Vah"],
+        bss_Latn: [
             "Noto Sans",
             "Noto Sans Display",
             "Noto Sans Mono",
             "Noto Serif",
-            "Noto Serif Display"
+            "Noto Serif Display",
         ],
-        "bto_Latn": [
+        bto_Latn: [
             "Noto Music",
             "Noto Sans",
             "Noto Sans Cypro Minoan",
@@ -1386,72 +1382,37 @@
             "Noto Serif Display",
             "Noto Serif Khitan Small Script",
             "Noto Serif Ottoman Siyaq",
-            "Noto Znamenny Musical Notation"
+            "Noto Znamenny Musical Notation",
         ],
-        "btv_Deva": [
+        btv_Deva: [
             "Noto Sans",
             "Noto Sans Devanagari",
             "Noto Sans Devanagari UI",
-            "Noto Serif Devanagari"
+            "Noto Serif Devanagari",
         ],
-        "bua_Cyrl": [
+        bua_Cyrl: [
             "Noto Sans",
             "Noto Sans Display",
             "Noto Sans Mono",
-            "Noto Serif",
-            "Noto Serif Display"
-        ],
-        "buc_Latn": [
-            "Noto Sans",
-            "Noto Sans Display",
-            "Noto Sans Mono",
-            "Noto Serif",
-            "Noto Serif Display"
-        ],
-        "bug_Bugi": ["Noto Sans Buginese"],
-        "bug_Latn": [
-            "Noto Sans",
-            "Noto Sans Display",
-            "Noto Sans Mono",
-            "Noto Serif",
-            "Noto Serif Display"
-        ],
-        "bum_Latn": [
-            "Noto Music",
-            "Noto Sans",
-            "Noto Sans Cypro Minoan",
-            "Noto Sans Display",
-            "Noto Sans Indic Siyaq Numbers",
-            "Noto Sans Mayan Numerals",
-            "Noto Sans Mono",
-            "Noto Sans SignWriting",
-            "Noto Sans Symbols",
-            "Noto Sans Symbols 2",
             "Noto Serif",
             "Noto Serif Display",
-            "Noto Serif Khitan Small Script",
-            "Noto Serif Ottoman Siyaq"
         ],
-        "bus_Latn": [
-            "Noto Music",
-            "Noto Sans Cypro Minoan",
-            "Noto Sans Indic Siyaq Numbers",
-            "Noto Sans Mayan Numerals",
-            "Noto Sans SignWriting",
-            "Noto Sans Symbols",
-            "Noto Sans Symbols 2",
-            "Noto Serif Khitan Small Script",
-            "Noto Serif Ottoman Siyaq",
-            "Noto Znamenny Musical Notation"
-        ],
-        "bvb_Latn": [
+        buc_Latn: [
             "Noto Sans",
             "Noto Sans Display",
             "Noto Sans Mono",
             "Noto Serif",
-            "Noto Serif Display"
+            "Noto Serif Display",
         ],
-        "bvi_Latn": [
+        bug_Bugi: ["Noto Sans Buginese"],
+        bug_Latn: [
+            "Noto Sans",
+            "Noto Sans Display",
+            "Noto Sans Mono",
+            "Noto Serif",
+            "Noto Serif Display",
+        ],
+        bum_Latn: [
             "Noto Music",
             "Noto Sans",
             "Noto Sans Cypro Minoan",
@@ -1466,23 +1427,58 @@
             "Noto Serif Display",
             "Noto Serif Khitan Small Script",
             "Noto Serif Ottoman Siyaq",
-            "Noto Znamenny Musical Notation"
         ],
-        "bwy_Latn": [
+        bus_Latn: [
+            "Noto Music",
+            "Noto Sans Cypro Minoan",
+            "Noto Sans Indic Siyaq Numbers",
+            "Noto Sans Mayan Numerals",
+            "Noto Sans SignWriting",
+            "Noto Sans Symbols",
+            "Noto Sans Symbols 2",
+            "Noto Serif Khitan Small Script",
+            "Noto Serif Ottoman Siyaq",
+            "Noto Znamenny Musical Notation",
+        ],
+        bvb_Latn: [
             "Noto Sans",
             "Noto Sans Display",
             "Noto Sans Mono",
             "Noto Serif",
-            "Noto Serif Display"
+            "Noto Serif Display",
         ],
-        "byh_Deva": [
+        bvi_Latn: [
+            "Noto Music",
+            "Noto Sans",
+            "Noto Sans Cypro Minoan",
+            "Noto Sans Display",
+            "Noto Sans Indic Siyaq Numbers",
+            "Noto Sans Mayan Numerals",
+            "Noto Sans Mono",
+            "Noto Sans SignWriting",
+            "Noto Sans Symbols",
+            "Noto Sans Symbols 2",
+            "Noto Serif",
+            "Noto Serif Display",
+            "Noto Serif Khitan Small Script",
+            "Noto Serif Ottoman Siyaq",
+            "Noto Znamenny Musical Notation",
+        ],
+        bwy_Latn: [
+            "Noto Sans",
+            "Noto Sans Display",
+            "Noto Sans Mono",
+            "Noto Serif",
+            "Noto Serif Display",
+        ],
+        byh_Deva: [
             "Noto Sans",
             "Noto Sans Devanagari",
             "Noto Sans Devanagari UI",
-            "Noto Serif Devanagari"
+            "Noto Serif Devanagari",
         ],
-        "byn_Ethi": ["Noto Sans Ethiopic", "Noto Serif Ethiopic"],
-        "byn_Latn": [
+        byn_Ethi: ["Noto Sans Ethiopic", "Noto Serif Ethiopic"],
+        byn_Latn: [
             "Noto Music",
             "Noto Sans Cypro Minoan",
             "Noto Sans Indic Siyaq Numbers",
@@ -1492,30 +1488,30 @@
             "Noto Sans Symbols 2",
             "Noto Serif Khitan Small Script",
             "Noto Serif Ottoman Siyaq",
-            "Noto Znamenny Musical Notation"
+            "Noto Znamenny Musical Notation",
         ],
-        "byv_Latn": [
+        byv_Latn: [
             "Noto Sans",
             "Noto Sans Display",
             "Noto Sans Mono",
             "Noto Serif",
-            "Noto Serif Display"
+            "Noto Serif Display",
         ],
-        "bze_Latn": [
+        bze_Latn: [
             "Noto Sans",
             "Noto Sans Display",
             "Noto Sans Mono",
             "Noto Serif",
-            "Noto Serif Display"
+            "Noto Serif Display",
         ],
-        "bzx_Latn": [
+        bzx_Latn: [
             "Noto Sans",
             "Noto Sans Display",
             "Noto Sans Mono",
             "Noto Serif",
-            "Noto Serif Display"
+            "Noto Serif Display",
         ],
-        "ca_Latn": [
+        ca_Latn: [
             "Noto Music",
             "Noto Sans",
             "Noto Sans Cypro Minoan",
@@ -1530,9 +1526,9 @@
             "Noto Serif Display",
             "Noto Serif Khitan Small Script",
             "Noto Serif Ottoman Siyaq",
-            "Noto Znamenny Musical Notation"
+            "Noto Znamenny Musical Notation",
         ],
-        "cab_Latn": [
+        cab_Latn: [
             "Noto Music",
             "Noto Sans",
             "Noto Sans Cypro Minoan",
@@ -1547,16 +1543,16 @@
             "Noto Serif Display",
             "Noto Serif Khitan Small Script",
             "Noto Serif Ottoman Siyaq",
-            "Noto Znamenny Musical Notation"
+            "Noto Znamenny Musical Notation",
         ],
-        "cad_Latn": [
+        cad_Latn: [
             "Noto Sans",
             "Noto Sans Display",
             "Noto Sans Mono",
             "Noto Serif",
-            "Noto Serif Display"
+            "Noto Serif Display",
         ],
-        "cak_Latn": [
+        cak_Latn: [
             "Noto Music",
             "Noto Sans",
             "Noto Sans Cypro Minoan",
@@ -1571,23 +1567,23 @@
             "Noto Serif Display",
             "Noto Serif Khitan Small Script",
             "Noto Serif Ottoman Siyaq",
-            "Noto Znamenny Musical Notation"
+            "Noto Znamenny Musical Notation",
         ],
-        "car_Latn": [
+        car_Latn: [
             "Noto Sans",
             "Noto Sans Display",
             "Noto Sans Mono",
             "Noto Serif",
-            "Noto Serif Display"
+            "Noto Serif Display",
         ],
-        "cay_Latn": [
+        cay_Latn: [
             "Noto Sans",
             "Noto Sans Display",
             "Noto Sans Mono",
             "Noto Serif",
-            "Noto Serif Display"
+            "Noto Serif Display",
         ],
-        "cbi_Latn": [
+        cbi_Latn: [
             "Noto Music",
             "Noto Sans",
             "Noto Sans Cypro Minoan",
@@ -1602,9 +1598,9 @@
             "Noto Serif Display",
             "Noto Serif Khitan Small Script",
             "Noto Serif Ottoman Siyaq",
-            "Noto Znamenny Musical Notation"
+            "Noto Znamenny Musical Notation",
         ],
-        "cbk_Latn": [
+        cbk_Latn: [
             "Noto Music",
             "Noto Sans",
             "Noto Sans Cypro Minoan",
@@ -1619,9 +1615,9 @@
             "Noto Serif Display",
             "Noto Serif Khitan Small Script",
             "Noto Serif Ottoman Siyaq",
-            "Noto Znamenny Musical Notation"
+            "Noto Znamenny Musical Notation",
         ],
-        "cbr_Latn": [
+        cbr_Latn: [
             "Noto Music",
             "Noto Sans",
             "Noto Sans Cypro Minoan",
@@ -1636,9 +1632,9 @@
             "Noto Serif Display",
             "Noto Serif Khitan Small Script",
             "Noto Serif Ottoman Siyaq",
-            "Noto Znamenny Musical Notation"
+            "Noto Znamenny Musical Notation",
         ],
-        "cbs_Latn": [
+        cbs_Latn: [
             "Noto Music",
             "Noto Sans",
             "Noto Sans Cypro Minoan",
@@ -1653,9 +1649,9 @@
             "Noto Serif Display",
             "Noto Serif Khitan Small Script",
             "Noto Serif Ottoman Siyaq",
-            "Noto Znamenny Musical Notation"
+            "Noto Znamenny Musical Notation",
         ],
-        "cbt_Latn": [
+        cbt_Latn: [
             "Noto Music",
             "Noto Sans",
             "Noto Sans Cypro Minoan",
@@ -1670,9 +1666,9 @@
             "Noto Serif Display",
             "Noto Serif Khitan Small Script",
             "Noto Serif Ottoman Siyaq",
-            "Noto Znamenny Musical Notation"
+            "Noto Znamenny Musical Notation",
         ],
-        "cbu_Latn": [
+        cbu_Latn: [
             "Noto Music",
             "Noto Sans",
             "Noto Sans Cypro Minoan",
@@ -1687,29 +1683,29 @@
             "Noto Serif Display",
             "Noto Serif Khitan Small Script",
             "Noto Serif Ottoman Siyaq",
-            "Noto Znamenny Musical Notation"
+            "Noto Znamenny Musical Notation",
         ],
-        "cch_Latn": [
+        cch_Latn: [
             "Noto Sans",
             "Noto Sans Display",
             "Noto Sans Mono",
             "Noto Serif",
-            "Noto Serif Display"
+            "Noto Serif Display",
         ],
-        "ccp_Beng": [
+        ccp_Beng: [
             "Noto Sans Bengali",
             "Noto Sans Bengali UI",
-            "Noto Serif Bengali"
+            "Noto Serif Bengali",
         ],
-        "ccp_Cakm": ["Noto Sans Chakma"],
-        "ce_Cyrl": [
+        ccp_Cakm: ["Noto Sans Chakma"],
+        ce_Cyrl: [
             "Noto Sans",
             "Noto Sans Display",
             "Noto Sans Mono",
             "Noto Serif",
-            "Noto Serif Display"
+            "Noto Serif Display",
         ],
-        "ceb_Latn": [
+        ceb_Latn: [
             "Noto Music",
             "Noto Sans",
             "Noto Sans Cypro Minoan",
@@ -1725,9 +1721,9 @@
             "Noto Serif Display",
             "Noto Serif Khitan Small Script",
             "Noto Serif Ottoman Siyaq",
-            "Noto Znamenny Musical Notation"
+            "Noto Znamenny Musical Notation",
         ],
-        "cfa_Latn": [
+        cfa_Latn: [
             "Noto Music",
             "Noto Sans Cypro Minoan",
             "Noto Sans Indic Siyaq Numbers",
@@ -1737,44 +1733,9 @@
             "Noto Sans Symbols 2",
             "Noto Serif Khitan Small Script",
             "Noto Serif Ottoman Siyaq",
-            "Noto Znamenny Musical Notation"
+            "Noto Znamenny Musical Notation",
         ],
-        "cfm_Latn": [
-            "Noto Music",
-            "Noto Sans",
-            "Noto Sans Cypro Minoan",
-            "Noto Sans Display",
-            "Noto Sans Indic Siyaq Numbers",
-            "Noto Sans Mayan Numerals",
-            "Noto Sans Mono",
-            "Noto Sans SignWriting",
-            "Noto Sans Symbols",
-            "Noto Sans Symbols 2",
-            "Noto Serif",
-            "Noto Serif Display",
-            "Noto Serif Khitan Small Script",
-            "Noto Serif Ottoman Siyaq",
-            "Noto Znamenny Musical Notation"
-        ],
-        "cgg_Latn": [
-            "Noto Music",
-            "Noto Sans",
-            "Noto Sans Cypro Minoan",
-            "Noto Sans Display",
-            "Noto Sans Indic Siyaq Numbers",
-            "Noto Sans Math",
-            "Noto Sans Mayan Numerals",
-            "Noto Sans Mono",
-            "Noto Sans SignWriting",
-            "Noto Sans Symbols",
-            "Noto Sans Symbols 2",
-            "Noto Serif",
-            "Noto Serif Display",
-            "Noto Serif Khitan Small Script",
-            "Noto Serif Ottoman Siyaq",
-            "Noto Znamenny Musical Notation"
-        ],
-        "ch_Latn": [
+        cfm_Latn: [
             "Noto Music",
             "Noto Sans",
             "Noto Sans Cypro Minoan",
@@ -1789,87 +1750,9 @@
             "Noto Serif Display",
             "Noto Serif Khitan Small Script",
             "Noto Serif Ottoman Siyaq",
-            "Noto Znamenny Musical Notation"
+            "Noto Znamenny Musical Notation",
         ],
-        "chj_Latn": [
-            "Noto Music",
-            "Noto Sans",
-            "Noto Sans Cypro Minoan",
-            "Noto Sans Display",
-            "Noto Sans Indic Siyaq Numbers",
-            "Noto Sans Mayan Numerals",
-            "Noto Sans Mono",
-            "Noto Sans SignWriting",
-            "Noto Sans Symbols",
-            "Noto Sans Symbols 2",
-            "Noto Serif",
-            "Noto Serif Display",
-            "Noto Serif Khitan Small Script",
-            "Noto Serif Ottoman Siyaq",
-            "Noto Znamenny Musical Notation"
-        ],
-        "chk_Latn": [
-            "Noto Music",
-            "Noto Sans",
-            "Noto Sans Cypro Minoan",
-            "Noto Sans Display",
-            "Noto Sans Indic Siyaq Numbers",
-            "Noto Sans Mayan Numerals",
-            "Noto Sans Mono",
-            "Noto Sans SignWriting",
-            "Noto Sans Symbols",
-            "Noto Sans Symbols 2",
-            "Noto Serif",
-            "Noto Serif Display",
-            "Noto Serif Khitan Small Script",
-            "Noto Serif Ottoman Siyaq",
-            "Noto Znamenny Musical Notation"
-        ],
-        "chm_Cyrl": [
-            "Noto Sans",
-            "Noto Sans Display",
-            "Noto Sans Mono",
-            "Noto Serif",
-            "Noto Serif Display"
-        ],
-        "chn_Dupl": ["Noto Sans Duployan"],
-        "chn_Latn": [
-            "Noto Sans",
-            "Noto Sans Display",
-            "Noto Sans Mono",
-            "Noto Serif",
-            "Noto Serif Display"
-        ],
-        "cho_Latn": [
-            "Noto Sans",
-            "Noto Sans Display",
-            "Noto Sans Mono",
-            "Noto Serif",
-            "Noto Serif Display"
-        ],
-        "chp_Cans": ["Noto Sans Canadian Aboriginal"],
-        "chp_Latn": [
-            "Noto Sans",
-            "Noto Sans Display",
-            "Noto Sans Mono",
-            "Noto Serif",
-            "Noto Serif Display"
-        ],
-        "chr_Cher": ["Noto Sans Cherokee"],
-        "chx_Deva": [
-            "Noto Sans",
-            "Noto Sans Devanagari",
-            "Noto Sans Devanagari UI",
-            "Noto Serif Devanagari"
-        ],
-        "chy_Latn": [
-            "Noto Sans",
-            "Noto Sans Display",
-            "Noto Sans Mono",
-            "Noto Serif",
-            "Noto Serif Display"
-        ],
-        "cic_Latn": [
+        cgg_Latn: [
             "Noto Music",
             "Noto Sans",
             "Noto Sans Cypro Minoan",
@@ -1885,17 +1768,9 @@
             "Noto Serif Display",
             "Noto Serif Khitan Small Script",
             "Noto Serif Ottoman Siyaq",
-            "Noto Znamenny Musical Notation"
+            "Noto Znamenny Musical Notation",
         ],
-        "cja_Arab": [
-            "Noto Kufi Arabic",
-            "Noto Naskh Arabic",
-            "Noto Naskh Arabic UI",
-            "Noto Sans Arabic",
-            "Noto Sans Arabic UI"
-        ],
-        "cja_Cham": ["Noto Sans Cham"],
-        "cjk_Latn": [
+        ch_Latn: [
             "Noto Music",
             "Noto Sans",
             "Noto Sans Cypro Minoan",
@@ -1910,41 +1785,9 @@
             "Noto Serif Display",
             "Noto Serif Khitan Small Script",
             "Noto Serif Ottoman Siyaq",
-            "Noto Znamenny Musical Notation"
+            "Noto Znamenny Musical Notation",
         ],
-        "cjm_Arab": [
-            "Noto Kufi Arabic",
-            "Noto Naskh Arabic",
-            "Noto Naskh Arabic UI",
-            "Noto Sans Arabic",
-            "Noto Sans Arabic UI"
-        ],
-        "cjm_Cham": ["Noto Sans Cham"],
-        "cjs_Cyrl": [
-            "Noto Sans",
-            "Noto Sans Display",
-            "Noto Sans Mono",
-            "Noto Serif",
-            "Noto Serif Display"
-        ],
-        "cjy_Hans": ["Noto Sans SC", "Noto Serif SC"],
-        "cjy_Hant": ["Noto Sans HK", "Noto Sans TC", "Noto Serif HK"],
-        "ckb_Arab": [
-            "Noto Kufi Arabic",
-            "Noto Naskh Arabic",
-            "Noto Naskh Arabic UI",
-            "Noto Sans Arabic",
-            "Noto Sans Arabic UI"
-        ],
-        "ckt_Cyrl": [
-            "Noto Sans",
-            "Noto Sans Display",
-            "Noto Sans Mono",
-            "Noto Serif",
-            "Noto Serif Display"
-        ],
-        "cmg_Soyo": ["Noto Sans Soyombo"],
-        "cnh_Latn": [
+        chj_Latn: [
             "Noto Music",
             "Noto Sans",
             "Noto Sans Cypro Minoan",
@@ -1959,9 +1802,9 @@
             "Noto Serif Display",
             "Noto Serif Khitan Small Script",
             "Noto Serif Ottoman Siyaq",
-            "Noto Znamenny Musical Notation"
+            "Noto Znamenny Musical Notation",
         ],
-        "cni_Latn": [
+        chk_Latn: [
             "Noto Music",
             "Noto Sans",
             "Noto Sans Cypro Minoan",
@@ -1976,190 +1819,53 @@
             "Noto Serif Display",
             "Noto Serif Khitan Small Script",
             "Noto Serif Ottoman Siyaq",
-            "Noto Znamenny Musical Notation"
+            "Noto Znamenny Musical Notation",
         ],
-        "co_Latn": [
-            "Noto Music",
+        chm_Cyrl: [
             "Noto Sans",
-            "Noto Sans Cypro Minoan",
             "Noto Sans Display",
-            "Noto Sans Indic Siyaq Numbers",
-            "Noto Sans Mayan Numerals",
             "Noto Sans Mono",
-            "Noto Sans SignWriting",
-            "Noto Sans Symbols",
-            "Noto Sans Symbols 2",
             "Noto Serif",
             "Noto Serif Display",
-            "Noto Serif Khitan Small Script",
-            "Noto Serif Ottoman Siyaq",
-            "Noto Znamenny Musical Notation"
         ],
-        "cof_Latn": [
-            "Noto Music",
+        chn_Dupl: ["Noto Sans Duployan"],
+        chn_Latn: [
             "Noto Sans",
-            "Noto Sans Cypro Minoan",
             "Noto Sans Display",
-            "Noto Sans Indic Siyaq Numbers",
-            "Noto Sans Mayan Numerals",
             "Noto Sans Mono",
-            "Noto Sans SignWriting",
-            "Noto Sans Symbols",
-            "Noto Sans Symbols 2",
             "Noto Serif",
             "Noto Serif Display",
-            "Noto Serif Khitan Small Script",
-            "Noto Serif Ottoman Siyaq",
-            "Noto Znamenny Musical Notation"
         ],
-        "con_Latn": [
-            "Noto Music",
+        cho_Latn: [
             "Noto Sans",
-            "Noto Sans Cypro Minoan",
             "Noto Sans Display",
-            "Noto Sans Indic Siyaq Numbers",
-            "Noto Sans Mayan Numerals",
             "Noto Sans Mono",
-            "Noto Sans SignWriting",
-            "Noto Sans Symbols",
-            "Noto Sans Symbols 2",
             "Noto Serif",
             "Noto Serif Display",
-            "Noto Serif Khitan Small Script",
-            "Noto Serif Ottoman Siyaq",
-            "Noto Znamenny Musical Notation"
         ],
-        "cop_Arab": [
-            "Noto Kufi Arabic",
-            "Noto Naskh Arabic",
-            "Noto Naskh Arabic UI",
-            "Noto Sans Arabic",
-            "Noto Sans Arabic UI"
-        ],
-        "cop_Copt": ["Noto Sans Coptic"],
-        "cop_Grek": [
+        chp_Cans: ["Noto Sans Canadian Aboriginal"],
+        chp_Latn: [
             "Noto Sans",
             "Noto Sans Display",
             "Noto Sans Mono",
-            "Noto Serif",
-            "Noto Serif Display"
-        ],
-        "cot_Latn": [
-            "Noto Music",
-            "Noto Sans",
-            "Noto Sans Cypro Minoan",
-            "Noto Sans Display",
-            "Noto Sans Indic Siyaq Numbers",
-            "Noto Sans Mayan Numerals",
-            "Noto Sans Mono",
-            "Noto Sans SignWriting",
-            "Noto Sans Symbols",
-            "Noto Sans Symbols 2",
             "Noto Serif",
             "Noto Serif Display",
-            "Noto Serif Khitan Small Script",
-            "Noto Serif Ottoman Siyaq",
-            "Noto Znamenny Musical Notation"
         ],
-        "cpf_Latn": [
+        chr_Cher: ["Noto Sans Cherokee"],
+        chx_Deva: [
+            "Noto Sans",
+            "Noto Sans Devanagari",
+            "Noto Sans Devanagari UI",
+            "Noto Serif Devanagari",
+        ],
+        chy_Latn: [
             "Noto Sans",
             "Noto Sans Display",
             "Noto Sans Mono",
-            "Noto Serif",
-            "Noto Serif Display"
-        ],
-        "cps_Latn": [
-            "Noto Sans",
-            "Noto Sans Display",
-            "Noto Sans Mono",
-            "Noto Serif",
-            "Noto Serif Display"
-        ],
-        "cpu_Latn": [
-            "Noto Music",
-            "Noto Sans",
-            "Noto Sans Cypro Minoan",
-            "Noto Sans Display",
-            "Noto Sans Indic Siyaq Numbers",
-            "Noto Sans Mayan Numerals",
-            "Noto Sans Mono",
-            "Noto Sans SignWriting",
-            "Noto Sans Symbols",
-            "Noto Sans Symbols 2",
             "Noto Serif",
             "Noto Serif Display",
-            "Noto Serif Khitan Small Script",
-            "Noto Serif Ottoman Siyaq",
-            "Noto Znamenny Musical Notation"
         ],
-        "cr_Cans": ["Noto Sans Canadian Aboriginal"],
-        "cr_Latn": [
-            "Noto Sans",
-            "Noto Sans Display",
-            "Noto Sans Mono",
-            "Noto Serif",
-            "Noto Serif Display"
-        ],
-        "crh_Cyrl": [
-            "Noto Sans",
-            "Noto Sans Display",
-            "Noto Sans Mono",
-            "Noto Serif",
-            "Noto Serif Display"
-        ],
-        "crh_Latn": [
-            "Noto Music",
-            "Noto Sans",
-            "Noto Sans Cypro Minoan",
-            "Noto Sans Display",
-            "Noto Sans Indic Siyaq Numbers",
-            "Noto Sans Mayan Numerals",
-            "Noto Sans Mono",
-            "Noto Sans SignWriting",
-            "Noto Sans Symbols",
-            "Noto Sans Symbols 2",
-            "Noto Serif",
-            "Noto Serif Display",
-            "Noto Serif Khitan Small Script",
-            "Noto Serif Ottoman Siyaq",
-            "Noto Znamenny Musical Notation"
-        ],
-        "cri_Latn": [
-            "Noto Music",
-            "Noto Sans",
-            "Noto Sans Cypro Minoan",
-            "Noto Sans Display",
-            "Noto Sans Indic Siyaq Numbers",
-            "Noto Sans Mayan Numerals",
-            "Noto Sans Mono",
-            "Noto Sans SignWriting",
-            "Noto Sans Symbols",
-            "Noto Sans Symbols 2",
-            "Noto Serif",
-            "Noto Serif Display",
-            "Noto Serif Khitan Small Script",
-            "Noto Serif Ottoman Siyaq",
-            "Noto Znamenny Musical Notation"
-        ],
-        "crj_Cans": ["Noto Sans Canadian Aboriginal"],
-        "crj_Latn": [
-            "Noto Sans",
-            "Noto Sans Display",
-            "Noto Sans Mono",
-            "Noto Serif",
-            "Noto Serif Display"
-        ],
-        "crk_Cans": ["Noto Sans Canadian Aboriginal"],
-        "crl_Cans": ["Noto Sans Canadian Aboriginal"],
-        "crl_Latn": [
-            "Noto Sans",
-            "Noto Sans Display",
-            "Noto Sans Mono",
-            "Noto Serif",
-            "Noto Serif Display"
-        ],
-        "crm_Cans": ["Noto Sans Canadian Aboriginal"],
-        "crs_Latn": [
+        cic_Latn: [
             "Noto Music",
             "Noto Sans",
             "Noto Sans Cypro Minoan",
@@ -2175,9 +1881,17 @@
             "Noto Serif Display",
             "Noto Serif Khitan Small Script",
             "Noto Serif Ottoman Siyaq",
-            "Noto Znamenny Musical Notation"
+            "Noto Znamenny Musical Notation",
         ],
-        "cs_Latn": [
+        cja_Arab: [
+            "Noto Kufi Arabic",
+            "Noto Naskh Arabic",
+            "Noto Naskh Arabic UI",
+            "Noto Sans Arabic",
+            "Noto Sans Arabic UI",
+        ],
+        cja_Cham: ["Noto Sans Cham"],
+        cjk_Latn: [
             "Noto Music",
             "Noto Sans",
             "Noto Sans Cypro Minoan",
@@ -2192,9 +1906,41 @@
             "Noto Serif Display",
             "Noto Serif Khitan Small Script",
             "Noto Serif Ottoman Siyaq",
-            "Noto Znamenny Musical Notation"
+            "Noto Znamenny Musical Notation",
         ],
-        "csa_Latn": [
+        cjm_Arab: [
+            "Noto Kufi Arabic",
+            "Noto Naskh Arabic",
+            "Noto Naskh Arabic UI",
+            "Noto Sans Arabic",
+            "Noto Sans Arabic UI",
+        ],
+        cjm_Cham: ["Noto Sans Cham"],
+        cjs_Cyrl: [
+            "Noto Sans",
+            "Noto Sans Display",
+            "Noto Sans Mono",
+            "Noto Serif",
+            "Noto Serif Display",
+        ],
+        cjy_Hans: ["Noto Sans SC", "Noto Serif SC"],
+        cjy_Hant: ["Noto Sans HK", "Noto Sans TC", "Noto Serif HK"],
+        ckb_Arab: [
+            "Noto Kufi Arabic",
+            "Noto Naskh Arabic",
+            "Noto Naskh Arabic UI",
+            "Noto Sans Arabic",
+            "Noto Sans Arabic UI",
+        ],
+        ckt_Cyrl: [
+            "Noto Sans",
+            "Noto Sans Display",
+            "Noto Sans Mono",
+            "Noto Serif",
+            "Noto Serif Display",
+        ],
+        cmg_Soyo: ["Noto Sans Soyombo"],
+        cnh_Latn: [
             "Noto Music",
             "Noto Sans",
             "Noto Sans Cypro Minoan",
@@ -2209,9 +1955,9 @@
             "Noto Serif Display",
             "Noto Serif Khitan Small Script",
             "Noto Serif Ottoman Siyaq",
-            "Noto Znamenny Musical Notation"
+            "Noto Znamenny Musical Notation",
         ],
-        "csb_Latn": [
+        cni_Latn: [
             "Noto Music",
             "Noto Sans",
             "Noto Sans Cypro Minoan",
@@ -2226,22 +1972,190 @@
             "Noto Serif Display",
             "Noto Serif Khitan Small Script",
             "Noto Serif Ottoman Siyaq",
-            "Noto Znamenny Musical Notation"
+            "Noto Znamenny Musical Notation",
         ],
-        "csk_Latn": [
+        co_Latn: [
             "Noto Music",
+            "Noto Sans",
             "Noto Sans Cypro Minoan",
+            "Noto Sans Display",
             "Noto Sans Indic Siyaq Numbers",
             "Noto Sans Mayan Numerals",
+            "Noto Sans Mono",
             "Noto Sans SignWriting",
             "Noto Sans Symbols",
             "Noto Sans Symbols 2",
+            "Noto Serif",
+            "Noto Serif Display",
             "Noto Serif Khitan Small Script",
             "Noto Serif Ottoman Siyaq",
-            "Noto Znamenny Musical Notation"
+            "Noto Znamenny Musical Notation",
         ],
-        "csw_Cans": ["Noto Sans Canadian Aboriginal"],
-        "ctd_Latn": [
+        cof_Latn: [
+            "Noto Music",
+            "Noto Sans",
+            "Noto Sans Cypro Minoan",
+            "Noto Sans Display",
+            "Noto Sans Indic Siyaq Numbers",
+            "Noto Sans Mayan Numerals",
+            "Noto Sans Mono",
+            "Noto Sans SignWriting",
+            "Noto Sans Symbols",
+            "Noto Sans Symbols 2",
+            "Noto Serif",
+            "Noto Serif Display",
+            "Noto Serif Khitan Small Script",
+            "Noto Serif Ottoman Siyaq",
+            "Noto Znamenny Musical Notation",
+        ],
+        con_Latn: [
+            "Noto Music",
+            "Noto Sans",
+            "Noto Sans Cypro Minoan",
+            "Noto Sans Display",
+            "Noto Sans Indic Siyaq Numbers",
+            "Noto Sans Mayan Numerals",
+            "Noto Sans Mono",
+            "Noto Sans SignWriting",
+            "Noto Sans Symbols",
+            "Noto Sans Symbols 2",
+            "Noto Serif",
+            "Noto Serif Display",
+            "Noto Serif Khitan Small Script",
+            "Noto Serif Ottoman Siyaq",
+            "Noto Znamenny Musical Notation",
+        ],
+        cop_Arab: [
+            "Noto Kufi Arabic",
+            "Noto Naskh Arabic",
+            "Noto Naskh Arabic UI",
+            "Noto Sans Arabic",
+            "Noto Sans Arabic UI",
+        ],
+        cop_Copt: ["Noto Sans Coptic"],
+        cop_Grek: [
+            "Noto Sans",
+            "Noto Sans Display",
+            "Noto Sans Mono",
+            "Noto Serif",
+            "Noto Serif Display",
+        ],
+        cot_Latn: [
+            "Noto Music",
+            "Noto Sans",
+            "Noto Sans Cypro Minoan",
+            "Noto Sans Display",
+            "Noto Sans Indic Siyaq Numbers",
+            "Noto Sans Mayan Numerals",
+            "Noto Sans Mono",
+            "Noto Sans SignWriting",
+            "Noto Sans Symbols",
+            "Noto Sans Symbols 2",
+            "Noto Serif",
+            "Noto Serif Display",
+            "Noto Serif Khitan Small Script",
+            "Noto Serif Ottoman Siyaq",
+            "Noto Znamenny Musical Notation",
+        ],
+        cpf_Latn: [
+            "Noto Sans",
+            "Noto Sans Display",
+            "Noto Sans Mono",
+            "Noto Serif",
+            "Noto Serif Display",
+        ],
+        cps_Latn: [
+            "Noto Sans",
+            "Noto Sans Display",
+            "Noto Sans Mono",
+            "Noto Serif",
+            "Noto Serif Display",
+        ],
+        cpu_Latn: [
+            "Noto Music",
+            "Noto Sans",
+            "Noto Sans Cypro Minoan",
+            "Noto Sans Display",
+            "Noto Sans Indic Siyaq Numbers",
+            "Noto Sans Mayan Numerals",
+            "Noto Sans Mono",
+            "Noto Sans SignWriting",
+            "Noto Sans Symbols",
+            "Noto Sans Symbols 2",
+            "Noto Serif",
+            "Noto Serif Display",
+            "Noto Serif Khitan Small Script",
+            "Noto Serif Ottoman Siyaq",
+            "Noto Znamenny Musical Notation",
+        ],
+        cr_Cans: ["Noto Sans Canadian Aboriginal"],
+        cr_Latn: [
+            "Noto Sans",
+            "Noto Sans Display",
+            "Noto Sans Mono",
+            "Noto Serif",
+            "Noto Serif Display",
+        ],
+        crh_Cyrl: [
+            "Noto Sans",
+            "Noto Sans Display",
+            "Noto Sans Mono",
+            "Noto Serif",
+            "Noto Serif Display",
+        ],
+        crh_Latn: [
+            "Noto Music",
+            "Noto Sans",
+            "Noto Sans Cypro Minoan",
+            "Noto Sans Display",
+            "Noto Sans Indic Siyaq Numbers",
+            "Noto Sans Mayan Numerals",
+            "Noto Sans Mono",
+            "Noto Sans SignWriting",
+            "Noto Sans Symbols",
+            "Noto Sans Symbols 2",
+            "Noto Serif",
+            "Noto Serif Display",
+            "Noto Serif Khitan Small Script",
+            "Noto Serif Ottoman Siyaq",
+            "Noto Znamenny Musical Notation",
+        ],
+        cri_Latn: [
+            "Noto Music",
+            "Noto Sans",
+            "Noto Sans Cypro Minoan",
+            "Noto Sans Display",
+            "Noto Sans Indic Siyaq Numbers",
+            "Noto Sans Mayan Numerals",
+            "Noto Sans Mono",
+            "Noto Sans SignWriting",
+            "Noto Sans Symbols",
+            "Noto Sans Symbols 2",
+            "Noto Serif",
+            "Noto Serif Display",
+            "Noto Serif Khitan Small Script",
+            "Noto Serif Ottoman Siyaq",
+            "Noto Znamenny Musical Notation",
+        ],
+        crj_Cans: ["Noto Sans Canadian Aboriginal"],
+        crj_Latn: [
+            "Noto Sans",
+            "Noto Sans Display",
+            "Noto Sans Mono",
+            "Noto Serif",
+            "Noto Serif Display",
+        ],
+        crk_Cans: ["Noto Sans Canadian Aboriginal"],
+        crl_Cans: ["Noto Sans Canadian Aboriginal"],
+        crl_Latn: [
+            "Noto Sans",
+            "Noto Sans Display",
+            "Noto Sans Mono",
+            "Noto Serif",
+            "Noto Serif Display",
+        ],
+        crm_Cans: ["Noto Sans Canadian Aboriginal"],
+        crs_Latn: [
             "Noto Music",
             "Noto Sans",
             "Noto Sans Cypro Minoan",
@@ -2257,37 +2171,9 @@
             "Noto Serif Display",
             "Noto Serif Khitan Small Script",
             "Noto Serif Ottoman Siyaq",
-            "Noto Znamenny Musical Notation"
+            "Noto Znamenny Musical Notation",
         ],
-        "ctd_Pauc": ["Noto Sans Pau Cin Hau"],
-        "cu_Cyrl": [
-            "Noto Sans",
-            "Noto Sans Display",
-            "Noto Sans Mono",
-            "Noto Serif",
-            "Noto Serif Display"
-        ],
-        "cu_Glag": ["Noto Sans Glagolitic"],
-        "cv_Cyrl": [
-            "Noto Sans",
-            "Noto Sans Display",
-            "Noto Sans Mono",
-            "Noto Serif",
-            "Noto Serif Display"
-        ],
-        "cwe_Latn": [
-            "Noto Music",
-            "Noto Sans Cypro Minoan",
-            "Noto Sans Indic Siyaq Numbers",
-            "Noto Sans Mayan Numerals",
-            "Noto Sans SignWriting",
-            "Noto Sans Symbols",
-            "Noto Sans Symbols 2",
-            "Noto Serif Khitan Small Script",
-            "Noto Serif Ottoman Siyaq",
-            "Noto Znamenny Musical Notation"
-        ],
-        "cy_Latn": [
+        cs_Latn: [
             "Noto Music",
             "Noto Sans",
             "Noto Sans Cypro Minoan",
@@ -2302,9 +2188,9 @@
             "Noto Serif Display",
             "Noto Serif Khitan Small Script",
             "Noto Serif Ottoman Siyaq",
-            "Noto Znamenny Musical Notation"
+            "Noto Znamenny Musical Notation",
         ],
-        "cyo_Latn": [
+        csa_Latn: [
             "Noto Music",
             "Noto Sans",
             "Noto Sans Cypro Minoan",
@@ -2319,9 +2205,9 @@
             "Noto Serif Display",
             "Noto Serif Khitan Small Script",
             "Noto Serif Ottoman Siyaq",
-            "Noto Znamenny Musical Notation"
+            "Noto Znamenny Musical Notation",
         ],
-        "da_Latn": [
+        csb_Latn: [
             "Noto Music",
             "Noto Sans",
             "Noto Sans Cypro Minoan",
@@ -2336,39 +2222,22 @@
             "Noto Serif Display",
             "Noto Serif Khitan Small Script",
             "Noto Serif Ottoman Siyaq",
-            "Noto Znamenny Musical Notation"
+            "Noto Znamenny Musical Notation",
         ],
-        "dag_Latn": [
+        csk_Latn: [
             "Noto Music",
-            "Noto Sans",
             "Noto Sans Cypro Minoan",
-            "Noto Sans Display",
             "Noto Sans Indic Siyaq Numbers",
             "Noto Sans Mayan Numerals",
-            "Noto Sans Mono",
             "Noto Sans SignWriting",
             "Noto Sans Symbols",
             "Noto Sans Symbols 2",
-            "Noto Serif",
-            "Noto Serif Display",
             "Noto Serif Khitan Small Script",
-            "Noto Serif Ottoman Siyaq"
+            "Noto Serif Ottoman Siyaq",
+            "Noto Znamenny Musical Notation",
         ],
-        "dak_Latn": [
-            "Noto Sans",
-            "Noto Sans Display",
-            "Noto Sans Mono",
-            "Noto Serif",
-            "Noto Serif Display"
-        ],
-        "dar_Cyrl": [
-            "Noto Sans",
-            "Noto Sans Display",
-            "Noto Sans Mono",
-            "Noto Serif",
-            "Noto Serif Display"
-        ],
-        "dav_Latn": [
+        csw_Cans: ["Noto Sans Canadian Aboriginal"],
+        ctd_Latn: [
             "Noto Music",
             "Noto Sans",
             "Noto Sans Cypro Minoan",
@@ -2384,16 +2253,37 @@
             "Noto Serif Display",
             "Noto Serif Khitan Small Script",
             "Noto Serif Ottoman Siyaq",
-            "Noto Znamenny Musical Notation"
+            "Noto Znamenny Musical Notation",
         ],
-        "dcc_Arab": [
-            "Noto Kufi Arabic",
-            "Noto Naskh Arabic",
-            "Noto Naskh Arabic UI",
-            "Noto Sans Arabic",
-            "Noto Sans Arabic UI"
+        ctd_Pauc: ["Noto Sans Pau Cin Hau"],
+        cu_Cyrl: [
+            "Noto Sans",
+            "Noto Sans Display",
+            "Noto Sans Mono",
+            "Noto Serif",
+            "Noto Serif Display",
         ],
-        "ddn_Latn": [
+        cu_Glag: ["Noto Sans Glagolitic"],
+        cv_Cyrl: [
+            "Noto Sans",
+            "Noto Sans Display",
+            "Noto Sans Mono",
+            "Noto Serif",
+            "Noto Serif Display",
+        ],
+        cwe_Latn: [
+            "Noto Music",
+            "Noto Sans Cypro Minoan",
+            "Noto Sans Indic Siyaq Numbers",
+            "Noto Sans Mayan Numerals",
+            "Noto Sans SignWriting",
+            "Noto Sans Symbols",
+            "Noto Sans Symbols 2",
+            "Noto Serif Khitan Small Script",
+            "Noto Serif Ottoman Siyaq",
+            "Noto Znamenny Musical Notation",
+        ],
+        cy_Latn: [
             "Noto Music",
             "Noto Sans",
             "Noto Sans Cypro Minoan",
@@ -2408,9 +2298,9 @@
             "Noto Serif Display",
             "Noto Serif Khitan Small Script",
             "Noto Serif Ottoman Siyaq",
-            "Noto Znamenny Musical Notation"
+            "Noto Znamenny Musical Notation",
         ],
-        "de_Latn": [
+        cyo_Latn: [
             "Noto Music",
             "Noto Sans",
             "Noto Sans Cypro Minoan",
@@ -2425,10 +2315,9 @@
             "Noto Serif Display",
             "Noto Serif Khitan Small Script",
             "Noto Serif Ottoman Siyaq",
-            "Noto Znamenny Musical Notation"
+            "Noto Znamenny Musical Notation",
         ],
-        "de_Runr": ["Noto Sans Runic"],
-        "del_Latn": [
+        da_Latn: [
             "Noto Music",
             "Noto Sans",
             "Noto Sans Cypro Minoan",
@@ -2443,59 +2332,9 @@
             "Noto Serif Display",
             "Noto Serif Khitan Small Script",
             "Noto Serif Ottoman Siyaq",
-            "Noto Znamenny Musical Notation"
+            "Noto Znamenny Musical Notation",
         ],
-        "den_Cans": ["Noto Sans Canadian Aboriginal"],
-        "den_Latn": [
-            "Noto Sans",
-            "Noto Sans Display",
-            "Noto Sans Mono",
-            "Noto Serif",
-            "Noto Serif Display"
-        ],
-        "dga_Latn": [
-            "Noto Music",
-            "Noto Sans",
-            "Noto Sans Cypro Minoan",
-            "Noto Sans Display",
-            "Noto Sans Indic Siyaq Numbers",
-            "Noto Sans Mayan Numerals",
-            "Noto Sans Mono",
-            "Noto Sans SignWriting",
-            "Noto Sans Symbols",
-            "Noto Sans Symbols 2",
-            "Noto Serif",
-            "Noto Serif Display",
-            "Noto Serif Khitan Small Script",
-            "Noto Serif Ottoman Siyaq"
-        ],
-        "dgr_Latn": [
-            "Noto Sans",
-            "Noto Sans Display",
-            "Noto Sans Mono",
-            "Noto Serif",
-            "Noto Serif Display"
-        ],
-        "dhi_Deva": [
-            "Noto Sans",
-            "Noto Sans Devanagari",
-            "Noto Sans Devanagari UI",
-            "Noto Serif Devanagari"
-        ],
-        "dhw_Deva": [
-            "Noto Sans",
-            "Noto Sans Devanagari",
-            "Noto Sans Devanagari UI",
-            "Noto Serif Devanagari"
-        ],
-        "din_Latn": [
-            "Noto Sans",
-            "Noto Sans Display",
-            "Noto Sans Mono",
-            "Noto Serif",
-            "Noto Serif Display"
-        ],
-        "dip_Latn": [
+        dag_Latn: [
             "Noto Music",
             "Noto Sans",
             "Noto Sans Cypro Minoan",
@@ -2510,275 +2349,22 @@
             "Noto Serif Display",
             "Noto Serif Khitan Small Script",
             "Noto Serif Ottoman Siyaq",
-            "Noto Znamenny Musical Notation"
         ],
-        "dje_Latn": [
+        dak_Latn: [
             "Noto Sans",
             "Noto Sans Display",
             "Noto Sans Mono",
-            "Noto Serif",
-            "Noto Serif Display"
-        ],
-        "dmf_Medf": ["Noto Sans Medefaidrin"],
-        "dng_Cyrl": [
-            "Noto Sans",
-            "Noto Sans Display",
-            "Noto Sans Mono",
-            "Noto Serif",
-            "Noto Serif Display"
-        ],
-        "dnj_Latn": [
-            "Noto Sans",
-            "Noto Sans Display",
-            "Noto Sans Mono",
-            "Noto Serif",
-            "Noto Serif Display"
-        ],
-        "doi_Arab": [
-            "Noto Kufi Arabic",
-            "Noto Naskh Arabic",
-            "Noto Naskh Arabic UI",
-            "Noto Sans Arabic",
-            "Noto Sans Arabic UI"
-        ],
-        "doi_Deva": [
-            "Noto Sans",
-            "Noto Sans Devanagari",
-            "Noto Sans Devanagari UI",
-            "Noto Serif Devanagari"
-        ],
-        "doi_Dogr": ["Noto Serif Dogra"],
-        "doi_Takr": ["Noto Sans Takri"],
-        "dri_Latn": [
-            "Noto Music",
-            "Noto Sans Cypro Minoan",
-            "Noto Sans Indic Siyaq Numbers",
-            "Noto Sans Mayan Numerals",
-            "Noto Sans SignWriting",
-            "Noto Sans Symbols",
-            "Noto Sans Symbols 2",
-            "Noto Serif Khitan Small Script",
-            "Noto Serif Ottoman Siyaq",
-            "Noto Znamenny Musical Notation"
-        ],
-        "dsb_Latn": [
-            "Noto Music",
-            "Noto Sans",
-            "Noto Sans Cypro Minoan",
-            "Noto Sans Display",
-            "Noto Sans Indic Siyaq Numbers",
-            "Noto Sans Mayan Numerals",
-            "Noto Sans Mono",
-            "Noto Sans SignWriting",
-            "Noto Sans Symbols",
-            "Noto Sans Symbols 2",
             "Noto Serif",
             "Noto Serif Display",
-            "Noto Serif Khitan Small Script",
-            "Noto Serif Ottoman Siyaq",
-            "Noto Znamenny Musical Notation"
         ],
-        "dtm_Latn": [
+        dar_Cyrl: [
             "Noto Sans",
             "Noto Sans Display",
             "Noto Sans Mono",
-            "Noto Serif",
-            "Noto Serif Display"
-        ],
-        "dtp_Latn": [
-            "Noto Music",
-            "Noto Sans",
-            "Noto Sans Cypro Minoan",
-            "Noto Sans Display",
-            "Noto Sans Indic Siyaq Numbers",
-            "Noto Sans Mayan Numerals",
-            "Noto Sans Mono",
-            "Noto Sans SignWriting",
-            "Noto Sans Symbols",
-            "Noto Sans Symbols 2",
             "Noto Serif",
             "Noto Serif Display",
-            "Noto Serif Khitan Small Script",
-            "Noto Serif Ottoman Siyaq",
-            "Noto Znamenny Musical Notation"
         ],
-        "dts_Latn": [
-            "Noto Music",
-            "Noto Sans Cypro Minoan",
-            "Noto Sans Indic Siyaq Numbers",
-            "Noto Sans Mayan Numerals",
-            "Noto Sans SignWriting",
-            "Noto Sans Symbols",
-            "Noto Sans Symbols 2",
-            "Noto Serif Khitan Small Script",
-            "Noto Serif Ottoman Siyaq",
-            "Noto Znamenny Musical Notation"
-        ],
-        "dty_Deva": [
-            "Noto Sans",
-            "Noto Sans Devanagari",
-            "Noto Sans Devanagari UI",
-            "Noto Serif Devanagari"
-        ],
-        "dua_Latn": [
-            "Noto Sans",
-            "Noto Sans Display",
-            "Noto Sans Mono",
-            "Noto Serif",
-            "Noto Serif Display"
-        ],
-        "dug_Latn": [
-            "Noto Music",
-            "Noto Sans Cypro Minoan",
-            "Noto Sans Indic Siyaq Numbers",
-            "Noto Sans Mayan Numerals",
-            "Noto Sans SignWriting",
-            "Noto Sans Symbols",
-            "Noto Sans Symbols 2",
-            "Noto Serif Khitan Small Script",
-            "Noto Serif Ottoman Siyaq",
-            "Noto Znamenny Musical Notation"
-        ],
-        "dum_Latn": [
-            "Noto Sans",
-            "Noto Sans Display",
-            "Noto Sans Mono",
-            "Noto Serif",
-            "Noto Serif Display"
-        ],
-        "duu_Latn": [
-            "Noto Music",
-            "Noto Sans",
-            "Noto Sans Cypro Minoan",
-            "Noto Sans Display",
-            "Noto Sans Indic Siyaq Numbers",
-            "Noto Sans Mayan Numerals",
-            "Noto Sans Mono",
-            "Noto Sans SignWriting",
-            "Noto Sans Symbols",
-            "Noto Sans Symbols 2",
-            "Noto Serif",
-            "Noto Serif Display",
-            "Noto Serif Khitan Small Script",
-            "Noto Serif Ottoman Siyaq",
-            "Noto Znamenny Musical Notation"
-        ],
-        "dv_Thaa": ["Noto Sans Thaana"],
-        "dwr_Latn": [
-            "Noto Music",
-            "Noto Sans Cypro Minoan",
-            "Noto Sans Indic Siyaq Numbers",
-            "Noto Sans Mayan Numerals",
-            "Noto Sans SignWriting",
-            "Noto Sans Symbols",
-            "Noto Sans Symbols 2",
-            "Noto Serif Khitan Small Script",
-            "Noto Serif Ottoman Siyaq",
-            "Noto Znamenny Musical Notation"
-        ],
-        "dyo_Arab": [
-            "Noto Kufi Arabic",
-            "Noto Naskh Arabic",
-            "Noto Naskh Arabic UI",
-            "Noto Sans Arabic",
-            "Noto Sans Arabic UI"
-        ],
-        "dyo_Latn": [
-            "Noto Music",
-            "Noto Sans",
-            "Noto Sans Cypro Minoan",
-            "Noto Sans Display",
-            "Noto Sans Indic Siyaq Numbers",
-            "Noto Sans Mayan Numerals",
-            "Noto Sans Mono",
-            "Noto Sans SignWriting",
-            "Noto Sans Symbols",
-            "Noto Sans Symbols 2",
-            "Noto Serif",
-            "Noto Serif Display",
-            "Noto Serif Khitan Small Script",
-            "Noto Serif Ottoman Siyaq",
-            "Noto Znamenny Musical Notation"
-        ],
-        "dyu_Latn": [
-            "Noto Sans",
-            "Noto Sans Display",
-            "Noto Sans Mono",
-            "Noto Serif",
-            "Noto Serif Display"
-        ],
-        "dyu_Nkoo": [
-            "Noto Sans N Ko",
-            "Noto Sans NKo",
-            "Noto Sans NKo Unjoined"
-        ],
-        "dz_Tibt": ["Noto Serif Tibetan"],
-        "ebu_Latn": [
-            "Noto Sans",
-            "Noto Sans Display",
-            "Noto Sans Mono",
-            "Noto Serif",
-            "Noto Serif Display"
-        ],
-        "ee_Latn": [
-            "Noto Sans",
-            "Noto Sans Display",
-            "Noto Sans Mono",
-            "Noto Serif",
-            "Noto Serif Display"
-        ],
-        "efi_Latn": [
-            "Noto Sans",
-            "Noto Sans Display",
-            "Noto Sans Mono",
-            "Noto Serif",
-            "Noto Serif Display"
-        ],
-        "egl_Latn": [
-            "Noto Sans",
-            "Noto Sans Display",
-            "Noto Sans Mono",
-            "Noto Serif",
-            "Noto Serif Display"
-        ],
-        "egy_Egyp": ["Noto Sans Egyptian Hieroglyphs"],
-        "eka_Latn": [
-            "Noto Sans",
-            "Noto Sans Display",
-            "Noto Sans Mono",
-            "Noto Serif",
-            "Noto Serif Display"
-        ],
-        "eky_Kali": ["Noto Sans Kayah Li"],
-        "el_Grek": [
-            "Noto Sans",
-            "Noto Sans Display",
-            "Noto Sans Mono",
-            "Noto Serif",
-            "Noto Serif Display"
-        ],
-        "ema_Latn": [
-            "Noto Music",
-            "Noto Sans Cypro Minoan",
-            "Noto Sans Indic Siyaq Numbers",
-            "Noto Sans Mayan Numerals",
-            "Noto Sans SignWriting",
-            "Noto Sans Symbols",
-            "Noto Sans Symbols 2",
-            "Noto Serif Khitan Small Script",
-            "Noto Serif Ottoman Siyaq",
-            "Noto Znamenny Musical Notation"
-        ],
-        "emk_Latn": [
-            "Noto Sans",
-            "Noto Sans Display",
-            "Noto Sans Mono",
-            "Noto Serif",
-            "Noto Serif Display"
-        ],
-        "en_Brai": ["Noto Sans Symbols 2"],
-        "en_Dsrt": ["Noto Sans Deseret"],
-        "en_Latn": [
+        dav_Latn: [
             "Noto Music",
             "Noto Sans",
             "Noto Sans Cypro Minoan",
@@ -2794,178 +2380,397 @@
             "Noto Serif Display",
             "Noto Serif Khitan Small Script",
             "Noto Serif Ottoman Siyaq",
-            "Noto Znamenny Musical Notation"
+            "Noto Znamenny Musical Notation",
         ],
-        "en_Shaw": ["Noto Sans Shavian"],
-        "enm_Latn": [
-            "Noto Sans",
-            "Noto Sans Display",
-            "Noto Sans Mono",
-            "Noto Serif",
-            "Noto Serif Display"
-        ],
-        "eo_Latn": [
-            "Noto Sans",
-            "Noto Sans Display",
-            "Noto Sans Mono",
-            "Noto Serif",
-            "Noto Serif Display"
-        ],
-        "es_Latn": [
-            "Noto Music",
-            "Noto Sans",
-            "Noto Sans Cypro Minoan",
-            "Noto Sans Display",
-            "Noto Sans Indic Siyaq Numbers",
-            "Noto Sans Mayan Numerals",
-            "Noto Sans Mono",
-            "Noto Sans SignWriting",
-            "Noto Sans Symbols",
-            "Noto Sans Symbols 2",
-            "Noto Serif",
-            "Noto Serif Display",
-            "Noto Serif Khitan Small Script",
-            "Noto Serif Ottoman Siyaq",
-            "Noto Znamenny Musical Notation"
-        ],
-        "ese_Latn": [
-            "Noto Music",
-            "Noto Sans",
-            "Noto Sans Cypro Minoan",
-            "Noto Sans Display",
-            "Noto Sans Indic Siyaq Numbers",
-            "Noto Sans Mayan Numerals",
-            "Noto Sans Mono",
-            "Noto Sans SignWriting",
-            "Noto Sans Symbols",
-            "Noto Sans Symbols 2",
-            "Noto Serif",
-            "Noto Serif Display",
-            "Noto Serif Khitan Small Script",
-            "Noto Serif Ottoman Siyaq",
-            "Noto Znamenny Musical Notation"
-        ],
-        "esg_Gonm": ["Noto Sans Masaram Gondi"],
-        "esu_Latn": [
-            "Noto Sans",
-            "Noto Sans Display",
-            "Noto Sans Mono",
-            "Noto Serif",
-            "Noto Serif Display"
-        ],
-        "et_Latn": [
-            "Noto Music",
-            "Noto Sans",
-            "Noto Sans Cypro Minoan",
-            "Noto Sans Display",
-            "Noto Sans Indic Siyaq Numbers",
-            "Noto Sans Mayan Numerals",
-            "Noto Sans Mono",
-            "Noto Sans SignWriting",
-            "Noto Sans Symbols",
-            "Noto Sans Symbols 2",
-            "Noto Serif",
-            "Noto Serif Display",
-            "Noto Serif Khitan Small Script",
-            "Noto Serif Ottoman Siyaq",
-            "Noto Znamenny Musical Notation"
-        ],
-        "ett_Ital": ["Noto Sans Old Italic"],
-        "ett_Latn": [
-            "Noto Sans",
-            "Noto Sans Display",
-            "Noto Sans Mono",
-            "Noto Serif",
-            "Noto Serif Display"
-        ],
-        "etx_Latn": [
-            "Noto Music",
-            "Noto Sans Cypro Minoan",
-            "Noto Sans Indic Siyaq Numbers",
-            "Noto Sans Mayan Numerals",
-            "Noto Sans SignWriting",
-            "Noto Sans Symbols",
-            "Noto Sans Symbols 2",
-            "Noto Serif Khitan Small Script",
-            "Noto Serif Ottoman Siyaq"
-        ],
-        "eu_Latn": [
-            "Noto Music",
-            "Noto Sans",
-            "Noto Sans Cypro Minoan",
-            "Noto Sans Display",
-            "Noto Sans Indic Siyaq Numbers",
-            "Noto Sans Mayan Numerals",
-            "Noto Sans Mono",
-            "Noto Sans SignWriting",
-            "Noto Sans Symbols",
-            "Noto Sans Symbols 2",
-            "Noto Serif",
-            "Noto Serif Display",
-            "Noto Serif Khitan Small Script",
-            "Noto Serif Ottoman Siyaq",
-            "Noto Znamenny Musical Notation"
-        ],
-        "eve_Cyrl": [
-            "Noto Sans",
-            "Noto Sans Display",
-            "Noto Sans Mono",
-            "Noto Serif",
-            "Noto Serif Display"
-        ],
-        "evn_Cyrl": [
-            "Noto Sans",
-            "Noto Sans Display",
-            "Noto Sans Mono",
-            "Noto Serif",
-            "Noto Serif Display"
-        ],
-        "evn_Latn": [
-            "Noto Sans",
-            "Noto Sans Display",
-            "Noto Sans Mono",
-            "Noto Serif",
-            "Noto Serif Display"
-        ],
-        "ewo_Latn": [
-            "Noto Sans",
-            "Noto Sans Display",
-            "Noto Sans Mono",
-            "Noto Serif",
-            "Noto Serif Display"
-        ],
-        "ext_Latn": [
-            "Noto Music",
-            "Noto Sans",
-            "Noto Sans Cypro Minoan",
-            "Noto Sans Display",
-            "Noto Sans Indic Siyaq Numbers",
-            "Noto Sans Mayan Numerals",
-            "Noto Sans Mono",
-            "Noto Sans SignWriting",
-            "Noto Sans Symbols",
-            "Noto Sans Symbols 2",
-            "Noto Serif",
-            "Noto Serif Display",
-            "Noto Serif Khitan Small Script",
-            "Noto Serif Ottoman Siyaq",
-            "Noto Znamenny Musical Notation"
-        ],
-        "fa_Arab": [
+        dcc_Arab: [
             "Noto Kufi Arabic",
             "Noto Naskh Arabic",
             "Noto Naskh Arabic UI",
             "Noto Sans Arabic",
-            "Noto Sans Arabic UI"
+            "Noto Sans Arabic UI",
         ],
-        "fan_Latn": [
+        ddn_Latn: [
+            "Noto Music",
+            "Noto Sans",
+            "Noto Sans Cypro Minoan",
+            "Noto Sans Display",
+            "Noto Sans Indic Siyaq Numbers",
+            "Noto Sans Mayan Numerals",
+            "Noto Sans Mono",
+            "Noto Sans SignWriting",
+            "Noto Sans Symbols",
+            "Noto Sans Symbols 2",
+            "Noto Serif",
+            "Noto Serif Display",
+            "Noto Serif Khitan Small Script",
+            "Noto Serif Ottoman Siyaq",
+            "Noto Znamenny Musical Notation",
+        ],
+        de_Latn: [
+            "Noto Music",
+            "Noto Sans",
+            "Noto Sans Cypro Minoan",
+            "Noto Sans Display",
+            "Noto Sans Indic Siyaq Numbers",
+            "Noto Sans Mayan Numerals",
+            "Noto Sans Mono",
+            "Noto Sans SignWriting",
+            "Noto Sans Symbols",
+            "Noto Sans Symbols 2",
+            "Noto Serif",
+            "Noto Serif Display",
+            "Noto Serif Khitan Small Script",
+            "Noto Serif Ottoman Siyaq",
+            "Noto Znamenny Musical Notation",
+        ],
+        de_Runr: ["Noto Sans Runic"],
+        del_Latn: [
+            "Noto Music",
+            "Noto Sans",
+            "Noto Sans Cypro Minoan",
+            "Noto Sans Display",
+            "Noto Sans Indic Siyaq Numbers",
+            "Noto Sans Mayan Numerals",
+            "Noto Sans Mono",
+            "Noto Sans SignWriting",
+            "Noto Sans Symbols",
+            "Noto Sans Symbols 2",
+            "Noto Serif",
+            "Noto Serif Display",
+            "Noto Serif Khitan Small Script",
+            "Noto Serif Ottoman Siyaq",
+            "Noto Znamenny Musical Notation",
+        ],
+        den_Cans: ["Noto Sans Canadian Aboriginal"],
+        den_Latn: [
             "Noto Sans",
             "Noto Sans Display",
             "Noto Sans Mono",
             "Noto Serif",
-            "Noto Serif Display"
+            "Noto Serif Display",
         ],
-        "fbl_Latn": [
+        dga_Latn: [
+            "Noto Music",
+            "Noto Sans",
+            "Noto Sans Cypro Minoan",
+            "Noto Sans Display",
+            "Noto Sans Indic Siyaq Numbers",
+            "Noto Sans Mayan Numerals",
+            "Noto Sans Mono",
+            "Noto Sans SignWriting",
+            "Noto Sans Symbols",
+            "Noto Sans Symbols 2",
+            "Noto Serif",
+            "Noto Serif Display",
+            "Noto Serif Khitan Small Script",
+            "Noto Serif Ottoman Siyaq",
+        ],
+        dgr_Latn: [
+            "Noto Sans",
+            "Noto Sans Display",
+            "Noto Sans Mono",
+            "Noto Serif",
+            "Noto Serif Display",
+        ],
+        dhi_Deva: [
+            "Noto Sans",
+            "Noto Sans Devanagari",
+            "Noto Sans Devanagari UI",
+            "Noto Serif Devanagari",
+        ],
+        dhw_Deva: [
+            "Noto Sans",
+            "Noto Sans Devanagari",
+            "Noto Sans Devanagari UI",
+            "Noto Serif Devanagari",
+        ],
+        din_Latn: [
+            "Noto Sans",
+            "Noto Sans Display",
+            "Noto Sans Mono",
+            "Noto Serif",
+            "Noto Serif Display",
+        ],
+        dip_Latn: [
+            "Noto Music",
+            "Noto Sans",
+            "Noto Sans Cypro Minoan",
+            "Noto Sans Display",
+            "Noto Sans Indic Siyaq Numbers",
+            "Noto Sans Mayan Numerals",
+            "Noto Sans Mono",
+            "Noto Sans SignWriting",
+            "Noto Sans Symbols",
+            "Noto Sans Symbols 2",
+            "Noto Serif",
+            "Noto Serif Display",
+            "Noto Serif Khitan Small Script",
+            "Noto Serif Ottoman Siyaq",
+            "Noto Znamenny Musical Notation",
+        ],
+        dje_Latn: [
+            "Noto Sans",
+            "Noto Sans Display",
+            "Noto Sans Mono",
+            "Noto Serif",
+            "Noto Serif Display",
+        ],
+        dmf_Medf: ["Noto Sans Medefaidrin"],
+        dng_Cyrl: [
+            "Noto Sans",
+            "Noto Sans Display",
+            "Noto Sans Mono",
+            "Noto Serif",
+            "Noto Serif Display",
+        ],
+        dnj_Latn: [
+            "Noto Sans",
+            "Noto Sans Display",
+            "Noto Sans Mono",
+            "Noto Serif",
+            "Noto Serif Display",
+        ],
+        doi_Arab: [
+            "Noto Kufi Arabic",
+            "Noto Naskh Arabic",
+            "Noto Naskh Arabic UI",
+            "Noto Sans Arabic",
+            "Noto Sans Arabic UI",
+        ],
+        doi_Deva: [
+            "Noto Sans",
+            "Noto Sans Devanagari",
+            "Noto Sans Devanagari UI",
+            "Noto Serif Devanagari",
+        ],
+        doi_Dogr: ["Noto Serif Dogra"],
+        doi_Takr: ["Noto Sans Takri"],
+        dri_Latn: [
+            "Noto Music",
+            "Noto Sans Cypro Minoan",
+            "Noto Sans Indic Siyaq Numbers",
+            "Noto Sans Mayan Numerals",
+            "Noto Sans SignWriting",
+            "Noto Sans Symbols",
+            "Noto Sans Symbols 2",
+            "Noto Serif Khitan Small Script",
+            "Noto Serif Ottoman Siyaq",
+            "Noto Znamenny Musical Notation",
+        ],
+        dsb_Latn: [
+            "Noto Music",
+            "Noto Sans",
+            "Noto Sans Cypro Minoan",
+            "Noto Sans Display",
+            "Noto Sans Indic Siyaq Numbers",
+            "Noto Sans Mayan Numerals",
+            "Noto Sans Mono",
+            "Noto Sans SignWriting",
+            "Noto Sans Symbols",
+            "Noto Sans Symbols 2",
+            "Noto Serif",
+            "Noto Serif Display",
+            "Noto Serif Khitan Small Script",
+            "Noto Serif Ottoman Siyaq",
+            "Noto Znamenny Musical Notation",
+        ],
+        dtm_Latn: [
+            "Noto Sans",
+            "Noto Sans Display",
+            "Noto Sans Mono",
+            "Noto Serif",
+            "Noto Serif Display",
+        ],
+        dtp_Latn: [
+            "Noto Music",
+            "Noto Sans",
+            "Noto Sans Cypro Minoan",
+            "Noto Sans Display",
+            "Noto Sans Indic Siyaq Numbers",
+            "Noto Sans Mayan Numerals",
+            "Noto Sans Mono",
+            "Noto Sans SignWriting",
+            "Noto Sans Symbols",
+            "Noto Sans Symbols 2",
+            "Noto Serif",
+            "Noto Serif Display",
+            "Noto Serif Khitan Small Script",
+            "Noto Serif Ottoman Siyaq",
+            "Noto Znamenny Musical Notation",
+        ],
+        dts_Latn: [
+            "Noto Music",
+            "Noto Sans Cypro Minoan",
+            "Noto Sans Indic Siyaq Numbers",
+            "Noto Sans Mayan Numerals",
+            "Noto Sans SignWriting",
+            "Noto Sans Symbols",
+            "Noto Sans Symbols 2",
+            "Noto Serif Khitan Small Script",
+            "Noto Serif Ottoman Siyaq",
+            "Noto Znamenny Musical Notation",
+        ],
+        dty_Deva: [
+            "Noto Sans",
+            "Noto Sans Devanagari",
+            "Noto Sans Devanagari UI",
+            "Noto Serif Devanagari",
+        ],
+        dua_Latn: [
+            "Noto Sans",
+            "Noto Sans Display",
+            "Noto Sans Mono",
+            "Noto Serif",
+            "Noto Serif Display",
+        ],
+        dug_Latn: [
+            "Noto Music",
+            "Noto Sans Cypro Minoan",
+            "Noto Sans Indic Siyaq Numbers",
+            "Noto Sans Mayan Numerals",
+            "Noto Sans SignWriting",
+            "Noto Sans Symbols",
+            "Noto Sans Symbols 2",
+            "Noto Serif Khitan Small Script",
+            "Noto Serif Ottoman Siyaq",
+            "Noto Znamenny Musical Notation",
+        ],
+        dum_Latn: [
+            "Noto Sans",
+            "Noto Sans Display",
+            "Noto Sans Mono",
+            "Noto Serif",
+            "Noto Serif Display",
+        ],
+        duu_Latn: [
+            "Noto Music",
+            "Noto Sans",
+            "Noto Sans Cypro Minoan",
+            "Noto Sans Display",
+            "Noto Sans Indic Siyaq Numbers",
+            "Noto Sans Mayan Numerals",
+            "Noto Sans Mono",
+            "Noto Sans SignWriting",
+            "Noto Sans Symbols",
+            "Noto Sans Symbols 2",
+            "Noto Serif",
+            "Noto Serif Display",
+            "Noto Serif Khitan Small Script",
+            "Noto Serif Ottoman Siyaq",
+            "Noto Znamenny Musical Notation",
+        ],
+        dv_Thaa: ["Noto Sans Thaana"],
+        dwr_Latn: [
+            "Noto Music",
+            "Noto Sans Cypro Minoan",
+            "Noto Sans Indic Siyaq Numbers",
+            "Noto Sans Mayan Numerals",
+            "Noto Sans SignWriting",
+            "Noto Sans Symbols",
+            "Noto Sans Symbols 2",
+            "Noto Serif Khitan Small Script",
+            "Noto Serif Ottoman Siyaq",
+            "Noto Znamenny Musical Notation",
+        ],
+        dyo_Arab: [
+            "Noto Kufi Arabic",
+            "Noto Naskh Arabic",
+            "Noto Naskh Arabic UI",
+            "Noto Sans Arabic",
+            "Noto Sans Arabic UI",
+        ],
+        dyo_Latn: [
+            "Noto Music",
+            "Noto Sans",
+            "Noto Sans Cypro Minoan",
+            "Noto Sans Display",
+            "Noto Sans Indic Siyaq Numbers",
+            "Noto Sans Mayan Numerals",
+            "Noto Sans Mono",
+            "Noto Sans SignWriting",
+            "Noto Sans Symbols",
+            "Noto Sans Symbols 2",
+            "Noto Serif",
+            "Noto Serif Display",
+            "Noto Serif Khitan Small Script",
+            "Noto Serif Ottoman Siyaq",
+            "Noto Znamenny Musical Notation",
+        ],
+        dyu_Latn: [
+            "Noto Sans",
+            "Noto Sans Display",
+            "Noto Sans Mono",
+            "Noto Serif",
+            "Noto Serif Display",
+        ],
+        dyu_Nkoo: ["Noto Sans N Ko", "Noto Sans NKo", "Noto Sans NKo Unjoined"],
+        dz_Tibt: ["Noto Serif Tibetan"],
+        ebu_Latn: [
+            "Noto Sans",
+            "Noto Sans Display",
+            "Noto Sans Mono",
+            "Noto Serif",
+            "Noto Serif Display",
+        ],
+        ee_Latn: [
+            "Noto Sans",
+            "Noto Sans Display",
+            "Noto Sans Mono",
+            "Noto Serif",
+            "Noto Serif Display",
+        ],
+        efi_Latn: [
+            "Noto Sans",
+            "Noto Sans Display",
+            "Noto Sans Mono",
+            "Noto Serif",
+            "Noto Serif Display",
+        ],
+        egl_Latn: [
+            "Noto Sans",
+            "Noto Sans Display",
+            "Noto Sans Mono",
+            "Noto Serif",
+            "Noto Serif Display",
+        ],
+        egy_Egyp: ["Noto Sans Egyptian Hieroglyphs"],
+        eka_Latn: [
+            "Noto Sans",
+            "Noto Sans Display",
+            "Noto Sans Mono",
+            "Noto Serif",
+            "Noto Serif Display",
+        ],
+        eky_Kali: ["Noto Sans Kayah Li"],
+        el_Grek: [
+            "Noto Sans",
+            "Noto Sans Display",
+            "Noto Sans Mono",
+            "Noto Serif",
+            "Noto Serif Display",
+        ],
+        ema_Latn: [
+            "Noto Music",
+            "Noto Sans Cypro Minoan",
+            "Noto Sans Indic Siyaq Numbers",
+            "Noto Sans Mayan Numerals",
+            "Noto Sans SignWriting",
+            "Noto Sans Symbols",
+            "Noto Sans Symbols 2",
+            "Noto Serif Khitan Small Script",
+            "Noto Serif Ottoman Siyaq",
+            "Noto Znamenny Musical Notation",
+        ],
+        emk_Latn: [
+            "Noto Sans",
+            "Noto Sans Display",
+            "Noto Sans Mono",
+            "Noto Serif",
+            "Noto Serif Display",
+        ],
+        en_Brai: ["Noto Sans Symbols 2"],
+        en_Dsrt: ["Noto Sans Deseret"],
+        en_Latn: [
             "Noto Music",
             "Noto Sans",
             "Noto Sans Cypro Minoan",
@@ -2981,24 +2786,24 @@
             "Noto Serif Display",
             "Noto Serif Khitan Small Script",
             "Noto Serif Ottoman Siyaq",
-            "Noto Znamenny Musical Notation"
+            "Noto Znamenny Musical Notation",
         ],
-        "ff_Adlm": ["Noto Sans Adlam", "Noto Sans Adlam Unjoined"],
-        "ff_Latn": [
+        en_Shaw: ["Noto Sans Shavian"],
+        enm_Latn: [
             "Noto Sans",
             "Noto Sans Display",
             "Noto Sans Mono",
             "Noto Serif",
-            "Noto Serif Display"
+            "Noto Serif Display",
         ],
-        "ffm_Latn": [
+        eo_Latn: [
             "Noto Sans",
             "Noto Sans Display",
             "Noto Sans Mono",
             "Noto Serif",
-            "Noto Serif Display"
+            "Noto Serif Display",
         ],
-        "fi_Latn": [
+        es_Latn: [
             "Noto Music",
             "Noto Sans",
             "Noto Sans Cypro Minoan",
@@ -3013,41 +2818,146 @@
             "Noto Serif Display",
             "Noto Serif Khitan Small Script",
             "Noto Serif Ottoman Siyaq",
-            "Noto Znamenny Musical Notation"
+            "Noto Znamenny Musical Notation",
         ],
-        "fia_Arab": [
+        ese_Latn: [
+            "Noto Music",
+            "Noto Sans",
+            "Noto Sans Cypro Minoan",
+            "Noto Sans Display",
+            "Noto Sans Indic Siyaq Numbers",
+            "Noto Sans Mayan Numerals",
+            "Noto Sans Mono",
+            "Noto Sans SignWriting",
+            "Noto Sans Symbols",
+            "Noto Sans Symbols 2",
+            "Noto Serif",
+            "Noto Serif Display",
+            "Noto Serif Khitan Small Script",
+            "Noto Serif Ottoman Siyaq",
+            "Noto Znamenny Musical Notation",
+        ],
+        esg_Gonm: ["Noto Sans Masaram Gondi"],
+        esu_Latn: [
+            "Noto Sans",
+            "Noto Sans Display",
+            "Noto Sans Mono",
+            "Noto Serif",
+            "Noto Serif Display",
+        ],
+        et_Latn: [
+            "Noto Music",
+            "Noto Sans",
+            "Noto Sans Cypro Minoan",
+            "Noto Sans Display",
+            "Noto Sans Indic Siyaq Numbers",
+            "Noto Sans Mayan Numerals",
+            "Noto Sans Mono",
+            "Noto Sans SignWriting",
+            "Noto Sans Symbols",
+            "Noto Sans Symbols 2",
+            "Noto Serif",
+            "Noto Serif Display",
+            "Noto Serif Khitan Small Script",
+            "Noto Serif Ottoman Siyaq",
+            "Noto Znamenny Musical Notation",
+        ],
+        ett_Ital: ["Noto Sans Old Italic"],
+        ett_Latn: [
+            "Noto Sans",
+            "Noto Sans Display",
+            "Noto Sans Mono",
+            "Noto Serif",
+            "Noto Serif Display",
+        ],
+        etx_Latn: [
+            "Noto Music",
+            "Noto Sans Cypro Minoan",
+            "Noto Sans Indic Siyaq Numbers",
+            "Noto Sans Mayan Numerals",
+            "Noto Sans SignWriting",
+            "Noto Sans Symbols",
+            "Noto Sans Symbols 2",
+            "Noto Serif Khitan Small Script",
+            "Noto Serif Ottoman Siyaq",
+        ],
+        eu_Latn: [
+            "Noto Music",
+            "Noto Sans",
+            "Noto Sans Cypro Minoan",
+            "Noto Sans Display",
+            "Noto Sans Indic Siyaq Numbers",
+            "Noto Sans Mayan Numerals",
+            "Noto Sans Mono",
+            "Noto Sans SignWriting",
+            "Noto Sans Symbols",
+            "Noto Sans Symbols 2",
+            "Noto Serif",
+            "Noto Serif Display",
+            "Noto Serif Khitan Small Script",
+            "Noto Serif Ottoman Siyaq",
+            "Noto Znamenny Musical Notation",
+        ],
+        eve_Cyrl: [
+            "Noto Sans",
+            "Noto Sans Display",
+            "Noto Sans Mono",
+            "Noto Serif",
+            "Noto Serif Display",
+        ],
+        evn_Cyrl: [
+            "Noto Sans",
+            "Noto Sans Display",
+            "Noto Sans Mono",
+            "Noto Serif",
+            "Noto Serif Display",
+        ],
+        evn_Latn: [
+            "Noto Sans",
+            "Noto Sans Display",
+            "Noto Sans Mono",
+            "Noto Serif",
+            "Noto Serif Display",
+        ],
+        ewo_Latn: [
+            "Noto Sans",
+            "Noto Sans Display",
+            "Noto Sans Mono",
+            "Noto Serif",
+            "Noto Serif Display",
+        ],
+        ext_Latn: [
+            "Noto Music",
+            "Noto Sans",
+            "Noto Sans Cypro Minoan",
+            "Noto Sans Display",
+            "Noto Sans Indic Siyaq Numbers",
+            "Noto Sans Mayan Numerals",
+            "Noto Sans Mono",
+            "Noto Sans SignWriting",
+            "Noto Sans Symbols",
+            "Noto Sans Symbols 2",
+            "Noto Serif",
+            "Noto Serif Display",
+            "Noto Serif Khitan Small Script",
+            "Noto Serif Ottoman Siyaq",
+            "Noto Znamenny Musical Notation",
+        ],
+        fa_Arab: [
             "Noto Kufi Arabic",
             "Noto Naskh Arabic",
             "Noto Naskh Arabic UI",
             "Noto Sans Arabic",
-            "Noto Sans Arabic UI"
+            "Noto Sans Arabic UI",
         ],
-        "fil_Latn": [
-            "Noto Music",
+        fan_Latn: [
             "Noto Sans",
-            "Noto Sans Cypro Minoan",
             "Noto Sans Display",
-            "Noto Sans Indic Siyaq Numbers",
-            "Noto Sans Mayan Numerals",
             "Noto Sans Mono",
-            "Noto Sans SignWriting",
-            "Noto Sans Symbols",
-            "Noto Sans Symbols 2",
             "Noto Serif",
             "Noto Serif Display",
-            "Noto Serif Khitan Small Script",
-            "Noto Serif Ottoman Siyaq",
-            "Noto Znamenny Musical Notation"
         ],
-        "fil_Tglg": ["Noto Sans Tagalog"],
-        "fit_Latn": [
-            "Noto Sans",
-            "Noto Sans Display",
-            "Noto Sans Mono",
-            "Noto Serif",
-            "Noto Serif Display"
-        ],
-        "fj_Latn": [
+        fbl_Latn: [
             "Noto Music",
             "Noto Sans",
             "Noto Sans Cypro Minoan",
@@ -3063,9 +2973,24 @@
             "Noto Serif Display",
             "Noto Serif Khitan Small Script",
             "Noto Serif Ottoman Siyaq",
-            "Noto Znamenny Musical Notation"
+            "Noto Znamenny Musical Notation",
         ],
-        "fkv_Latn": [
+        ff_Adlm: ["Noto Sans Adlam", "Noto Sans Adlam Unjoined"],
+        ff_Latn: [
+            "Noto Sans",
+            "Noto Sans Display",
+            "Noto Sans Mono",
+            "Noto Serif",
+            "Noto Serif Display",
+        ],
+        ffm_Latn: [
+            "Noto Sans",
+            "Noto Sans Display",
+            "Noto Sans Mono",
+            "Noto Serif",
+            "Noto Serif Display",
+        ],
+        fi_Latn: [
             "Noto Music",
             "Noto Sans",
             "Noto Sans Cypro Minoan",
@@ -3080,300 +3005,16 @@
             "Noto Serif Display",
             "Noto Serif Khitan Small Script",
             "Noto Serif Ottoman Siyaq",
-            "Noto Znamenny Musical Notation"
+            "Noto Znamenny Musical Notation",
         ],
-        "flr_Latn": [
-            "Noto Music",
-            "Noto Sans Cypro Minoan",
-            "Noto Sans Indic Siyaq Numbers",
-            "Noto Sans Mayan Numerals",
-            "Noto Sans SignWriting",
-            "Noto Sans Symbols",
-            "Noto Sans Symbols 2",
-            "Noto Serif Khitan Small Script",
-            "Noto Serif Ottoman Siyaq",
-            "Noto Znamenny Musical Notation"
-        ],
-        "fo_Latn": [
-            "Noto Music",
-            "Noto Sans",
-            "Noto Sans Cypro Minoan",
-            "Noto Sans Display",
-            "Noto Sans Indic Siyaq Numbers",
-            "Noto Sans Mayan Numerals",
-            "Noto Sans Mono",
-            "Noto Sans SignWriting",
-            "Noto Sans Symbols",
-            "Noto Sans Symbols 2",
-            "Noto Serif",
-            "Noto Serif Display",
-            "Noto Serif Khitan Small Script",
-            "Noto Serif Ottoman Siyaq",
-            "Noto Znamenny Musical Notation"
-        ],
-        "fon_Latn": [
-            "Noto Sans",
-            "Noto Sans Display",
-            "Noto Sans Mono",
-            "Noto Serif",
-            "Noto Serif Display"
-        ],
-        "fr_Dupl": ["Noto Sans Duployan"],
-        "fr_Latn": [
-            "Noto Music",
-            "Noto Sans",
-            "Noto Sans Cypro Minoan",
-            "Noto Sans Display",
-            "Noto Sans Indic Siyaq Numbers",
-            "Noto Sans Mayan Numerals",
-            "Noto Sans Mono",
-            "Noto Sans SignWriting",
-            "Noto Sans Symbols",
-            "Noto Sans Symbols 2",
-            "Noto Serif",
-            "Noto Serif Display",
-            "Noto Serif Khitan Small Script",
-            "Noto Serif Ottoman Siyaq",
-            "Noto Znamenny Musical Notation"
-        ],
-        "frc_Latn": [
-            "Noto Sans",
-            "Noto Sans Display",
-            "Noto Sans Mono",
-            "Noto Serif",
-            "Noto Serif Display"
-        ],
-        "frm_Latn": [
-            "Noto Sans",
-            "Noto Sans Display",
-            "Noto Sans Mono",
-            "Noto Serif",
-            "Noto Serif Display"
-        ],
-        "fro_Latn": [
-            "Noto Music",
-            "Noto Sans",
-            "Noto Sans Cypro Minoan",
-            "Noto Sans Display",
-            "Noto Sans Indic Siyaq Numbers",
-            "Noto Sans Mayan Numerals",
-            "Noto Sans Mono",
-            "Noto Sans SignWriting",
-            "Noto Sans Symbols",
-            "Noto Sans Symbols 2",
-            "Noto Serif",
-            "Noto Serif Display",
-            "Noto Serif Khitan Small Script",
-            "Noto Serif Ottoman Siyaq",
-            "Noto Znamenny Musical Notation"
-        ],
-        "frp_Latn": [
-            "Noto Music",
-            "Noto Sans",
-            "Noto Sans Cypro Minoan",
-            "Noto Sans Display",
-            "Noto Sans Indic Siyaq Numbers",
-            "Noto Sans Mayan Numerals",
-            "Noto Sans Mono",
-            "Noto Sans SignWriting",
-            "Noto Sans Symbols",
-            "Noto Sans Symbols 2",
-            "Noto Serif",
-            "Noto Serif Display",
-            "Noto Serif Khitan Small Script",
-            "Noto Serif Ottoman Siyaq",
-            "Noto Znamenny Musical Notation"
-        ],
-        "frr_Latn": [
-            "Noto Music",
-            "Noto Sans",
-            "Noto Sans Cypro Minoan",
-            "Noto Sans Display",
-            "Noto Sans Indic Siyaq Numbers",
-            "Noto Sans Mayan Numerals",
-            "Noto Sans Mono",
-            "Noto Sans SignWriting",
-            "Noto Sans Symbols",
-            "Noto Sans Symbols 2",
-            "Noto Serif",
-            "Noto Serif Display",
-            "Noto Serif Khitan Small Script",
-            "Noto Serif Ottoman Siyaq",
-            "Noto Znamenny Musical Notation"
-        ],
-        "frs_Latn": [
-            "Noto Sans",
-            "Noto Sans Display",
-            "Noto Sans Mono",
-            "Noto Serif",
-            "Noto Serif Display"
-        ],
-        "fuc_Latn": [
-            "Noto Sans",
-            "Noto Sans Display",
-            "Noto Sans Mono",
-            "Noto Serif",
-            "Noto Serif Display"
-        ],
-        "fud_Latn": [
-            "Noto Sans",
-            "Noto Sans Display",
-            "Noto Sans Mono",
-            "Noto Serif",
-            "Noto Serif Display"
-        ],
-        "fuf_Adlm": ["Noto Sans Adlam", "Noto Sans Adlam Unjoined"],
-        "fuf_Latn": [
-            "Noto Music",
-            "Noto Sans",
-            "Noto Sans Cypro Minoan",
-            "Noto Sans Display",
-            "Noto Sans Indic Siyaq Numbers",
-            "Noto Sans Mayan Numerals",
-            "Noto Sans Mono",
-            "Noto Sans SignWriting",
-            "Noto Sans Symbols",
-            "Noto Sans Symbols 2",
-            "Noto Serif",
-            "Noto Serif Display",
-            "Noto Serif Khitan Small Script",
-            "Noto Serif Ottoman Siyaq",
-            "Noto Znamenny Musical Notation"
-        ],
-        "fuq_Latn": [
-            "Noto Sans",
-            "Noto Sans Display",
-            "Noto Sans Mono",
-            "Noto Serif",
-            "Noto Serif Display"
-        ],
-        "fur_Latn": [
-            "Noto Music",
-            "Noto Sans",
-            "Noto Sans Cypro Minoan",
-            "Noto Sans Display",
-            "Noto Sans Indic Siyaq Numbers",
-            "Noto Sans Mayan Numerals",
-            "Noto Sans Mono",
-            "Noto Sans SignWriting",
-            "Noto Sans Symbols",
-            "Noto Sans Symbols 2",
-            "Noto Serif",
-            "Noto Serif Display",
-            "Noto Serif Khitan Small Script",
-            "Noto Serif Ottoman Siyaq",
-            "Noto Znamenny Musical Notation"
-        ],
-        "fuv_Latn": [
-            "Noto Sans",
-            "Noto Sans Display",
-            "Noto Sans Mono",
-            "Noto Serif",
-            "Noto Serif Display"
-        ],
-        "fvr_Latn": [
-            "Noto Music",
-            "Noto Sans",
-            "Noto Sans Cypro Minoan",
-            "Noto Sans Display",
-            "Noto Sans Indic Siyaq Numbers",
-            "Noto Sans Mayan Numerals",
-            "Noto Sans Mono",
-            "Noto Sans SignWriting",
-            "Noto Sans Symbols",
-            "Noto Sans Symbols 2",
-            "Noto Serif",
-            "Noto Serif Display",
-            "Noto Serif Khitan Small Script",
-            "Noto Serif Ottoman Siyaq",
-            "Noto Znamenny Musical Notation"
-        ],
-        "fy_Latn": [
-            "Noto Music",
-            "Noto Sans",
-            "Noto Sans Cypro Minoan",
-            "Noto Sans Display",
-            "Noto Sans Indic Siyaq Numbers",
-            "Noto Sans Mayan Numerals",
-            "Noto Sans Mono",
-            "Noto Sans SignWriting",
-            "Noto Sans Symbols",
-            "Noto Sans Symbols 2",
-            "Noto Serif",
-            "Noto Serif Display",
-            "Noto Serif Khitan Small Script",
-            "Noto Serif Ottoman Siyaq",
-            "Noto Znamenny Musical Notation"
-        ],
-        "ga_Latn": [
-            "Noto Music",
-            "Noto Sans",
-            "Noto Sans Cypro Minoan",
-            "Noto Sans Display",
-            "Noto Sans Indic Siyaq Numbers",
-            "Noto Sans Mayan Numerals",
-            "Noto Sans Mono",
-            "Noto Sans SignWriting",
-            "Noto Sans Symbols",
-            "Noto Sans Symbols 2",
-            "Noto Serif",
-            "Noto Serif Display",
-            "Noto Serif Khitan Small Script",
-            "Noto Serif Ottoman Siyaq",
-            "Noto Znamenny Musical Notation"
-        ],
-        "gaa_Latn": [
-            "Noto Sans",
-            "Noto Sans Display",
-            "Noto Sans Mono",
-            "Noto Serif",
-            "Noto Serif Display"
-        ],
-        "gag_Cyrl": [
-            "Noto Sans",
-            "Noto Sans Display",
-            "Noto Sans Mono",
-            "Noto Serif",
-            "Noto Serif Display"
-        ],
-        "gag_Latn": [
-            "Noto Sans",
-            "Noto Sans Display",
-            "Noto Sans Mono",
-            "Noto Serif",
-            "Noto Serif Display"
-        ],
-        "gah_Latn": ["Noto Znamenny Musical Notation"],
-        "gan_Hans": ["Noto Sans SC", "Noto Serif SC"],
-        "gan_Hant": ["Noto Sans HK", "Noto Sans TC", "Noto Serif HK"],
-        "gay_Latn": [
-            "Noto Sans",
-            "Noto Sans Display",
-            "Noto Sans Mono",
-            "Noto Serif",
-            "Noto Serif Display"
-        ],
-        "gba_Latn": [
-            "Noto Sans",
-            "Noto Sans Display",
-            "Noto Sans Mono",
-            "Noto Serif",
-            "Noto Serif Display"
-        ],
-        "gbm_Deva": [
-            "Noto Sans",
-            "Noto Sans Devanagari",
-            "Noto Sans Devanagari UI",
-            "Noto Serif Devanagari"
-        ],
-        "gbz_Arab": [
+        fia_Arab: [
             "Noto Kufi Arabic",
             "Noto Naskh Arabic",
             "Noto Naskh Arabic UI",
             "Noto Sans Arabic",
-            "Noto Sans Arabic UI"
+            "Noto Sans Arabic UI",
         ],
-        "gcf_Latn": [
+        fil_Latn: [
             "Noto Music",
             "Noto Sans",
             "Noto Sans Cypro Minoan",
@@ -3388,86 +3029,17 @@
             "Noto Serif Display",
             "Noto Serif Khitan Small Script",
             "Noto Serif Ottoman Siyaq",
-            "Noto Znamenny Musical Notation"
+            "Noto Znamenny Musical Notation",
         ],
-        "gcr_Latn": [
-            "Noto Music",
+        fil_Tglg: ["Noto Sans Tagalog"],
+        fit_Latn: [
             "Noto Sans",
-            "Noto Sans Cypro Minoan",
             "Noto Sans Display",
-            "Noto Sans Indic Siyaq Numbers",
-            "Noto Sans Mayan Numerals",
             "Noto Sans Mono",
-            "Noto Sans SignWriting",
-            "Noto Sans Symbols",
-            "Noto Sans Symbols 2",
             "Noto Serif",
             "Noto Serif Display",
-            "Noto Serif Khitan Small Script",
-            "Noto Serif Ottoman Siyaq",
-            "Noto Znamenny Musical Notation"
         ],
-        "gd_Latn": [
-            "Noto Music",
-            "Noto Sans",
-            "Noto Sans Cypro Minoan",
-            "Noto Sans Display",
-            "Noto Sans Indic Siyaq Numbers",
-            "Noto Sans Mayan Numerals",
-            "Noto Sans Mono",
-            "Noto Sans SignWriting",
-            "Noto Sans Symbols",
-            "Noto Sans Symbols 2",
-            "Noto Serif",
-            "Noto Serif Display",
-            "Noto Serif Khitan Small Script",
-            "Noto Serif Ottoman Siyaq",
-            "Noto Znamenny Musical Notation"
-        ],
-        "gel_Latn": [
-            "Noto Music",
-            "Noto Sans Cypro Minoan",
-            "Noto Sans Indic Siyaq Numbers",
-            "Noto Sans Mayan Numerals",
-            "Noto Sans SignWriting",
-            "Noto Sans Symbols",
-            "Noto Sans Symbols 2",
-            "Noto Serif Khitan Small Script",
-            "Noto Serif Ottoman Siyaq",
-            "Noto Znamenny Musical Notation"
-        ],
-        "gem_Latn": [
-            "Noto Music",
-            "Noto Sans",
-            "Noto Sans Cypro Minoan",
-            "Noto Sans Display",
-            "Noto Sans Indic Siyaq Numbers",
-            "Noto Sans Mayan Numerals",
-            "Noto Sans Mono",
-            "Noto Sans SignWriting",
-            "Noto Sans Symbols",
-            "Noto Sans Symbols 2",
-            "Noto Serif",
-            "Noto Serif Display",
-            "Noto Serif Khitan Small Script",
-            "Noto Serif Ottoman Siyaq",
-            "Noto Znamenny Musical Notation"
-        ],
-        "gez_Ethi": ["Noto Sans Ethiopic", "Noto Serif Ethiopic"],
-        "ggn_Deva": [
-            "Noto Sans",
-            "Noto Sans Devanagari",
-            "Noto Sans Devanagari UI",
-            "Noto Serif Devanagari"
-        ],
-        "ggn_Latn": [
-            "Noto Sans",
-            "Noto Sans Display",
-            "Noto Sans Mono",
-            "Noto Serif",
-            "Noto Serif Display"
-        ],
-        "gil_Latn": [
+        fj_Latn: [
             "Noto Music",
             "Noto Sans",
             "Noto Sans Cypro Minoan",
@@ -3483,9 +3055,9 @@
             "Noto Serif Display",
             "Noto Serif Khitan Small Script",
             "Noto Serif Ottoman Siyaq",
-            "Noto Znamenny Musical Notation"
+            "Noto Znamenny Musical Notation",
         ],
-        "giw_Latn": [
+        fkv_Latn: [
             "Noto Music",
             "Noto Sans",
             "Noto Sans Cypro Minoan",
@@ -3500,16 +3072,300 @@
             "Noto Serif Display",
             "Noto Serif Khitan Small Script",
             "Noto Serif Ottoman Siyaq",
-            "Noto Znamenny Musical Notation"
+            "Noto Znamenny Musical Notation",
         ],
-        "gjk_Arab": [
+        flr_Latn: [
+            "Noto Music",
+            "Noto Sans Cypro Minoan",
+            "Noto Sans Indic Siyaq Numbers",
+            "Noto Sans Mayan Numerals",
+            "Noto Sans SignWriting",
+            "Noto Sans Symbols",
+            "Noto Sans Symbols 2",
+            "Noto Serif Khitan Small Script",
+            "Noto Serif Ottoman Siyaq",
+            "Noto Znamenny Musical Notation",
+        ],
+        fo_Latn: [
+            "Noto Music",
+            "Noto Sans",
+            "Noto Sans Cypro Minoan",
+            "Noto Sans Display",
+            "Noto Sans Indic Siyaq Numbers",
+            "Noto Sans Mayan Numerals",
+            "Noto Sans Mono",
+            "Noto Sans SignWriting",
+            "Noto Sans Symbols",
+            "Noto Sans Symbols 2",
+            "Noto Serif",
+            "Noto Serif Display",
+            "Noto Serif Khitan Small Script",
+            "Noto Serif Ottoman Siyaq",
+            "Noto Znamenny Musical Notation",
+        ],
+        fon_Latn: [
+            "Noto Sans",
+            "Noto Sans Display",
+            "Noto Sans Mono",
+            "Noto Serif",
+            "Noto Serif Display",
+        ],
+        fr_Dupl: ["Noto Sans Duployan"],
+        fr_Latn: [
+            "Noto Music",
+            "Noto Sans",
+            "Noto Sans Cypro Minoan",
+            "Noto Sans Display",
+            "Noto Sans Indic Siyaq Numbers",
+            "Noto Sans Mayan Numerals",
+            "Noto Sans Mono",
+            "Noto Sans SignWriting",
+            "Noto Sans Symbols",
+            "Noto Sans Symbols 2",
+            "Noto Serif",
+            "Noto Serif Display",
+            "Noto Serif Khitan Small Script",
+            "Noto Serif Ottoman Siyaq",
+            "Noto Znamenny Musical Notation",
+        ],
+        frc_Latn: [
+            "Noto Sans",
+            "Noto Sans Display",
+            "Noto Sans Mono",
+            "Noto Serif",
+            "Noto Serif Display",
+        ],
+        frm_Latn: [
+            "Noto Sans",
+            "Noto Sans Display",
+            "Noto Sans Mono",
+            "Noto Serif",
+            "Noto Serif Display",
+        ],
+        fro_Latn: [
+            "Noto Music",
+            "Noto Sans",
+            "Noto Sans Cypro Minoan",
+            "Noto Sans Display",
+            "Noto Sans Indic Siyaq Numbers",
+            "Noto Sans Mayan Numerals",
+            "Noto Sans Mono",
+            "Noto Sans SignWriting",
+            "Noto Sans Symbols",
+            "Noto Sans Symbols 2",
+            "Noto Serif",
+            "Noto Serif Display",
+            "Noto Serif Khitan Small Script",
+            "Noto Serif Ottoman Siyaq",
+            "Noto Znamenny Musical Notation",
+        ],
+        frp_Latn: [
+            "Noto Music",
+            "Noto Sans",
+            "Noto Sans Cypro Minoan",
+            "Noto Sans Display",
+            "Noto Sans Indic Siyaq Numbers",
+            "Noto Sans Mayan Numerals",
+            "Noto Sans Mono",
+            "Noto Sans SignWriting",
+            "Noto Sans Symbols",
+            "Noto Sans Symbols 2",
+            "Noto Serif",
+            "Noto Serif Display",
+            "Noto Serif Khitan Small Script",
+            "Noto Serif Ottoman Siyaq",
+            "Noto Znamenny Musical Notation",
+        ],
+        frr_Latn: [
+            "Noto Music",
+            "Noto Sans",
+            "Noto Sans Cypro Minoan",
+            "Noto Sans Display",
+            "Noto Sans Indic Siyaq Numbers",
+            "Noto Sans Mayan Numerals",
+            "Noto Sans Mono",
+            "Noto Sans SignWriting",
+            "Noto Sans Symbols",
+            "Noto Sans Symbols 2",
+            "Noto Serif",
+            "Noto Serif Display",
+            "Noto Serif Khitan Small Script",
+            "Noto Serif Ottoman Siyaq",
+            "Noto Znamenny Musical Notation",
+        ],
+        frs_Latn: [
+            "Noto Sans",
+            "Noto Sans Display",
+            "Noto Sans Mono",
+            "Noto Serif",
+            "Noto Serif Display",
+        ],
+        fuc_Latn: [
+            "Noto Sans",
+            "Noto Sans Display",
+            "Noto Sans Mono",
+            "Noto Serif",
+            "Noto Serif Display",
+        ],
+        fud_Latn: [
+            "Noto Sans",
+            "Noto Sans Display",
+            "Noto Sans Mono",
+            "Noto Serif",
+            "Noto Serif Display",
+        ],
+        fuf_Adlm: ["Noto Sans Adlam", "Noto Sans Adlam Unjoined"],
+        fuf_Latn: [
+            "Noto Music",
+            "Noto Sans",
+            "Noto Sans Cypro Minoan",
+            "Noto Sans Display",
+            "Noto Sans Indic Siyaq Numbers",
+            "Noto Sans Mayan Numerals",
+            "Noto Sans Mono",
+            "Noto Sans SignWriting",
+            "Noto Sans Symbols",
+            "Noto Sans Symbols 2",
+            "Noto Serif",
+            "Noto Serif Display",
+            "Noto Serif Khitan Small Script",
+            "Noto Serif Ottoman Siyaq",
+            "Noto Znamenny Musical Notation",
+        ],
+        fuq_Latn: [
+            "Noto Sans",
+            "Noto Sans Display",
+            "Noto Sans Mono",
+            "Noto Serif",
+            "Noto Serif Display",
+        ],
+        fur_Latn: [
+            "Noto Music",
+            "Noto Sans",
+            "Noto Sans Cypro Minoan",
+            "Noto Sans Display",
+            "Noto Sans Indic Siyaq Numbers",
+            "Noto Sans Mayan Numerals",
+            "Noto Sans Mono",
+            "Noto Sans SignWriting",
+            "Noto Sans Symbols",
+            "Noto Sans Symbols 2",
+            "Noto Serif",
+            "Noto Serif Display",
+            "Noto Serif Khitan Small Script",
+            "Noto Serif Ottoman Siyaq",
+            "Noto Znamenny Musical Notation",
+        ],
+        fuv_Latn: [
+            "Noto Sans",
+            "Noto Sans Display",
+            "Noto Sans Mono",
+            "Noto Serif",
+            "Noto Serif Display",
+        ],
+        fvr_Latn: [
+            "Noto Music",
+            "Noto Sans",
+            "Noto Sans Cypro Minoan",
+            "Noto Sans Display",
+            "Noto Sans Indic Siyaq Numbers",
+            "Noto Sans Mayan Numerals",
+            "Noto Sans Mono",
+            "Noto Sans SignWriting",
+            "Noto Sans Symbols",
+            "Noto Sans Symbols 2",
+            "Noto Serif",
+            "Noto Serif Display",
+            "Noto Serif Khitan Small Script",
+            "Noto Serif Ottoman Siyaq",
+            "Noto Znamenny Musical Notation",
+        ],
+        fy_Latn: [
+            "Noto Music",
+            "Noto Sans",
+            "Noto Sans Cypro Minoan",
+            "Noto Sans Display",
+            "Noto Sans Indic Siyaq Numbers",
+            "Noto Sans Mayan Numerals",
+            "Noto Sans Mono",
+            "Noto Sans SignWriting",
+            "Noto Sans Symbols",
+            "Noto Sans Symbols 2",
+            "Noto Serif",
+            "Noto Serif Display",
+            "Noto Serif Khitan Small Script",
+            "Noto Serif Ottoman Siyaq",
+            "Noto Znamenny Musical Notation",
+        ],
+        ga_Latn: [
+            "Noto Music",
+            "Noto Sans",
+            "Noto Sans Cypro Minoan",
+            "Noto Sans Display",
+            "Noto Sans Indic Siyaq Numbers",
+            "Noto Sans Mayan Numerals",
+            "Noto Sans Mono",
+            "Noto Sans SignWriting",
+            "Noto Sans Symbols",
+            "Noto Sans Symbols 2",
+            "Noto Serif",
+            "Noto Serif Display",
+            "Noto Serif Khitan Small Script",
+            "Noto Serif Ottoman Siyaq",
+            "Noto Znamenny Musical Notation",
+        ],
+        gaa_Latn: [
+            "Noto Sans",
+            "Noto Sans Display",
+            "Noto Sans Mono",
+            "Noto Serif",
+            "Noto Serif Display",
+        ],
+        gag_Cyrl: [
+            "Noto Sans",
+            "Noto Sans Display",
+            "Noto Sans Mono",
+            "Noto Serif",
+            "Noto Serif Display",
+        ],
+        gag_Latn: [
+            "Noto Sans",
+            "Noto Sans Display",
+            "Noto Sans Mono",
+            "Noto Serif",
+            "Noto Serif Display",
+        ],
+        gah_Latn: ["Noto Znamenny Musical Notation"],
+        gan_Hans: ["Noto Sans SC", "Noto Serif SC"],
+        gan_Hant: ["Noto Sans HK", "Noto Sans TC", "Noto Serif HK"],
+        gay_Latn: [
+            "Noto Sans",
+            "Noto Sans Display",
+            "Noto Sans Mono",
+            "Noto Serif",
+            "Noto Serif Display",
+        ],
+        gba_Latn: [
+            "Noto Sans",
+            "Noto Sans Display",
+            "Noto Sans Mono",
+            "Noto Serif",
+            "Noto Serif Display",
+        ],
+        gbm_Deva: [
+            "Noto Sans",
+            "Noto Sans Devanagari",
+            "Noto Sans Devanagari UI",
+            "Noto Serif Devanagari",
+        ],
+        gbz_Arab: [
             "Noto Kufi Arabic",
             "Noto Naskh Arabic",
             "Noto Naskh Arabic UI",
             "Noto Sans Arabic",
-            "Noto Sans Arabic UI"
+            "Noto Sans Arabic UI",
         ],
-        "gjn_Latn": [
+        gcf_Latn: [
             "Noto Music",
             "Noto Sans",
             "Noto Sans Cypro Minoan",
@@ -3523,29 +3379,129 @@
             "Noto Serif",
             "Noto Serif Display",
             "Noto Serif Khitan Small Script",
-            "Noto Serif Ottoman Siyaq"
+            "Noto Serif Ottoman Siyaq",
+            "Noto Znamenny Musical Notation",
         ],
-        "gju_Arab": [
+        gcr_Latn: [
+            "Noto Music",
+            "Noto Sans",
+            "Noto Sans Cypro Minoan",
+            "Noto Sans Display",
+            "Noto Sans Indic Siyaq Numbers",
+            "Noto Sans Mayan Numerals",
+            "Noto Sans Mono",
+            "Noto Sans SignWriting",
+            "Noto Sans Symbols",
+            "Noto Sans Symbols 2",
+            "Noto Serif",
+            "Noto Serif Display",
+            "Noto Serif Khitan Small Script",
+            "Noto Serif Ottoman Siyaq",
+            "Noto Znamenny Musical Notation",
+        ],
+        gd_Latn: [
+            "Noto Music",
+            "Noto Sans",
+            "Noto Sans Cypro Minoan",
+            "Noto Sans Display",
+            "Noto Sans Indic Siyaq Numbers",
+            "Noto Sans Mayan Numerals",
+            "Noto Sans Mono",
+            "Noto Sans SignWriting",
+            "Noto Sans Symbols",
+            "Noto Sans Symbols 2",
+            "Noto Serif",
+            "Noto Serif Display",
+            "Noto Serif Khitan Small Script",
+            "Noto Serif Ottoman Siyaq",
+            "Noto Znamenny Musical Notation",
+        ],
+        gel_Latn: [
+            "Noto Music",
+            "Noto Sans Cypro Minoan",
+            "Noto Sans Indic Siyaq Numbers",
+            "Noto Sans Mayan Numerals",
+            "Noto Sans SignWriting",
+            "Noto Sans Symbols",
+            "Noto Sans Symbols 2",
+            "Noto Serif Khitan Small Script",
+            "Noto Serif Ottoman Siyaq",
+            "Noto Znamenny Musical Notation",
+        ],
+        gem_Latn: [
+            "Noto Music",
+            "Noto Sans",
+            "Noto Sans Cypro Minoan",
+            "Noto Sans Display",
+            "Noto Sans Indic Siyaq Numbers",
+            "Noto Sans Mayan Numerals",
+            "Noto Sans Mono",
+            "Noto Sans SignWriting",
+            "Noto Sans Symbols",
+            "Noto Sans Symbols 2",
+            "Noto Serif",
+            "Noto Serif Display",
+            "Noto Serif Khitan Small Script",
+            "Noto Serif Ottoman Siyaq",
+            "Noto Znamenny Musical Notation",
+        ],
+        gez_Ethi: ["Noto Sans Ethiopic", "Noto Serif Ethiopic"],
+        ggn_Deva: [
+            "Noto Sans",
+            "Noto Sans Devanagari",
+            "Noto Sans Devanagari UI",
+            "Noto Serif Devanagari",
+        ],
+        ggn_Latn: [
+            "Noto Sans",
+            "Noto Sans Display",
+            "Noto Sans Mono",
+            "Noto Serif",
+            "Noto Serif Display",
+        ],
+        gil_Latn: [
+            "Noto Music",
+            "Noto Sans",
+            "Noto Sans Cypro Minoan",
+            "Noto Sans Display",
+            "Noto Sans Indic Siyaq Numbers",
+            "Noto Sans Math",
+            "Noto Sans Mayan Numerals",
+            "Noto Sans Mono",
+            "Noto Sans SignWriting",
+            "Noto Sans Symbols",
+            "Noto Sans Symbols 2",
+            "Noto Serif",
+            "Noto Serif Display",
+            "Noto Serif Khitan Small Script",
+            "Noto Serif Ottoman Siyaq",
+            "Noto Znamenny Musical Notation",
+        ],
+        giw_Latn: [
+            "Noto Music",
+            "Noto Sans",
+            "Noto Sans Cypro Minoan",
+            "Noto Sans Display",
+            "Noto Sans Indic Siyaq Numbers",
+            "Noto Sans Mayan Numerals",
+            "Noto Sans Mono",
+            "Noto Sans SignWriting",
+            "Noto Sans Symbols",
+            "Noto Sans Symbols 2",
+            "Noto Serif",
+            "Noto Serif Display",
+            "Noto Serif Khitan Small Script",
+            "Noto Serif Ottoman Siyaq",
+            "Noto Znamenny Musical Notation",
+        ],
+        gjk_Arab: [
             "Noto Kufi Arabic",
             "Noto Naskh Arabic",
             "Noto Naskh Arabic UI",
             "Noto Sans Arabic",
-            "Noto Sans Arabic UI"
+            "Noto Sans Arabic UI",
         ],
-        "gju_Deva": [
-            "Noto Sans",
-            "Noto Sans Devanagari",
-            "Noto Sans Devanagari UI",
-            "Noto Serif Devanagari"
-        ],
-        "gkp_Latn": [
-            "Noto Sans",
-            "Noto Sans Display",
-            "Noto Sans Mono",
-            "Noto Serif",
-            "Noto Serif Display"
-        ],
-        "gl_Latn": [
+        gjn_Latn: [
             "Noto Music",
             "Noto Sans",
             "Noto Sans Cypro Minoan",
@@ -3560,23 +3516,28 @@
             "Noto Serif Display",
             "Noto Serif Khitan Small Script",
             "Noto Serif Ottoman Siyaq",
-            "Noto Znamenny Musical Notation"
         ],
-        "gld_Cyrl": [
-            "Noto Sans",
-            "Noto Sans Display",
-            "Noto Sans Mono",
-            "Noto Serif",
-            "Noto Serif Display"
-        ],
-        "glk_Arab": [
+        gju_Arab: [
             "Noto Kufi Arabic",
             "Noto Naskh Arabic",
             "Noto Naskh Arabic UI",
             "Noto Sans Arabic",
-            "Noto Sans Arabic UI"
+            "Noto Sans Arabic UI",
         ],
-        "gmh_Latn": [
+        gju_Deva: [
+            "Noto Sans",
+            "Noto Sans Devanagari",
+            "Noto Sans Devanagari UI",
+            "Noto Serif Devanagari",
+        ],
+        gkp_Latn: [
+            "Noto Sans",
+            "Noto Sans Display",
+            "Noto Sans Mono",
+            "Noto Serif",
+            "Noto Serif Display",
+        ],
+        gl_Latn: [
             "Noto Music",
             "Noto Sans",
             "Noto Sans Cypro Minoan",
@@ -3591,41 +3552,23 @@
             "Noto Serif Display",
             "Noto Serif Khitan Small Script",
             "Noto Serif Ottoman Siyaq",
-            "Noto Znamenny Musical Notation"
+            "Noto Znamenny Musical Notation",
         ],
-        "gmv_Latn": [
-            "Noto Music",
-            "Noto Sans Cypro Minoan",
-            "Noto Sans Indic Siyaq Numbers",
-            "Noto Sans Mayan Numerals",
-            "Noto Sans SignWriting",
-            "Noto Sans Symbols",
-            "Noto Sans Symbols 2",
-            "Noto Serif Khitan Small Script",
-            "Noto Serif Ottoman Siyaq",
-            "Noto Znamenny Musical Notation"
-        ],
-        "gmy_Linb": ["Noto Sans Linear B"],
-        "gn_Latn": [
+        gld_Cyrl: [
             "Noto Sans",
             "Noto Sans Display",
             "Noto Sans Mono",
             "Noto Serif",
-            "Noto Serif Display"
+            "Noto Serif Display",
         ],
-        "gof_Latn": [
-            "Noto Music",
-            "Noto Sans Cypro Minoan",
-            "Noto Sans Indic Siyaq Numbers",
-            "Noto Sans Mayan Numerals",
-            "Noto Sans SignWriting",
-            "Noto Sans Symbols",
-            "Noto Sans Symbols 2",
-            "Noto Serif Khitan Small Script",
-            "Noto Serif Ottoman Siyaq",
-            "Noto Znamenny Musical Notation"
+        glk_Arab: [
+            "Noto Kufi Arabic",
+            "Noto Naskh Arabic",
+            "Noto Naskh Arabic UI",
+            "Noto Sans Arabic",
+            "Noto Sans Arabic UI",
         ],
-        "goh_Latn": [
+        gmh_Latn: [
             "Noto Music",
             "Noto Sans",
             "Noto Sans Cypro Minoan",
@@ -3640,61 +3583,110 @@
             "Noto Serif Display",
             "Noto Serif Khitan Small Script",
             "Noto Serif Ottoman Siyaq",
-            "Noto Znamenny Musical Notation"
+            "Noto Znamenny Musical Notation",
         ],
-        "gom_Deva": [
+        gmv_Latn: [
+            "Noto Music",
+            "Noto Sans Cypro Minoan",
+            "Noto Sans Indic Siyaq Numbers",
+            "Noto Sans Mayan Numerals",
+            "Noto Sans SignWriting",
+            "Noto Sans Symbols",
+            "Noto Sans Symbols 2",
+            "Noto Serif Khitan Small Script",
+            "Noto Serif Ottoman Siyaq",
+            "Noto Znamenny Musical Notation",
+        ],
+        gmy_Linb: ["Noto Sans Linear B"],
+        gn_Latn: [
+            "Noto Sans",
+            "Noto Sans Display",
+            "Noto Sans Mono",
+            "Noto Serif",
+            "Noto Serif Display",
+        ],
+        gof_Latn: [
+            "Noto Music",
+            "Noto Sans Cypro Minoan",
+            "Noto Sans Indic Siyaq Numbers",
+            "Noto Sans Mayan Numerals",
+            "Noto Sans SignWriting",
+            "Noto Sans Symbols",
+            "Noto Sans Symbols 2",
+            "Noto Serif Khitan Small Script",
+            "Noto Serif Ottoman Siyaq",
+            "Noto Znamenny Musical Notation",
+        ],
+        goh_Latn: [
+            "Noto Music",
+            "Noto Sans",
+            "Noto Sans Cypro Minoan",
+            "Noto Sans Display",
+            "Noto Sans Indic Siyaq Numbers",
+            "Noto Sans Mayan Numerals",
+            "Noto Sans Mono",
+            "Noto Sans SignWriting",
+            "Noto Sans Symbols",
+            "Noto Sans Symbols 2",
+            "Noto Serif",
+            "Noto Serif Display",
+            "Noto Serif Khitan Small Script",
+            "Noto Serif Ottoman Siyaq",
+            "Noto Znamenny Musical Notation",
+        ],
+        gom_Deva: [
             "Noto Sans",
             "Noto Sans Devanagari",
             "Noto Sans Devanagari UI",
-            "Noto Serif Devanagari"
+            "Noto Serif Devanagari",
         ],
-        "gon_Deva": [
+        gon_Deva: [
             "Noto Sans",
             "Noto Sans Devanagari",
             "Noto Sans Devanagari UI",
-            "Noto Serif Devanagari"
+            "Noto Serif Devanagari",
         ],
-        "gon_Gong": ["Noto Sans Gunjala Gondi"],
-        "gon_Gonm": ["Noto Sans Masaram Gondi"],
-        "gon_Telu": ["Noto Sans Telugu", "Noto Serif Telugu"],
-        "gor_Latn": [
+        gon_Gong: ["Noto Sans Gunjala Gondi"],
+        gon_Gonm: ["Noto Sans Masaram Gondi"],
+        gon_Telu: ["Noto Sans Telugu", "Noto Serif Telugu"],
+        gor_Latn: [
             "Noto Sans",
             "Noto Sans Display",
             "Noto Sans Mono",
             "Noto Serif",
-            "Noto Serif Display"
+            "Noto Serif Display",
         ],
-        "gos_Latn": [
+        gos_Latn: [
             "Noto Sans",
             "Noto Sans Display",
             "Noto Sans Mono",
             "Noto Serif",
-            "Noto Serif Display"
+            "Noto Serif Display",
         ],
-        "got_Goth": ["Noto Sans Gothic"],
-        "got_Runr": ["Noto Sans Runic"],
-        "grb_Latn": [
+        got_Goth: ["Noto Sans Gothic"],
+        got_Runr: ["Noto Sans Runic"],
+        grb_Latn: [
             "Noto Sans",
             "Noto Sans Display",
             "Noto Sans Mono",
             "Noto Serif",
-            "Noto Serif Display"
+            "Noto Serif Display",
         ],
-        "grc_Cprt": ["Noto Sans Cypriot"],
-        "grc_Grek": [
+        grc_Cprt: ["Noto Sans Cypriot"],
+        grc_Grek: [
             "Noto Sans",
             "Noto Sans Display",
             "Noto Sans Mono",
             "Noto Serif",
-            "Noto Serif Display"
+            "Noto Serif Display",
         ],
-        "grc_Linb": ["Noto Sans Linear B"],
-        "grt_Beng": [
+        grc_Linb: ["Noto Sans Linear B"],
+        grt_Beng: [
             "Noto Sans Bengali",
             "Noto Sans Bengali UI",
-            "Noto Serif Bengali"
+            "Noto Serif Bengali",
         ],
-        "gsw_Latn": [
+        gsw_Latn: [
             "Noto Music",
             "Noto Sans",
             "Noto Sans Cypro Minoan",
@@ -3709,21 +3701,21 @@
             "Noto Serif Display",
             "Noto Serif Khitan Small Script",
             "Noto Serif Ottoman Siyaq",
-            "Noto Znamenny Musical Notation"
+            "Noto Znamenny Musical Notation",
         ],
-        "gu_Gujr": [
+        gu_Gujr: [
             "Noto Sans Gujarati",
             "Noto Sans Gujarati UI",
-            "Noto Serif Gujarati"
+            "Noto Serif Gujarati",
         ],
-        "gub_Latn": [
+        gub_Latn: [
             "Noto Sans",
             "Noto Sans Display",
             "Noto Sans Mono",
             "Noto Serif",
-            "Noto Serif Display"
+            "Noto Serif Display",
         ],
-        "guc_Latn": [
+        guc_Latn: [
             "Noto Music",
             "Noto Sans",
             "Noto Sans Cypro Minoan",
@@ -3738,16 +3730,16 @@
             "Noto Serif Display",
             "Noto Serif Khitan Small Script",
             "Noto Serif Ottoman Siyaq",
-            "Noto Znamenny Musical Notation"
+            "Noto Znamenny Musical Notation",
         ],
-        "gur_Latn": [
+        gur_Latn: [
             "Noto Sans",
             "Noto Sans Display",
             "Noto Sans Mono",
             "Noto Serif",
-            "Noto Serif Display"
+            "Noto Serif Display",
         ],
-        "guu_Latn": [
+        guu_Latn: [
             "Noto Music",
             "Noto Sans",
             "Noto Sans Cypro Minoan",
@@ -3762,10 +3754,10 @@
             "Noto Serif Display",
             "Noto Serif Khitan Small Script",
             "Noto Serif Ottoman Siyaq",
-            "Noto Znamenny Musical Notation"
+            "Noto Znamenny Musical Notation",
         ],
-        "gux_Latn": ["Noto Znamenny Musical Notation"],
-        "guz_Latn": [
+        gux_Latn: ["Noto Znamenny Musical Notation"],
+        guz_Latn: [
             "Noto Music",
             "Noto Sans",
             "Noto Sans Cypro Minoan",
@@ -3781,9 +3773,9 @@
             "Noto Serif Display",
             "Noto Serif Khitan Small Script",
             "Noto Serif Ottoman Siyaq",
-            "Noto Znamenny Musical Notation"
+            "Noto Znamenny Musical Notation",
         ],
-        "gv_Latn": [
+        gv_Latn: [
             "Noto Music",
             "Noto Sans",
             "Noto Sans Cypro Minoan",
@@ -3798,22 +3790,22 @@
             "Noto Serif Display",
             "Noto Serif Khitan Small Script",
             "Noto Serif Ottoman Siyaq",
-            "Noto Znamenny Musical Notation"
+            "Noto Znamenny Musical Notation",
         ],
-        "gvr_Deva": [
+        gvr_Deva: [
             "Noto Sans",
             "Noto Sans Devanagari",
             "Noto Sans Devanagari UI",
-            "Noto Serif Devanagari"
+            "Noto Serif Devanagari",
         ],
-        "gwi_Latn": [
+        gwi_Latn: [
             "Noto Sans",
             "Noto Sans Display",
             "Noto Sans Mono",
             "Noto Serif",
-            "Noto Serif Display"
+            "Noto Serif Display",
         ],
-        "gyi_Latn": [
+        gyi_Latn: [
             "Noto Music",
             "Noto Sans Cypro Minoan",
             "Noto Sans Indic Siyaq Numbers",
@@ -3823,9 +3815,9 @@
             "Noto Sans Symbols 2",
             "Noto Serif Khitan Small Script",
             "Noto Serif Ottoman Siyaq",
-            "Noto Znamenny Musical Notation"
+            "Noto Znamenny Musical Notation",
         ],
-        "gyr_Latn": [
+        gyr_Latn: [
             "Noto Music",
             "Noto Sans",
             "Noto Sans Cypro Minoan",
@@ -3840,23 +3832,23 @@
             "Noto Serif Display",
             "Noto Serif Khitan Small Script",
             "Noto Serif Ottoman Siyaq",
-            "Noto Znamenny Musical Notation"
+            "Noto Znamenny Musical Notation",
         ],
-        "ha_Arab": [
+        ha_Arab: [
             "Noto Kufi Arabic",
             "Noto Naskh Arabic",
             "Noto Naskh Arabic UI",
             "Noto Sans Arabic",
-            "Noto Sans Arabic UI"
+            "Noto Sans Arabic UI",
         ],
-        "ha_Latn": [
+        ha_Latn: [
             "Noto Sans",
             "Noto Sans Display",
             "Noto Sans Mono",
             "Noto Serif",
-            "Noto Serif Display"
+            "Noto Serif Display",
         ],
-        "hag_Latn": [
+        hag_Latn: [
             "Noto Music",
             "Noto Sans Cypro Minoan",
             "Noto Sans Indic Siyaq Numbers",
@@ -3866,49 +3858,45 @@
             "Noto Sans Symbols 2",
             "Noto Serif Khitan Small Script",
             "Noto Serif Ottoman Siyaq",
-            "Noto Znamenny Musical Notation"
+            "Noto Znamenny Musical Notation",
         ],
-        "hai_Latn": [
+        hai_Latn: [
             "Noto Sans",
             "Noto Sans Display",
             "Noto Sans Mono",
             "Noto Serif",
-            "Noto Serif Display"
+            "Noto Serif Display",
         ],
-        "hak_Hans": ["Noto Sans SC", "Noto Serif SC"],
-        "hak_Hant": [
+        hak_Hans: ["Noto Sans SC", "Noto Serif SC"],
+        hak_Hant: [
             "Noto Sans HK",
             "Noto Sans TC",
             "Noto Serif HK",
-            "Noto Serif TC"
+            "Noto Serif TC",
         ],
-        "hak_Latn": [
+        hak_Latn: [
             "Noto Sans",
             "Noto Sans Display",
             "Noto Sans Mono",
             "Noto Serif",
-            "Noto Serif Display"
+            "Noto Serif Display",
         ],
-        "haw_Latn": [
+        haw_Latn: [
             "Noto Sans",
             "Noto Sans Display",
             "Noto Sans Mono",
             "Noto Serif",
-            "Noto Serif Display"
+            "Noto Serif Display",
         ],
-        "haz_Arab": [
+        haz_Arab: [
             "Noto Kufi Arabic",
             "Noto Naskh Arabic",
             "Noto Naskh Arabic UI",
             "Noto Sans Arabic",
-            "Noto Sans Arabic UI"
+            "Noto Sans Arabic UI",
         ],
-        "he_Hebr": [
-            "Noto Rashi Hebrew",
-            "Noto Sans Hebrew",
-            "Noto Serif Hebrew"
-        ],
-        "hea_Latn": [
+        he_Hebr: ["Noto Rashi Hebrew", "Noto Sans Hebrew", "Noto Serif Hebrew"],
+        hea_Latn: [
             "Noto Music",
             "Noto Sans",
             "Noto Sans Cypro Minoan",
@@ -3923,37 +3911,37 @@
             "Noto Serif Display",
             "Noto Serif Khitan Small Script",
             "Noto Serif Ottoman Siyaq",
-            "Noto Znamenny Musical Notation"
+            "Noto Znamenny Musical Notation",
         ],
-        "hi_Deva": [
+        hi_Deva: [
             "Noto Sans",
             "Noto Sans Devanagari",
             "Noto Sans Devanagari UI",
-            "Noto Serif Devanagari"
+            "Noto Serif Devanagari",
         ],
-        "hi_Latn": [
+        hi_Latn: [
             "Noto Sans",
             "Noto Sans Display",
             "Noto Sans Mono",
             "Noto Serif",
-            "Noto Serif Display"
+            "Noto Serif Display",
         ],
-        "hi_Mahj": ["Noto Sans Mahajani"],
-        "hi_Newa": ["Noto Sans Newa"],
-        "hif_Deva": [
+        hi_Mahj: ["Noto Sans Mahajani"],
+        hi_Newa: ["Noto Sans Newa"],
+        hif_Deva: [
             "Noto Sans",
             "Noto Sans Devanagari",
             "Noto Sans Devanagari UI",
-            "Noto Serif Devanagari"
+            "Noto Serif Devanagari",
         ],
-        "hif_Latn": [
+        hif_Latn: [
             "Noto Sans",
             "Noto Sans Display",
             "Noto Sans Mono",
             "Noto Serif",
-            "Noto Serif Display"
+            "Noto Serif Display",
         ],
-        "hil_Latn": [
+        hil_Latn: [
             "Noto Music",
             "Noto Sans",
             "Noto Sans Cypro Minoan",
@@ -3969,10 +3957,10 @@
             "Noto Serif Display",
             "Noto Serif Khitan Small Script",
             "Noto Serif Ottoman Siyaq",
-            "Noto Znamenny Musical Notation"
+            "Noto Znamenny Musical Notation",
         ],
-        "hit_Xsux": ["Noto Sans Cuneiform"],
-        "hlt_Latn": [
+        hit_Xsux: ["Noto Sans Cuneiform"],
+        hlt_Latn: [
             "Noto Music",
             "Noto Sans",
             "Noto Sans Cypro Minoan",
@@ -3987,17 +3975,14 @@
             "Noto Serif Display",
             "Noto Serif Khitan Small Script",
             "Noto Serif Ottoman Siyaq",
-            "Noto Znamenny Musical Notation"
+            "Noto Znamenny Musical Notation",
         ],
-        "hlu_Hluw": ["Noto Sans Anatolian Hieroglyphs"],
-        "hmd_Hmng": ["Noto Sans Pahawh Hmong"],
-        "hmd_Plrd": ["Noto Sans Miao"],
-        "hmn_Hmng": ["Noto Sans Pahawh Hmong"],
-        "hmn_Hmnp": [
-            "Noto Serif NP Hmong",
-            "Noto Serif Nyiakeng Puachue Hmong"
-        ],
-        "hmn_Latn": [
+        hlu_Hluw: ["Noto Sans Anatolian Hieroglyphs"],
+        hmd_Hmng: ["Noto Sans Pahawh Hmong"],
+        hmd_Plrd: ["Noto Sans Miao"],
+        hmn_Hmng: ["Noto Sans Pahawh Hmong"],
+        hmn_Hmnp: ["Noto Serif NP Hmong", "Noto Serif Nyiakeng Puachue Hmong"],
+        hmn_Latn: [
             "Noto Music",
             "Noto Sans",
             "Noto Sans Cypro Minoan",
@@ -4013,9 +3998,9 @@
             "Noto Serif Display",
             "Noto Serif Khitan Small Script",
             "Noto Serif Ottoman Siyaq",
-            "Noto Znamenny Musical Notation"
+            "Noto Znamenny Musical Notation",
         ],
-        "hms_Latn": [
+        hms_Latn: [
             "Noto Music",
             "Noto Sans",
             "Noto Sans Cypro Minoan",
@@ -4030,29 +4015,29 @@
             "Noto Serif Display",
             "Noto Serif Khitan Small Script",
             "Noto Serif Ottoman Siyaq",
-            "Noto Znamenny Musical Notation"
+            "Noto Znamenny Musical Notation",
         ],
-        "hna_Latn": [
+        hna_Latn: [
             "Noto Sans",
             "Noto Sans Display",
             "Noto Sans Mono",
             "Noto Serif",
-            "Noto Serif Display"
+            "Noto Serif Display",
         ],
-        "hnd_Arab": [
+        hnd_Arab: [
             "Noto Kufi Arabic",
             "Noto Naskh Arabic",
             "Noto Naskh Arabic UI",
             "Noto Sans Arabic",
-            "Noto Sans Arabic UI"
+            "Noto Sans Arabic UI",
         ],
-        "hne_Deva": [
+        hne_Deva: [
             "Noto Sans",
             "Noto Sans Devanagari",
             "Noto Sans Devanagari UI",
-            "Noto Serif Devanagari"
+            "Noto Serif Devanagari",
         ],
-        "hni_Latn": [
+        hni_Latn: [
             "Noto Music",
             "Noto Sans",
             "Noto Sans Cypro Minoan",
@@ -4067,16 +4052,16 @@
             "Noto Serif Display",
             "Noto Serif Khitan Small Script",
             "Noto Serif Ottoman Siyaq",
-            "Noto Znamenny Musical Notation"
+            "Noto Znamenny Musical Notation",
         ],
-        "hnj_Hmng": ["Noto Sans Pahawh Hmong"],
-        "hnj_Laoo": [
+        hnj_Hmng: ["Noto Sans Pahawh Hmong"],
+        hnj_Laoo: [
             "Noto Sans Lao",
             "Noto Sans Lao Looped",
             "Noto Sans Lao UI",
-            "Noto Serif Lao"
+            "Noto Serif Lao",
         ],
-        "hnj_Latn": [
+        hnj_Latn: [
             "Noto Music",
             "Noto Sans",
             "Noto Sans Cypro Minoan",
@@ -4091,24 +4076,24 @@
             "Noto Serif Display",
             "Noto Serif Khitan Small Script",
             "Noto Serif Ottoman Siyaq",
-            "Noto Znamenny Musical Notation"
+            "Noto Znamenny Musical Notation",
         ],
-        "hnn_Hano": ["Noto Sans Hanunoo"],
-        "hnn_Latn": [
+        hnn_Hano: ["Noto Sans Hanunoo"],
+        hnn_Latn: [
             "Noto Sans",
             "Noto Sans Display",
             "Noto Sans Mono",
             "Noto Serif",
-            "Noto Serif Display"
+            "Noto Serif Display",
         ],
-        "hno_Arab": [
+        hno_Arab: [
             "Noto Kufi Arabic",
             "Noto Naskh Arabic",
             "Noto Naskh Arabic UI",
             "Noto Sans Arabic",
-            "Noto Sans Arabic UI"
+            "Noto Sans Arabic UI",
         ],
-        "hns_Latn": [
+        hns_Latn: [
             "Noto Music",
             "Noto Sans",
             "Noto Sans Cypro Minoan",
@@ -4123,29 +4108,29 @@
             "Noto Serif Display",
             "Noto Serif Khitan Small Script",
             "Noto Serif Ottoman Siyaq",
-            "Noto Znamenny Musical Notation"
+            "Noto Znamenny Musical Notation",
         ],
-        "ho_Latn": [
+        ho_Latn: [
             "Noto Sans",
             "Noto Sans Display",
             "Noto Sans Mono",
             "Noto Serif",
-            "Noto Serif Display"
+            "Noto Serif Display",
         ],
-        "hoc_Deva": [
+        hoc_Deva: [
             "Noto Sans",
             "Noto Sans Devanagari",
             "Noto Sans Devanagari UI",
-            "Noto Serif Devanagari"
+            "Noto Serif Devanagari",
         ],
-        "hoc_Wara": ["Noto Sans Warang Citi"],
-        "hoj_Deva": [
+        hoc_Wara: ["Noto Sans Warang Citi"],
+        hoj_Deva: [
             "Noto Sans",
             "Noto Sans Devanagari",
             "Noto Sans Devanagari UI",
-            "Noto Serif Devanagari"
+            "Noto Serif Devanagari",
         ],
-        "hop_Latn": [
+        hop_Latn: [
             "Noto Music",
             "Noto Sans",
             "Noto Sans Cypro Minoan",
@@ -4160,9 +4145,9 @@
             "Noto Serif Display",
             "Noto Serif Khitan Small Script",
             "Noto Serif Ottoman Siyaq",
-            "Noto Znamenny Musical Notation"
+            "Noto Znamenny Musical Notation",
         ],
-        "hr_Latn": [
+        hr_Latn: [
             "Noto Music",
             "Noto Sans",
             "Noto Sans Cypro Minoan",
@@ -4177,9 +4162,9 @@
             "Noto Serif Display",
             "Noto Serif Khitan Small Script",
             "Noto Serif Ottoman Siyaq",
-            "Noto Znamenny Musical Notation"
+            "Noto Znamenny Musical Notation",
         ],
-        "hsb_Latn": [
+        hsb_Latn: [
             "Noto Music",
             "Noto Sans",
             "Noto Sans Cypro Minoan",
@@ -4194,11 +4179,11 @@
             "Noto Serif Display",
             "Noto Serif Khitan Small Script",
             "Noto Serif Ottoman Siyaq",
-            "Noto Znamenny Musical Notation"
+            "Noto Znamenny Musical Notation",
         ],
-        "hsn_Hans": ["Noto Sans SC", "Noto Serif SC"],
-        "hsn_Hant": ["Noto Sans HK", "Noto Sans TC", "Noto Serif HK"],
-        "ht_Latn": [
+        hsn_Hans: ["Noto Sans SC", "Noto Serif SC"],
+        hsn_Hant: ["Noto Sans HK", "Noto Sans TC", "Noto Serif HK"],
+        ht_Latn: [
             "Noto Music",
             "Noto Sans",
             "Noto Sans Cypro Minoan",
@@ -4213,9 +4198,9 @@
             "Noto Serif Display",
             "Noto Serif Khitan Small Script",
             "Noto Serif Ottoman Siyaq",
-            "Noto Znamenny Musical Notation"
+            "Noto Znamenny Musical Notation",
         ],
-        "hu_Latn": [
+        hu_Latn: [
             "Noto Music",
             "Noto Sans",
             "Noto Sans Cypro Minoan",
@@ -4230,16 +4215,16 @@
             "Noto Serif Display",
             "Noto Serif Khitan Small Script",
             "Noto Serif Ottoman Siyaq",
-            "Noto Znamenny Musical Notation"
+            "Noto Znamenny Musical Notation",
         ],
-        "hup_Latn": [
+        hup_Latn: [
             "Noto Sans",
             "Noto Sans Display",
             "Noto Sans Mono",
             "Noto Serif",
-            "Noto Serif Display"
+            "Noto Serif Display",
         ],
-        "hus_Latn": [
+        hus_Latn: [
             "Noto Music",
             "Noto Sans",
             "Noto Sans Cypro Minoan",
@@ -4254,9 +4239,9 @@
             "Noto Serif Display",
             "Noto Serif Khitan Small Script",
             "Noto Serif Ottoman Siyaq",
-            "Noto Znamenny Musical Notation"
+            "Noto Znamenny Musical Notation",
         ],
-        "huu_Latn": [
+        huu_Latn: [
             "Noto Music",
             "Noto Sans",
             "Noto Sans Cypro Minoan",
@@ -4271,18 +4256,18 @@
             "Noto Serif Display",
             "Noto Serif Khitan Small Script",
             "Noto Serif Ottoman Siyaq",
-            "Noto Znamenny Musical Notation"
+            "Noto Znamenny Musical Notation",
         ],
-        "hy_Armn": ["Noto Sans Armenian", "Noto Serif Armenian"],
-        "hyw_Armn": ["Noto Sans Armenian", "Noto Serif Armenian"],
-        "hz_Latn": [
+        hy_Armn: ["Noto Sans Armenian", "Noto Serif Armenian"],
+        hyw_Armn: ["Noto Sans Armenian", "Noto Serif Armenian"],
+        hz_Latn: [
             "Noto Sans",
             "Noto Sans Display",
             "Noto Sans Mono",
             "Noto Serif",
-            "Noto Serif Display"
+            "Noto Serif Display",
         ],
-        "ia_Latn": [
+        ia_Latn: [
             "Noto Music",
             "Noto Sans",
             "Noto Sans Cypro Minoan",
@@ -4298,30 +4283,30 @@
             "Noto Serif Display",
             "Noto Serif Khitan Small Script",
             "Noto Serif Ottoman Siyaq",
-            "Noto Znamenny Musical Notation"
+            "Noto Znamenny Musical Notation",
         ],
-        "iba_Latn": [
+        iba_Latn: [
             "Noto Sans",
             "Noto Sans Display",
             "Noto Sans Mono",
             "Noto Serif",
-            "Noto Serif Display"
+            "Noto Serif Display",
         ],
-        "ibb_Latn": [
+        ibb_Latn: [
             "Noto Sans",
             "Noto Sans Display",
             "Noto Sans Mono",
             "Noto Serif",
-            "Noto Serif Display"
+            "Noto Serif Display",
         ],
-        "id_Arab": [
+        id_Arab: [
             "Noto Kufi Arabic",
             "Noto Naskh Arabic",
             "Noto Naskh Arabic UI",
             "Noto Sans Arabic",
-            "Noto Sans Arabic UI"
+            "Noto Sans Arabic UI",
         ],
-        "id_Latn": [
+        id_Latn: [
             "Noto Music",
             "Noto Sans",
             "Noto Sans Cypro Minoan",
@@ -4337,16 +4322,16 @@
             "Noto Serif Display",
             "Noto Serif Khitan Small Script",
             "Noto Serif Ottoman Siyaq",
-            "Noto Znamenny Musical Notation"
+            "Noto Znamenny Musical Notation",
         ],
-        "idu_Latn": [
+        idu_Latn: [
             "Noto Sans",
             "Noto Sans Display",
             "Noto Sans Mono",
             "Noto Serif",
-            "Noto Serif Display"
+            "Noto Serif Display",
         ],
-        "ie_Latn": [
+        ie_Latn: [
             "Noto Music",
             "Noto Sans",
             "Noto Sans Cypro Minoan",
@@ -4361,31 +4346,31 @@
             "Noto Serif Display",
             "Noto Serif Khitan Small Script",
             "Noto Serif Ottoman Siyaq",
-            "Noto Znamenny Musical Notation"
+            "Noto Znamenny Musical Notation",
         ],
-        "ife_Latn": [
+        ife_Latn: [
             "Noto Sans",
             "Noto Sans Display",
             "Noto Sans Mono",
             "Noto Serif",
-            "Noto Serif Display"
+            "Noto Serif Display",
         ],
-        "ig_Latn": [
+        ig_Latn: [
             "Noto Sans",
             "Noto Sans Display",
             "Noto Sans Mono",
             "Noto Serif",
-            "Noto Serif Display"
+            "Noto Serif Display",
         ],
-        "ii_Latn": [
+        ii_Latn: [
             "Noto Sans",
             "Noto Sans Display",
             "Noto Sans Mono",
             "Noto Serif",
-            "Noto Serif Display"
+            "Noto Serif Display",
         ],
-        "ii_Yiii": ["Noto Sans Yi"],
-        "ijs_Latn": [
+        ii_Yiii: ["Noto Sans Yi"],
+        ijs_Latn: [
             "Noto Music",
             "Noto Sans",
             "Noto Sans Cypro Minoan",
@@ -4400,23 +4385,23 @@
             "Noto Serif Display",
             "Noto Serif Khitan Small Script",
             "Noto Serif Ottoman Siyaq",
-            "Noto Znamenny Musical Notation"
+            "Noto Znamenny Musical Notation",
         ],
-        "ik_Latn": [
+        ik_Latn: [
             "Noto Sans",
             "Noto Sans Display",
             "Noto Sans Mono",
             "Noto Serif",
-            "Noto Serif Display"
+            "Noto Serif Display",
         ],
-        "ikt_Latn": [
+        ikt_Latn: [
             "Noto Sans",
             "Noto Sans Display",
             "Noto Sans Mono",
             "Noto Serif",
-            "Noto Serif Display"
+            "Noto Serif Display",
         ],
-        "ilo_Latn": [
+        ilo_Latn: [
             "Noto Music",
             "Noto Sans",
             "Noto Sans Cypro Minoan",
@@ -4431,30 +4416,30 @@
             "Noto Serif Display",
             "Noto Serif Khitan Small Script",
             "Noto Serif Ottoman Siyaq",
-            "Noto Znamenny Musical Notation"
+            "Noto Znamenny Musical Notation",
         ],
-        "inh_Arab": [
+        inh_Arab: [
             "Noto Kufi Arabic",
             "Noto Naskh Arabic",
             "Noto Naskh Arabic UI",
             "Noto Sans Arabic",
-            "Noto Sans Arabic UI"
+            "Noto Sans Arabic UI",
         ],
-        "inh_Cyrl": [
+        inh_Cyrl: [
             "Noto Sans",
             "Noto Sans Display",
             "Noto Sans Mono",
             "Noto Serif",
-            "Noto Serif Display"
+            "Noto Serif Display",
         ],
-        "inh_Latn": [
+        inh_Latn: [
             "Noto Sans",
             "Noto Sans Display",
             "Noto Sans Mono",
             "Noto Serif",
-            "Noto Serif Display"
+            "Noto Serif Display",
         ],
-        "io_Latn": [
+        io_Latn: [
             "Noto Music",
             "Noto Sans",
             "Noto Sans Cypro Minoan",
@@ -4469,9 +4454,9 @@
             "Noto Serif Display",
             "Noto Serif Khitan Small Script",
             "Noto Serif Ottoman Siyaq",
-            "Noto Znamenny Musical Notation"
+            "Noto Znamenny Musical Notation",
         ],
-        "iri_Latn": [
+        iri_Latn: [
             "Noto Music",
             "Noto Sans Cypro Minoan",
             "Noto Sans Indic Siyaq Numbers",
@@ -4481,26 +4466,9 @@
             "Noto Sans Symbols 2",
             "Noto Serif Khitan Small Script",
             "Noto Serif Ottoman Siyaq",
-            "Noto Znamenny Musical Notation"
+            "Noto Znamenny Musical Notation",
         ],
-        "is_Latn": [
-            "Noto Music",
-            "Noto Sans",
-            "Noto Sans Cypro Minoan",
-            "Noto Sans Display",
-            "Noto Sans Indic Siyaq Numbers",
-            "Noto Sans Mayan Numerals",
-            "Noto Sans Mono",
-            "Noto Sans SignWriting",
-            "Noto Sans Symbols",
-            "Noto Sans Symbols 2",
-            "Noto Serif",
-            "Noto Serif Display",
-            "Noto Serif Khitan Small Script",
-            "Noto Serif Ottoman Siyaq",
-            "Noto Znamenny Musical Notation"
-        ],
-        "it_Latn": [
+        is_Latn: [
             "Noto Music",
             "Noto Sans",
             "Noto Sans Cypro Minoan",
@@ -4515,24 +4483,41 @@
             "Noto Serif Display",
             "Noto Serif Khitan Small Script",
             "Noto Serif Ottoman Siyaq",
-            "Noto Znamenny Musical Notation"
+            "Noto Znamenny Musical Notation",
         ],
-        "iu_Cans": ["Noto Sans Canadian Aboriginal"],
-        "iu_Latn": [
+        it_Latn: [
+            "Noto Music",
+            "Noto Sans",
+            "Noto Sans Cypro Minoan",
+            "Noto Sans Display",
+            "Noto Sans Indic Siyaq Numbers",
+            "Noto Sans Mayan Numerals",
+            "Noto Sans Mono",
+            "Noto Sans SignWriting",
+            "Noto Sans Symbols",
+            "Noto Sans Symbols 2",
+            "Noto Serif",
+            "Noto Serif Display",
+            "Noto Serif Khitan Small Script",
+            "Noto Serif Ottoman Siyaq",
+            "Noto Znamenny Musical Notation",
+        ],
+        iu_Cans: ["Noto Sans Canadian Aboriginal"],
+        iu_Latn: [
             "Noto Sans",
             "Noto Sans Display",
             "Noto Sans Mono",
             "Noto Serif",
-            "Noto Serif Display"
+            "Noto Serif Display",
         ],
-        "izh_Latn": [
+        izh_Latn: [
             "Noto Sans",
             "Noto Sans Display",
             "Noto Sans Mono",
             "Noto Serif",
-            "Noto Serif Display"
+            "Noto Serif Display",
         ],
-        "izr_Latn": [
+        izr_Latn: [
             "Noto Music",
             "Noto Sans Cypro Minoan",
             "Noto Sans Indic Siyaq Numbers",
@@ -4542,12 +4527,12 @@
             "Noto Sans Symbols 2",
             "Noto Serif Khitan Small Script",
             "Noto Serif Ottoman Siyaq",
-            "Noto Znamenny Musical Notation"
+            "Noto Znamenny Musical Notation",
         ],
-        "ja_Hira": ["Noto Sans JP"],
-        "ja_Jpan": ["Noto Sans JP", "Noto Serif JP"],
-        "ja_Kana": ["Noto Sans JP", "Noto Serif JP"],
-        "jam_Latn": [
+        ja_Hira: ["Noto Sans JP"],
+        ja_Jpan: ["Noto Sans JP", "Noto Serif JP"],
+        ja_Kana: ["Noto Sans JP", "Noto Serif JP"],
+        jam_Latn: [
             "Noto Music",
             "Noto Sans",
             "Noto Sans Cypro Minoan",
@@ -4563,9 +4548,9 @@
             "Noto Serif Display",
             "Noto Serif Khitan Small Script",
             "Noto Serif Ottoman Siyaq",
-            "Noto Znamenny Musical Notation"
+            "Noto Znamenny Musical Notation",
         ],
-        "jbo_Latn": [
+        jbo_Latn: [
             "Noto Music",
             "Noto Sans",
             "Noto Sans Cypro Minoan",
@@ -4580,16 +4565,16 @@
             "Noto Serif Display",
             "Noto Serif Khitan Small Script",
             "Noto Serif Ottoman Siyaq",
-            "Noto Znamenny Musical Notation"
+            "Noto Znamenny Musical Notation",
         ],
-        "jgo_Latn": [
+        jgo_Latn: [
             "Noto Sans",
             "Noto Sans Display",
             "Noto Sans Mono",
             "Noto Serif",
-            "Noto Serif Display"
+            "Noto Serif Display",
         ],
-        "jiv_Latn": [
+        jiv_Latn: [
             "Noto Music",
             "Noto Sans",
             "Noto Sans Cypro Minoan",
@@ -4604,9 +4589,9 @@
             "Noto Serif Display",
             "Noto Serif Khitan Small Script",
             "Noto Serif Ottoman Siyaq",
-            "Noto Znamenny Musical Notation"
+            "Noto Znamenny Musical Notation",
         ],
-        "jmc_Latn": [
+        jmc_Latn: [
             "Noto Music",
             "Noto Sans",
             "Noto Sans Cypro Minoan",
@@ -4622,40 +4607,40 @@
             "Noto Serif Display",
             "Noto Serif Khitan Small Script",
             "Noto Serif Ottoman Siyaq",
-            "Noto Znamenny Musical Notation"
+            "Noto Znamenny Musical Notation",
         ],
-        "jml_Deva": [
+        jml_Deva: [
             "Noto Sans",
             "Noto Sans Devanagari",
             "Noto Sans Devanagari UI",
-            "Noto Serif Devanagari"
+            "Noto Serif Devanagari",
         ],
-        "jpr_Hebr": [
+        jpr_Hebr: [
             "Noto Rashi Hebrew",
             "Noto Sans Hebrew",
-            "Noto Serif Hebrew"
+            "Noto Serif Hebrew",
         ],
-        "jra_Latn": [
+        jra_Latn: [
             "Noto Sans",
             "Noto Sans Display",
             "Noto Sans Mono",
             "Noto Serif",
-            "Noto Serif Display"
+            "Noto Serif Display",
         ],
-        "jrb_Hebr": [
+        jrb_Hebr: [
             "Noto Rashi Hebrew",
             "Noto Sans Hebrew",
-            "Noto Serif Hebrew"
+            "Noto Serif Hebrew",
         ],
-        "jut_Latn": [
+        jut_Latn: [
             "Noto Sans",
             "Noto Sans Display",
             "Noto Sans Mono",
             "Noto Serif",
-            "Noto Serif Display"
+            "Noto Serif Display",
         ],
-        "jv_Java": ["Noto Sans Javanese"],
-        "jv_Latn": [
+        jv_Java: ["Noto Sans Javanese"],
+        jv_Latn: [
             "Noto Music",
             "Noto Sans",
             "Noto Sans Cypro Minoan",
@@ -4670,32 +4655,32 @@
             "Noto Serif Display",
             "Noto Serif Khitan Small Script",
             "Noto Serif Ottoman Siyaq",
-            "Noto Znamenny Musical Notation"
+            "Noto Znamenny Musical Notation",
         ],
-        "ka_Geor": ["Noto Sans Georgian", "Noto Serif Georgian"],
-        "kaa_Cyrl": [
+        ka_Geor: ["Noto Sans Georgian", "Noto Serif Georgian"],
+        kaa_Cyrl: [
             "Noto Sans",
             "Noto Sans Display",
             "Noto Sans Mono",
             "Noto Serif",
-            "Noto Serif Display"
+            "Noto Serif Display",
         ],
-        "kab_Latn": [
+        kab_Latn: [
             "Noto Sans",
             "Noto Sans Display",
             "Noto Sans Mono",
             "Noto Serif",
-            "Noto Serif Display"
+            "Noto Serif Display",
         ],
-        "kab_Tfng": ["Noto Sans Tifinagh"],
-        "kac_Latn": [
+        kab_Tfng: ["Noto Sans Tifinagh"],
+        kac_Latn: [
             "Noto Sans",
             "Noto Sans Display",
             "Noto Sans Mono",
             "Noto Serif",
-            "Noto Serif Display"
+            "Noto Serif Display",
         ],
-        "kad_Latn": [
+        kad_Latn: [
             "Noto Music",
             "Noto Sans Cypro Minoan",
             "Noto Sans Indic Siyaq Numbers",
@@ -4705,66 +4690,66 @@
             "Noto Sans Symbols 2",
             "Noto Serif Khitan Small Script",
             "Noto Serif Ottoman Siyaq",
-            "Noto Znamenny Musical Notation"
+            "Noto Znamenny Musical Notation",
         ],
-        "kaj_Latn": [
+        kaj_Latn: [
             "Noto Sans",
             "Noto Sans Display",
             "Noto Sans Mono",
             "Noto Serif",
-            "Noto Serif Display"
+            "Noto Serif Display",
         ],
-        "kam_Latn": [
+        kam_Latn: [
             "Noto Sans",
             "Noto Sans Display",
             "Noto Sans Mono",
             "Noto Serif",
-            "Noto Serif Display"
+            "Noto Serif Display",
         ],
-        "kao_Latn": [
+        kao_Latn: [
             "Noto Sans",
             "Noto Sans Display",
             "Noto Sans Mono",
             "Noto Serif",
-            "Noto Serif Display"
+            "Noto Serif Display",
         ],
-        "kaw_Kawi": ["Noto Sans Kawi"],
-        "kbd_Cyrl": [
+        kaw_Kawi: ["Noto Sans Kawi"],
+        kbd_Cyrl: [
             "Noto Sans",
             "Noto Sans Display",
             "Noto Sans Mono",
             "Noto Serif",
-            "Noto Serif Display"
+            "Noto Serif Display",
         ],
-        "kbp_Latn": [
+        kbp_Latn: [
             "Noto Sans",
             "Noto Sans Display",
             "Noto Sans Mono",
             "Noto Serif",
-            "Noto Serif Display"
+            "Noto Serif Display",
         ],
-        "kca_Cyrl": [
+        kca_Cyrl: [
             "Noto Sans",
             "Noto Sans Display",
             "Noto Sans Mono",
             "Noto Serif",
-            "Noto Serif Display"
+            "Noto Serif Display",
         ],
-        "kcg_Latn": [
+        kcg_Latn: [
             "Noto Sans",
             "Noto Sans Display",
             "Noto Sans Mono",
             "Noto Serif",
-            "Noto Serif Display"
+            "Noto Serif Display",
         ],
-        "kck_Latn": [
+        kck_Latn: [
             "Noto Sans",
             "Noto Sans Display",
             "Noto Sans Mono",
             "Noto Serif",
-            "Noto Serif Display"
+            "Noto Serif Display",
         ],
-        "kdc_Latn": [
+        kdc_Latn: [
             "Noto Music",
             "Noto Sans Cypro Minoan",
             "Noto Sans Indic Siyaq Numbers",
@@ -4774,9 +4759,9 @@
             "Noto Sans Symbols 2",
             "Noto Serif Khitan Small Script",
             "Noto Serif Ottoman Siyaq",
-            "Noto Znamenny Musical Notation"
+            "Noto Znamenny Musical Notation",
         ],
-        "kde_Latn": [
+        kde_Latn: [
             "Noto Music",
             "Noto Sans",
             "Noto Sans Cypro Minoan",
@@ -4792,22 +4777,22 @@
             "Noto Serif Display",
             "Noto Serif Khitan Small Script",
             "Noto Serif Ottoman Siyaq",
-            "Noto Znamenny Musical Notation"
+            "Noto Znamenny Musical Notation",
         ],
-        "kdh_Latn": [
+        kdh_Latn: [
             "Noto Sans",
             "Noto Sans Display",
             "Noto Sans Mono",
             "Noto Serif",
-            "Noto Serif Display"
+            "Noto Serif Display",
         ],
-        "kdt_Thai": [
+        kdt_Thai: [
             "Noto Sans Thai",
             "Noto Sans Thai Looped",
             "Noto Sans Thai UI",
-            "Noto Serif Thai"
+            "Noto Serif Thai",
         ],
-        "kea_Latn": [
+        kea_Latn: [
             "Noto Music",
             "Noto Sans",
             "Noto Sans Cypro Minoan",
@@ -4822,9 +4807,9 @@
             "Noto Serif Display",
             "Noto Serif Khitan Small Script",
             "Noto Serif Ottoman Siyaq",
-            "Noto Znamenny Musical Notation"
+            "Noto Znamenny Musical Notation",
         ],
-        "kek_Latn": [
+        kek_Latn: [
             "Noto Music",
             "Noto Sans",
             "Noto Sans Cypro Minoan",
@@ -4839,28 +4824,28 @@
             "Noto Serif Display",
             "Noto Serif Khitan Small Script",
             "Noto Serif Ottoman Siyaq",
-            "Noto Znamenny Musical Notation"
+            "Noto Znamenny Musical Notation",
         ],
-        "kfo_Latn": [
+        kfo_Latn: [
             "Noto Sans",
             "Noto Sans Display",
             "Noto Sans Mono",
             "Noto Serif",
-            "Noto Serif Display"
+            "Noto Serif Display",
         ],
-        "kfr_Deva": [
+        kfr_Deva: [
             "Noto Sans",
             "Noto Sans Devanagari",
             "Noto Sans Devanagari UI",
-            "Noto Serif Devanagari"
+            "Noto Serif Devanagari",
         ],
-        "kfy_Deva": [
+        kfy_Deva: [
             "Noto Sans",
             "Noto Sans Devanagari",
             "Noto Sans Devanagari UI",
-            "Noto Serif Devanagari"
+            "Noto Serif Devanagari",
         ],
-        "kg_Latn": [
+        kg_Latn: [
             "Noto Music",
             "Noto Sans",
             "Noto Sans Cypro Minoan",
@@ -4876,34 +4861,34 @@
             "Noto Serif Display",
             "Noto Serif Khitan Small Script",
             "Noto Serif Ottoman Siyaq",
-            "Noto Znamenny Musical Notation"
+            "Noto Znamenny Musical Notation",
         ],
-        "kge_Latn": [
+        kge_Latn: [
             "Noto Sans",
             "Noto Sans Display",
             "Noto Sans Mono",
             "Noto Serif",
-            "Noto Serif Display"
+            "Noto Serif Display",
         ],
-        "kgj_Deva": [
+        kgj_Deva: [
             "Noto Sans",
             "Noto Sans Devanagari",
             "Noto Sans Devanagari UI",
-            "Noto Serif Devanagari"
+            "Noto Serif Devanagari",
         ],
-        "kgp_Latn": [
+        kgp_Latn: [
             "Noto Sans",
             "Noto Sans Display",
             "Noto Sans Mono",
             "Noto Serif",
-            "Noto Serif Display"
+            "Noto Serif Display",
         ],
-        "kha_Beng": [
+        kha_Beng: [
             "Noto Sans Bengali",
             "Noto Sans Bengali UI",
-            "Noto Serif Bengali"
+            "Noto Serif Bengali",
         ],
-        "kha_Latn": [
+        kha_Latn: [
             "Noto Music",
             "Noto Sans",
             "Noto Sans Cypro Minoan",
@@ -4918,72 +4903,68 @@
             "Noto Serif Display",
             "Noto Serif Khitan Small Script",
             "Noto Serif Ottoman Siyaq",
-            "Noto Znamenny Musical Notation"
+            "Noto Znamenny Musical Notation",
         ],
-        "khb_Talu": ["Noto Sans New Tai Lue"],
-        "khn_Deva": [
+        khb_Talu: ["Noto Sans New Tai Lue"],
+        khn_Deva: [
             "Noto Sans",
             "Noto Sans Devanagari",
             "Noto Sans Devanagari UI",
-            "Noto Serif Devanagari"
+            "Noto Serif Devanagari",
         ],
-        "khq_Latn": [
+        khq_Latn: [
             "Noto Sans",
             "Noto Sans Display",
             "Noto Sans Mono",
             "Noto Serif",
-            "Noto Serif Display"
+            "Noto Serif Display",
         ],
-        "khr_Beng": [
+        khr_Beng: [
             "Noto Sans Bengali",
             "Noto Sans Bengali UI",
-            "Noto Serif Bengali"
+            "Noto Serif Bengali",
         ],
-        "khr_Deva": [
+        khr_Deva: [
             "Noto Sans",
             "Noto Sans Devanagari",
             "Noto Sans Devanagari UI",
-            "Noto Serif Devanagari"
+            "Noto Serif Devanagari",
         ],
-        "khr_Orya": [
-            "Noto Sans Oriya",
-            "Noto Sans Oriya UI",
-            "Noto Serif Oriya"
-        ],
-        "kht_Mymr": [
+        khr_Orya: ["Noto Sans Oriya", "Noto Sans Oriya UI", "Noto Serif Oriya"],
+        kht_Mymr: [
             "Noto Sans Myanmar",
             "Noto Sans Myanmar UI",
-            "Noto Serif Myanmar"
+            "Noto Serif Myanmar",
         ],
-        "khw_Arab": [
+        khw_Arab: [
             "Noto Kufi Arabic",
             "Noto Naskh Arabic",
             "Noto Naskh Arabic UI",
             "Noto Sans Arabic",
-            "Noto Sans Arabic UI"
+            "Noto Sans Arabic UI",
         ],
-        "khw_Latn": [
+        khw_Latn: [
             "Noto Sans",
             "Noto Sans Display",
             "Noto Sans Mono",
             "Noto Serif",
-            "Noto Serif Display"
+            "Noto Serif Display",
         ],
-        "ki_Latn": [
+        ki_Latn: [
             "Noto Sans",
             "Noto Sans Display",
             "Noto Sans Mono",
             "Noto Serif",
-            "Noto Serif Display"
+            "Noto Serif Display",
         ],
-        "kiu_Latn": [
+        kiu_Latn: [
             "Noto Sans",
             "Noto Sans Display",
             "Noto Sans Mono",
             "Noto Serif",
-            "Noto Serif Display"
+            "Noto Serif Display",
         ],
-        "kj_Latn": [
+        kj_Latn: [
             "Noto Music",
             "Noto Sans",
             "Noto Sans Cypro Minoan",
@@ -4999,43 +4980,43 @@
             "Noto Serif Display",
             "Noto Serif Khitan Small Script",
             "Noto Serif Ottoman Siyaq",
-            "Noto Znamenny Musical Notation"
+            "Noto Znamenny Musical Notation",
         ],
-        "kjg_Laoo": [
+        kjg_Laoo: [
             "Noto Sans Lao",
             "Noto Sans Lao Looped",
             "Noto Sans Lao UI",
-            "Noto Serif Lao"
+            "Noto Serif Lao",
         ],
-        "kjg_Latn": [
+        kjg_Latn: [
             "Noto Sans",
             "Noto Sans Display",
             "Noto Sans Mono",
             "Noto Serif",
-            "Noto Serif Display"
+            "Noto Serif Display",
         ],
-        "kjh_Cyrl": [
+        kjh_Cyrl: [
             "Noto Sans",
             "Noto Sans Display",
             "Noto Sans Mono",
             "Noto Serif",
-            "Noto Serif Display"
+            "Noto Serif Display",
         ],
-        "kk_Arab": [
+        kk_Arab: [
             "Noto Kufi Arabic",
             "Noto Naskh Arabic",
             "Noto Naskh Arabic UI",
             "Noto Sans Arabic",
-            "Noto Sans Arabic UI"
+            "Noto Sans Arabic UI",
         ],
-        "kk_Cyrl": [
+        kk_Cyrl: [
             "Noto Sans",
             "Noto Sans Display",
             "Noto Sans Mono",
             "Noto Serif",
-            "Noto Serif Display"
+            "Noto Serif Display",
         ],
-        "kk_Latn": [
+        kk_Latn: [
             "Noto Music",
             "Noto Sans",
             "Noto Sans Cypro Minoan",
@@ -5050,17 +5031,17 @@
             "Noto Serif Display",
             "Noto Serif Khitan Small Script",
             "Noto Serif Ottoman Siyaq",
-            "Noto Znamenny Musical Notation"
+            "Noto Znamenny Musical Notation",
         ],
-        "kkh_Lana": ["Noto Sans Tai Tham"],
-        "kkj_Latn": [
+        kkh_Lana: ["Noto Sans Tai Tham"],
+        kkj_Latn: [
             "Noto Sans",
             "Noto Sans Display",
             "Noto Sans Mono",
             "Noto Serif",
-            "Noto Serif Display"
+            "Noto Serif Display",
         ],
-        "kl_Latn": [
+        kl_Latn: [
             "Noto Music",
             "Noto Sans",
             "Noto Sans Cypro Minoan",
@@ -5075,32 +5056,9 @@
             "Noto Serif Display",
             "Noto Serif Khitan Small Script",
             "Noto Serif Ottoman Siyaq",
-            "Noto Znamenny Musical Notation"
+            "Noto Znamenny Musical Notation",
         ],
-        "kln_Latn": [
-            "Noto Music",
-            "Noto Sans",
-            "Noto Sans Cypro Minoan",
-            "Noto Sans Display",
-            "Noto Sans Indic Siyaq Numbers",
-            "Noto Sans Math",
-            "Noto Sans Mayan Numerals",
-            "Noto Sans Mono",
-            "Noto Sans SignWriting",
-            "Noto Sans Symbols",
-            "Noto Sans Symbols 2",
-            "Noto Serif",
-            "Noto Serif Display",
-            "Noto Serif Khitan Small Script",
-            "Noto Serif Ottoman Siyaq",
-            "Noto Znamenny Musical Notation"
-        ],
-        "km_Khmr": [
-            "Noto Sans Khmer",
-            "Noto Sans Khmer UI",
-            "Noto Serif Khmer"
-        ],
-        "kmb_Latn": [
+        kln_Latn: [
             "Noto Music",
             "Noto Sans",
             "Noto Sans Cypro Minoan",
@@ -5116,14 +5074,33 @@
             "Noto Serif Display",
             "Noto Serif Khitan Small Script",
             "Noto Serif Ottoman Siyaq",
-            "Noto Znamenny Musical Notation"
+            "Noto Znamenny Musical Notation",
         ],
-        "kn_Knda": [
+        km_Khmr: ["Noto Sans Khmer", "Noto Sans Khmer UI", "Noto Serif Khmer"],
+        kmb_Latn: [
+            "Noto Music",
+            "Noto Sans",
+            "Noto Sans Cypro Minoan",
+            "Noto Sans Display",
+            "Noto Sans Indic Siyaq Numbers",
+            "Noto Sans Math",
+            "Noto Sans Mayan Numerals",
+            "Noto Sans Mono",
+            "Noto Sans SignWriting",
+            "Noto Sans Symbols",
+            "Noto Sans Symbols 2",
+            "Noto Serif",
+            "Noto Serif Display",
+            "Noto Serif Khitan Small Script",
+            "Noto Serif Ottoman Siyaq",
+            "Noto Znamenny Musical Notation",
+        ],
+        kn_Knda: [
             "Noto Sans Kannada",
             "Noto Sans Kannada UI",
-            "Noto Serif Kannada"
+            "Noto Serif Kannada",
         ],
-        "knc_Latn": [
+        knc_Latn: [
             "Noto Music",
             "Noto Sans",
             "Noto Sans Cypro Minoan",
@@ -5138,31 +5115,31 @@
             "Noto Serif Display",
             "Noto Serif Khitan Small Script",
             "Noto Serif Ottoman Siyaq",
-            "Noto Znamenny Musical Notation"
+            "Noto Znamenny Musical Notation",
         ],
-        "knf_Latn": [
+        knf_Latn: [
             "Noto Sans",
             "Noto Sans Display",
             "Noto Sans Mono",
             "Noto Serif",
-            "Noto Serif Display"
+            "Noto Serif Display",
         ],
-        "ko_Kore": ["Noto Sans KR", "Noto Serif KR"],
-        "koi_Cyrl": [
+        ko_Kore: ["Noto Sans KR", "Noto Serif KR"],
+        koi_Cyrl: [
             "Noto Sans",
             "Noto Sans Display",
             "Noto Sans Mono",
             "Noto Serif",
-            "Noto Serif Display"
+            "Noto Serif Display",
         ],
-        "koi_Perm": ["Noto Sans Old Permic"],
-        "kok_Deva": [
+        koi_Perm: ["Noto Sans Old Permic"],
+        kok_Deva: [
             "Noto Sans",
             "Noto Sans Devanagari",
             "Noto Sans Devanagari UI",
-            "Noto Serif Devanagari"
+            "Noto Serif Devanagari",
         ],
-        "koo_Latn": [
+        koo_Latn: [
             "Noto Music",
             "Noto Sans",
             "Noto Sans Cypro Minoan",
@@ -5177,30 +5154,30 @@
             "Noto Serif Display",
             "Noto Serif Khitan Small Script",
             "Noto Serif Ottoman Siyaq",
-            "Noto Znamenny Musical Notation"
+            "Noto Znamenny Musical Notation",
         ],
-        "kos_Latn": [
+        kos_Latn: [
             "Noto Sans",
             "Noto Sans Display",
             "Noto Sans Mono",
             "Noto Serif",
-            "Noto Serif Display"
+            "Noto Serif Display",
         ],
-        "kpe_Latn": [
+        kpe_Latn: [
             "Noto Sans",
             "Noto Sans Display",
             "Noto Sans Mono",
             "Noto Serif",
-            "Noto Serif Display"
+            "Noto Serif Display",
         ],
-        "kpy_Cyrl": [
+        kpy_Cyrl: [
             "Noto Sans",
             "Noto Sans Display",
             "Noto Sans Mono",
             "Noto Serif",
-            "Noto Serif Display"
+            "Noto Serif Display",
         ],
-        "kqn_Latn": [
+        kqn_Latn: [
             "Noto Music",
             "Noto Sans",
             "Noto Sans Cypro Minoan",
@@ -5215,9 +5192,9 @@
             "Noto Serif Display",
             "Noto Serif Khitan Small Script",
             "Noto Serif Ottoman Siyaq",
-            "Noto Znamenny Musical Notation"
+            "Noto Znamenny Musical Notation",
         ],
-        "kqs_Latn": [
+        kqs_Latn: [
             "Noto Music",
             "Noto Sans",
             "Noto Sans Cypro Minoan",
@@ -5232,44 +5209,44 @@
             "Noto Serif Display",
             "Noto Serif Khitan Small Script",
             "Noto Serif Ottoman Siyaq",
-            "Noto Znamenny Musical Notation"
+            "Noto Znamenny Musical Notation",
         ],
-        "kr_Arab": [
+        kr_Arab: [
             "Noto Kufi Arabic",
             "Noto Naskh Arabic",
             "Noto Naskh Arabic UI",
             "Noto Sans Arabic",
-            "Noto Sans Arabic UI"
+            "Noto Sans Arabic UI",
         ],
-        "kr_Latn": [
+        kr_Latn: [
             "Noto Sans",
             "Noto Sans Display",
             "Noto Sans Mono",
             "Noto Serif",
-            "Noto Serif Display"
+            "Noto Serif Display",
         ],
-        "krc_Cyrl": [
+        krc_Cyrl: [
             "Noto Sans",
             "Noto Sans Display",
             "Noto Sans Mono",
             "Noto Serif",
-            "Noto Serif Display"
+            "Noto Serif Display",
         ],
-        "kri_Latn": [
+        kri_Latn: [
             "Noto Sans",
             "Noto Sans Display",
             "Noto Sans Mono",
             "Noto Serif",
-            "Noto Serif Display"
+            "Noto Serif Display",
         ],
-        "krj_Latn": [
+        krj_Latn: [
             "Noto Sans",
             "Noto Sans Display",
             "Noto Sans Mono",
             "Noto Serif",
-            "Noto Serif Display"
+            "Noto Serif Display",
         ],
-        "krl_Latn": [
+        krl_Latn: [
             "Noto Music",
             "Noto Sans",
             "Noto Sans Cypro Minoan",
@@ -5284,28 +5261,28 @@
             "Noto Serif Display",
             "Noto Serif Khitan Small Script",
             "Noto Serif Ottoman Siyaq",
-            "Noto Znamenny Musical Notation"
+            "Noto Znamenny Musical Notation",
         ],
-        "kru_Deva": [
+        kru_Deva: [
             "Noto Sans",
             "Noto Sans Devanagari",
             "Noto Sans Devanagari UI",
-            "Noto Serif Devanagari"
+            "Noto Serif Devanagari",
         ],
-        "ks_Arab": [
+        ks_Arab: [
             "Noto Kufi Arabic",
             "Noto Naskh Arabic",
             "Noto Naskh Arabic UI",
             "Noto Sans Arabic",
-            "Noto Sans Arabic UI"
+            "Noto Sans Arabic UI",
         ],
-        "ks_Deva": [
+        ks_Deva: [
             "Noto Sans",
             "Noto Sans Devanagari",
             "Noto Sans Devanagari UI",
-            "Noto Serif Devanagari"
+            "Noto Serif Devanagari",
         ],
-        "ksb_Latn": [
+        ksb_Latn: [
             "Noto Music",
             "Noto Sans",
             "Noto Sans Cypro Minoan",
@@ -5321,16 +5298,16 @@
             "Noto Serif Display",
             "Noto Serif Khitan Small Script",
             "Noto Serif Ottoman Siyaq",
-            "Noto Znamenny Musical Notation"
+            "Noto Znamenny Musical Notation",
         ],
-        "ksf_Latn": [
+        ksf_Latn: [
             "Noto Sans",
             "Noto Sans Display",
             "Noto Sans Mono",
             "Noto Serif",
-            "Noto Serif Display"
+            "Noto Serif Display",
         ],
-        "ksh_Latn": [
+        ksh_Latn: [
             "Noto Music",
             "Noto Sans",
             "Noto Sans Cypro Minoan",
@@ -5345,14 +5322,14 @@
             "Noto Serif Display",
             "Noto Serif Khitan Small Script",
             "Noto Serif Ottoman Siyaq",
-            "Noto Znamenny Musical Notation"
+            "Noto Znamenny Musical Notation",
         ],
-        "ksw_Mymr": [
+        ksw_Mymr: [
             "Noto Sans Myanmar",
             "Noto Sans Myanmar UI",
-            "Noto Serif Myanmar"
+            "Noto Serif Myanmar",
         ],
-        "ktu_Latn": [
+        ktu_Latn: [
             "Noto Music",
             "Noto Sans",
             "Noto Sans Cypro Minoan",
@@ -5367,23 +5344,23 @@
             "Noto Serif Display",
             "Noto Serif Khitan Small Script",
             "Noto Serif Ottoman Siyaq",
-            "Noto Znamenny Musical Notation"
+            "Noto Znamenny Musical Notation",
         ],
-        "ku_Arab": [
+        ku_Arab: [
             "Noto Kufi Arabic",
             "Noto Naskh Arabic",
             "Noto Naskh Arabic UI",
             "Noto Sans Arabic",
-            "Noto Sans Arabic UI"
+            "Noto Sans Arabic UI",
         ],
-        "ku_Cyrl": [
+        ku_Cyrl: [
             "Noto Sans",
             "Noto Sans Display",
             "Noto Sans Mono",
             "Noto Serif",
-            "Noto Serif Display"
+            "Noto Serif Display",
         ],
-        "ku_Latn": [
+        ku_Latn: [
             "Noto Music",
             "Noto Sans",
             "Noto Sans Cypro Minoan",
@@ -5398,10 +5375,10 @@
             "Noto Serif Display",
             "Noto Serif Khitan Small Script",
             "Noto Serif Ottoman Siyaq",
-            "Noto Znamenny Musical Notation"
+            "Noto Znamenny Musical Notation",
         ],
-        "ku_Yezi": ["Noto Serif Yezidi"],
-        "kuj_Latn": [
+        ku_Yezi: ["Noto Serif Yezidi"],
+        kuj_Latn: [
             "Noto Music",
             "Noto Sans Cypro Minoan",
             "Noto Sans Indic Siyaq Numbers",
@@ -5411,16 +5388,16 @@
             "Noto Sans Symbols 2",
             "Noto Serif Khitan Small Script",
             "Noto Serif Ottoman Siyaq",
-            "Noto Znamenny Musical Notation"
+            "Noto Znamenny Musical Notation",
         ],
-        "kum_Cyrl": [
+        kum_Cyrl: [
             "Noto Sans",
             "Noto Sans Display",
             "Noto Sans Mono",
             "Noto Serif",
-            "Noto Serif Display"
+            "Noto Serif Display",
         ],
-        "kun_Latn": [
+        kun_Latn: [
             "Noto Music",
             "Noto Sans Cypro Minoan",
             "Noto Sans Indic Siyaq Numbers",
@@ -5430,9 +5407,9 @@
             "Noto Sans Symbols 2",
             "Noto Serif Khitan Small Script",
             "Noto Serif Ottoman Siyaq",
-            "Noto Znamenny Musical Notation"
+            "Noto Znamenny Musical Notation",
         ],
-        "kus_Latn": [
+        kus_Latn: [
             "Noto Music",
             "Noto Sans Cypro Minoan",
             "Noto Sans Indic Siyaq Numbers",
@@ -5441,38 +5418,38 @@
             "Noto Sans Symbols",
             "Noto Sans Symbols 2",
             "Noto Serif Khitan Small Script",
-            "Noto Serif Ottoman Siyaq"
+            "Noto Serif Ottoman Siyaq",
         ],
-        "kut_Latn": [
+        kut_Latn: [
             "Noto Sans",
             "Noto Sans Display",
             "Noto Sans Mono",
             "Noto Serif",
-            "Noto Serif Display"
+            "Noto Serif Display",
         ],
-        "kv_Cyrl": [
+        kv_Cyrl: [
             "Noto Sans",
             "Noto Sans Display",
             "Noto Sans Mono",
             "Noto Serif",
-            "Noto Serif Display"
+            "Noto Serif Display",
         ],
-        "kv_Perm": ["Noto Sans Old Permic"],
-        "kvr_Latn": [
+        kv_Perm: ["Noto Sans Old Permic"],
+        kvr_Latn: [
             "Noto Sans",
             "Noto Sans Display",
             "Noto Sans Mono",
             "Noto Serif",
-            "Noto Serif Display"
+            "Noto Serif Display",
         ],
-        "kvx_Arab": [
+        kvx_Arab: [
             "Noto Kufi Arabic",
             "Noto Naskh Arabic",
             "Noto Naskh Arabic UI",
             "Noto Sans Arabic",
-            "Noto Sans Arabic UI"
+            "Noto Sans Arabic UI",
         ],
-        "kw_Latn": [
+        kw_Latn: [
             "Noto Music",
             "Noto Sans",
             "Noto Sans Cypro Minoan",
@@ -5488,9 +5465,9 @@
             "Noto Serif Display",
             "Noto Serif Khitan Small Script",
             "Noto Serif Ottoman Siyaq",
-            "Noto Znamenny Musical Notation"
+            "Noto Znamenny Musical Notation",
         ],
-        "kwi_Latn": [
+        kwi_Latn: [
             "Noto Music",
             "Noto Sans",
             "Noto Sans Cypro Minoan",
@@ -5505,54 +5482,50 @@
             "Noto Serif Display",
             "Noto Serif Khitan Small Script",
             "Noto Serif Ottoman Siyaq",
-            "Noto Znamenny Musical Notation"
+            "Noto Znamenny Musical Notation",
         ],
-        "kxm_Thai": [
+        kxm_Thai: [
             "Noto Sans Thai",
             "Noto Sans Thai Looped",
             "Noto Sans Thai UI",
-            "Noto Serif Thai"
+            "Noto Serif Thai",
         ],
-        "kxp_Arab": [
+        kxp_Arab: [
             "Noto Kufi Arabic",
             "Noto Naskh Arabic",
             "Noto Naskh Arabic UI",
             "Noto Sans Arabic",
-            "Noto Sans Arabic UI"
+            "Noto Sans Arabic UI",
         ],
-        "ky_Arab": [
+        ky_Arab: [
             "Noto Kufi Arabic",
             "Noto Naskh Arabic",
             "Noto Naskh Arabic UI",
             "Noto Sans Arabic",
-            "Noto Sans Arabic UI"
+            "Noto Sans Arabic UI",
         ],
-        "ky_Cyrl": [
+        ky_Cyrl: [
             "Noto Sans",
             "Noto Sans Display",
             "Noto Sans Mono",
             "Noto Serif",
-            "Noto Serif Display"
+            "Noto Serif Display",
         ],
-        "ky_Latn": [
+        ky_Latn: [
             "Noto Sans",
             "Noto Sans Display",
             "Noto Sans Mono",
             "Noto Serif",
-            "Noto Serif Display"
+            "Noto Serif Display",
         ],
-        "kyu_Kali": ["Noto Sans Kayah Li"],
-        "kyw_Beng": [
+        kyu_Kali: ["Noto Sans Kayah Li"],
+        kyw_Beng: [
             "Noto Sans Bengali",
             "Noto Sans Bengali UI",
-            "Noto Serif Bengali"
+            "Noto Serif Bengali",
         ],
-        "kyw_Orya": [
-            "Noto Sans Oriya",
-            "Noto Sans Oriya UI",
-            "Noto Serif Oriya"
-        ],
-        "la_Latn": [
+        kyw_Orya: ["Noto Sans Oriya", "Noto Sans Oriya UI", "Noto Serif Oriya"],
+        la_Latn: [
             "Noto Music",
             "Noto Sans",
             "Noto Sans Cypro Minoan",
@@ -5568,15 +5541,15 @@
             "Noto Serif Display",
             "Noto Serif Khitan Small Script",
             "Noto Serif Ottoman Siyaq",
-            "Noto Znamenny Musical Notation"
+            "Noto Znamenny Musical Notation",
         ],
-        "lab_Lina": ["Noto Sans Linear A"],
-        "lad_Hebr": [
+        lab_Lina: ["Noto Sans Linear A"],
+        lad_Hebr: [
             "Noto Rashi Hebrew",
             "Noto Sans Hebrew",
-            "Noto Serif Hebrew"
+            "Noto Serif Hebrew",
         ],
-        "lad_Latn": [
+        lad_Latn: [
             "Noto Music",
             "Noto Sans",
             "Noto Sans Cypro Minoan",
@@ -5591,38 +5564,38 @@
             "Noto Serif Display",
             "Noto Serif Khitan Small Script",
             "Noto Serif Ottoman Siyaq",
-            "Noto Znamenny Musical Notation"
+            "Noto Znamenny Musical Notation",
         ],
-        "lag_Latn": [
+        lag_Latn: [
             "Noto Sans",
             "Noto Sans Display",
             "Noto Sans Mono",
             "Noto Serif",
-            "Noto Serif Display"
+            "Noto Serif Display",
         ],
-        "lah_Arab": [
+        lah_Arab: [
             "Noto Kufi Arabic",
             "Noto Naskh Arabic",
             "Noto Naskh Arabic UI",
             "Noto Sans Arabic",
-            "Noto Sans Arabic UI"
+            "Noto Sans Arabic UI",
         ],
-        "laj_Latn": [
-            "Noto Sans",
-            "Noto Sans Display",
-            "Noto Sans Mono",
-            "Noto Serif",
-            "Noto Serif Display"
-        ],
-        "lam_Latn": [
+        laj_Latn: [
             "Noto Sans",
             "Noto Sans Display",
             "Noto Sans Mono",
             "Noto Serif",
             "Noto Serif Display",
-            "Noto Znamenny Musical Notation"
         ],
-        "lb_Latn": [
+        lam_Latn: [
+            "Noto Sans",
+            "Noto Sans Display",
+            "Noto Sans Mono",
+            "Noto Serif",
+            "Noto Serif Display",
+            "Noto Znamenny Musical Notation",
+        ],
+        lb_Latn: [
             "Noto Music",
             "Noto Sans",
             "Noto Sans Cypro Minoan",
@@ -5637,45 +5610,45 @@
             "Noto Serif Display",
             "Noto Serif Khitan Small Script",
             "Noto Serif Ottoman Siyaq",
-            "Noto Znamenny Musical Notation"
+            "Noto Znamenny Musical Notation",
         ],
-        "lbe_Cyrl": [
+        lbe_Cyrl: [
             "Noto Sans",
             "Noto Sans Display",
             "Noto Sans Mono",
             "Noto Serif",
-            "Noto Serif Display"
+            "Noto Serif Display",
         ],
-        "lbw_Latn": [
+        lbw_Latn: [
             "Noto Sans",
             "Noto Sans Display",
             "Noto Sans Mono",
             "Noto Serif",
-            "Noto Serif Display"
+            "Noto Serif Display",
         ],
-        "lcp_Thai": [
+        lcp_Thai: [
             "Noto Sans Thai",
             "Noto Sans Thai Looped",
             "Noto Sans Thai UI",
-            "Noto Serif Thai"
+            "Noto Serif Thai",
         ],
-        "lep_Lepc": ["Noto Sans Lepcha"],
-        "lez_Aghb": ["Noto Sans Caucasian Albanian"],
-        "lez_Cyrl": [
+        lep_Lepc: ["Noto Sans Lepcha"],
+        lez_Aghb: ["Noto Sans Caucasian Albanian"],
+        lez_Cyrl: [
             "Noto Sans",
             "Noto Sans Display",
             "Noto Sans Mono",
             "Noto Serif",
-            "Noto Serif Display"
+            "Noto Serif Display",
         ],
-        "lfn_Cyrl": [
+        lfn_Cyrl: [
             "Noto Sans",
             "Noto Sans Display",
             "Noto Sans Mono",
             "Noto Serif",
-            "Noto Serif Display"
+            "Noto Serif Display",
         ],
-        "lfn_Latn": [
+        lfn_Latn: [
             "Noto Music",
             "Noto Sans",
             "Noto Sans Cypro Minoan",
@@ -5690,9 +5663,9 @@
             "Noto Serif Display",
             "Noto Serif Khitan Small Script",
             "Noto Serif Ottoman Siyaq",
-            "Noto Znamenny Musical Notation"
+            "Noto Znamenny Musical Notation",
         ],
-        "lg_Latn": [
+        lg_Latn: [
             "Noto Music",
             "Noto Sans",
             "Noto Sans Cypro Minoan",
@@ -5707,22 +5680,22 @@
             "Noto Serif Display",
             "Noto Serif Khitan Small Script",
             "Noto Serif Ottoman Siyaq",
-            "Noto Znamenny Musical Notation"
+            "Noto Znamenny Musical Notation",
         ],
-        "lhm_Deva": [
+        lhm_Deva: [
             "Noto Sans",
             "Noto Sans Devanagari",
             "Noto Sans Devanagari UI",
-            "Noto Serif Devanagari"
+            "Noto Serif Devanagari",
         ],
-        "li_Latn": [
+        li_Latn: [
             "Noto Sans",
             "Noto Sans Display",
             "Noto Sans Mono",
             "Noto Serif",
-            "Noto Serif Display"
+            "Noto Serif Display",
         ],
-        "lia_Latn": [
+        lia_Latn: [
             "Noto Music",
             "Noto Sans",
             "Noto Sans Cypro Minoan",
@@ -5736,16 +5709,16 @@
             "Noto Serif",
             "Noto Serif Display",
             "Noto Serif Khitan Small Script",
-            "Noto Serif Ottoman Siyaq"
+            "Noto Serif Ottoman Siyaq",
         ],
-        "lif_Deva": [
+        lif_Deva: [
             "Noto Sans",
             "Noto Sans Devanagari",
             "Noto Sans Devanagari UI",
-            "Noto Serif Devanagari"
+            "Noto Serif Devanagari",
         ],
-        "lif_Limb": ["Noto Sans Limbu"],
-        "lij_Latn": [
+        lif_Limb: ["Noto Sans Limbu"],
+        lij_Latn: [
             "Noto Music",
             "Noto Sans",
             "Noto Sans Cypro Minoan",
@@ -5760,10 +5733,10 @@
             "Noto Serif Display",
             "Noto Serif Khitan Small Script",
             "Noto Serif Ottoman Siyaq",
-            "Noto Znamenny Musical Notation"
+            "Noto Znamenny Musical Notation",
         ],
-        "lis_Lisu": ["Noto Sans Lisu"],
-        "liv_Latn": [
+        lis_Lisu: ["Noto Sans Lisu"],
+        liv_Latn: [
             "Noto Music",
             "Noto Sans",
             "Noto Sans Cypro Minoan",
@@ -5778,30 +5751,30 @@
             "Noto Serif Display",
             "Noto Serif Khitan Small Script",
             "Noto Serif Ottoman Siyaq",
-            "Noto Znamenny Musical Notation"
+            "Noto Znamenny Musical Notation",
         ],
-        "ljp_Latn": [
+        ljp_Latn: [
             "Noto Sans",
             "Noto Sans Display",
             "Noto Sans Mono",
             "Noto Serif",
-            "Noto Serif Display"
+            "Noto Serif Display",
         ],
-        "lki_Arab": [
+        lki_Arab: [
             "Noto Kufi Arabic",
             "Noto Naskh Arabic",
             "Noto Naskh Arabic UI",
             "Noto Sans Arabic",
-            "Noto Sans Arabic UI"
+            "Noto Sans Arabic UI",
         ],
-        "lkt_Latn": [
+        lkt_Latn: [
             "Noto Sans",
             "Noto Sans Display",
             "Noto Sans Mono",
             "Noto Serif",
-            "Noto Serif Display"
+            "Noto Serif Display",
         ],
-        "lld_Latn": [
+        lld_Latn: [
             "Noto Music",
             "Noto Sans",
             "Noto Sans Cypro Minoan",
@@ -5816,9 +5789,9 @@
             "Noto Serif Display",
             "Noto Serif Khitan Small Script",
             "Noto Serif Ottoman Siyaq",
-            "Noto Znamenny Musical Notation"
+            "Noto Znamenny Musical Notation",
         ],
-        "lln_Latn": [
+        lln_Latn: [
             "Noto Music",
             "Noto Sans Cypro Minoan",
             "Noto Sans Indic Siyaq Numbers",
@@ -5828,34 +5801,10 @@
             "Noto Sans Symbols 2",
             "Noto Serif Khitan Small Script",
             "Noto Serif Ottoman Siyaq",
-            "Noto Znamenny Musical Notation"
+            "Noto Znamenny Musical Notation",
         ],
-        "lmn_Telu": ["Noto Sans Telugu", "Noto Serif Telugu"],
-        "lmo_Latn": [
-            "Noto Music",
-            "Noto Sans",
-            "Noto Sans Cypro Minoan",
-            "Noto Sans Display",
-            "Noto Sans Indic Siyaq Numbers",
-            "Noto Sans Mayan Numerals",
-            "Noto Sans Mono",
-            "Noto Sans SignWriting",
-            "Noto Sans Symbols",
-            "Noto Sans Symbols 2",
-            "Noto Serif",
-            "Noto Serif Display",
-            "Noto Serif Khitan Small Script",
-            "Noto Serif Ottoman Siyaq",
-            "Noto Znamenny Musical Notation"
-        ],
-        "ln_Latn": [
-            "Noto Sans",
-            "Noto Sans Display",
-            "Noto Sans Mono",
-            "Noto Serif",
-            "Noto Serif Display"
-        ],
-        "lns_Latn": [
+        lmn_Telu: ["Noto Sans Telugu", "Noto Serif Telugu"],
+        lmo_Latn: [
             "Noto Music",
             "Noto Sans",
             "Noto Sans Cypro Minoan",
@@ -5870,29 +5819,53 @@
             "Noto Serif Display",
             "Noto Serif Khitan Small Script",
             "Noto Serif Ottoman Siyaq",
-            "Noto Znamenny Musical Notation"
+            "Noto Znamenny Musical Notation",
         ],
-        "lo_Laoo": [
+        ln_Latn: [
+            "Noto Sans",
+            "Noto Sans Display",
+            "Noto Sans Mono",
+            "Noto Serif",
+            "Noto Serif Display",
+        ],
+        lns_Latn: [
+            "Noto Music",
+            "Noto Sans",
+            "Noto Sans Cypro Minoan",
+            "Noto Sans Display",
+            "Noto Sans Indic Siyaq Numbers",
+            "Noto Sans Mayan Numerals",
+            "Noto Sans Mono",
+            "Noto Sans SignWriting",
+            "Noto Sans Symbols",
+            "Noto Sans Symbols 2",
+            "Noto Serif",
+            "Noto Serif Display",
+            "Noto Serif Khitan Small Script",
+            "Noto Serif Ottoman Siyaq",
+            "Noto Znamenny Musical Notation",
+        ],
+        lo_Laoo: [
             "Noto Sans Lao",
             "Noto Sans Lao Looped",
             "Noto Sans Lao UI",
-            "Noto Serif Lao"
+            "Noto Serif Lao",
         ],
-        "lob_Latn": [
+        lob_Latn: [
             "Noto Sans",
             "Noto Sans Display",
             "Noto Sans Mono",
             "Noto Serif",
-            "Noto Serif Display"
+            "Noto Serif Display",
         ],
-        "lol_Latn": [
+        lol_Latn: [
             "Noto Sans",
             "Noto Sans Display",
             "Noto Sans Mono",
             "Noto Serif",
-            "Noto Serif Display"
+            "Noto Serif Display",
         ],
-        "lot_Latn": [
+        lot_Latn: [
             "Noto Music",
             "Noto Sans",
             "Noto Sans Cypro Minoan",
@@ -5907,23 +5880,23 @@
             "Noto Serif Display",
             "Noto Serif Khitan Small Script",
             "Noto Serif Ottoman Siyaq",
-            "Noto Znamenny Musical Notation"
+            "Noto Znamenny Musical Notation",
         ],
-        "loz_Latn": [
+        loz_Latn: [
             "Noto Sans",
             "Noto Sans Display",
             "Noto Sans Mono",
             "Noto Serif",
-            "Noto Serif Display"
+            "Noto Serif Display",
         ],
-        "lrc_Arab": [
+        lrc_Arab: [
             "Noto Kufi Arabic",
             "Noto Naskh Arabic",
             "Noto Naskh Arabic UI",
             "Noto Sans Arabic",
-            "Noto Sans Arabic UI"
+            "Noto Sans Arabic UI",
         ],
-        "lt_Latn": [
+        lt_Latn: [
             "Noto Music",
             "Noto Sans",
             "Noto Sans Cypro Minoan",
@@ -5938,9 +5911,9 @@
             "Noto Serif Display",
             "Noto Serif Khitan Small Script",
             "Noto Serif Ottoman Siyaq",
-            "Noto Znamenny Musical Notation"
+            "Noto Znamenny Musical Notation",
         ],
-        "ltg_Latn": [
+        ltg_Latn: [
             "Noto Music",
             "Noto Sans",
             "Noto Sans Cypro Minoan",
@@ -5955,75 +5928,16 @@
             "Noto Serif Display",
             "Noto Serif Khitan Small Script",
             "Noto Serif Ottoman Siyaq",
-            "Noto Znamenny Musical Notation"
+            "Noto Znamenny Musical Notation",
         ],
-        "lu_Latn": [
+        lu_Latn: [
             "Noto Sans",
             "Noto Sans Display",
             "Noto Sans Mono",
-            "Noto Serif",
-            "Noto Serif Display"
-        ],
-        "lua_Latn": [
-            "Noto Music",
-            "Noto Sans",
-            "Noto Sans Cypro Minoan",
-            "Noto Sans Display",
-            "Noto Sans Indic Siyaq Numbers",
-            "Noto Sans Math",
-            "Noto Sans Mayan Numerals",
-            "Noto Sans Mono",
-            "Noto Sans SignWriting",
-            "Noto Sans Symbols",
-            "Noto Sans Symbols 2",
             "Noto Serif",
             "Noto Serif Display",
-            "Noto Serif Khitan Small Script",
-            "Noto Serif Ottoman Siyaq",
-            "Noto Znamenny Musical Notation"
         ],
-        "lue_Latn": [
-            "Noto Music",
-            "Noto Sans",
-            "Noto Sans Cypro Minoan",
-            "Noto Sans Display",
-            "Noto Sans Indic Siyaq Numbers",
-            "Noto Sans Mayan Numerals",
-            "Noto Sans Mono",
-            "Noto Sans SignWriting",
-            "Noto Sans Symbols",
-            "Noto Sans Symbols 2",
-            "Noto Serif",
-            "Noto Serif Display",
-            "Noto Serif Khitan Small Script",
-            "Noto Serif Ottoman Siyaq",
-            "Noto Znamenny Musical Notation"
-        ],
-        "lui_Latn": [
-            "Noto Sans",
-            "Noto Sans Display",
-            "Noto Sans Mono",
-            "Noto Serif",
-            "Noto Serif Display"
-        ],
-        "lun_Latn": [
-            "Noto Music",
-            "Noto Sans",
-            "Noto Sans Cypro Minoan",
-            "Noto Sans Display",
-            "Noto Sans Indic Siyaq Numbers",
-            "Noto Sans Mayan Numerals",
-            "Noto Sans Mono",
-            "Noto Sans SignWriting",
-            "Noto Sans Symbols",
-            "Noto Sans Symbols 2",
-            "Noto Serif",
-            "Noto Serif Display",
-            "Noto Serif Khitan Small Script",
-            "Noto Serif Ottoman Siyaq",
-            "Noto Znamenny Musical Notation"
-        ],
-        "luo_Latn": [
+        lua_Latn: [
             "Noto Music",
             "Noto Sans",
             "Noto Sans Cypro Minoan",
@@ -6039,14 +5953,73 @@
             "Noto Serif Display",
             "Noto Serif Khitan Small Script",
             "Noto Serif Ottoman Siyaq",
-            "Noto Znamenny Musical Notation"
+            "Noto Znamenny Musical Notation",
         ],
-        "lus_Beng": [
+        lue_Latn: [
+            "Noto Music",
+            "Noto Sans",
+            "Noto Sans Cypro Minoan",
+            "Noto Sans Display",
+            "Noto Sans Indic Siyaq Numbers",
+            "Noto Sans Mayan Numerals",
+            "Noto Sans Mono",
+            "Noto Sans SignWriting",
+            "Noto Sans Symbols",
+            "Noto Sans Symbols 2",
+            "Noto Serif",
+            "Noto Serif Display",
+            "Noto Serif Khitan Small Script",
+            "Noto Serif Ottoman Siyaq",
+            "Noto Znamenny Musical Notation",
+        ],
+        lui_Latn: [
+            "Noto Sans",
+            "Noto Sans Display",
+            "Noto Sans Mono",
+            "Noto Serif",
+            "Noto Serif Display",
+        ],
+        lun_Latn: [
+            "Noto Music",
+            "Noto Sans",
+            "Noto Sans Cypro Minoan",
+            "Noto Sans Display",
+            "Noto Sans Indic Siyaq Numbers",
+            "Noto Sans Mayan Numerals",
+            "Noto Sans Mono",
+            "Noto Sans SignWriting",
+            "Noto Sans Symbols",
+            "Noto Sans Symbols 2",
+            "Noto Serif",
+            "Noto Serif Display",
+            "Noto Serif Khitan Small Script",
+            "Noto Serif Ottoman Siyaq",
+            "Noto Znamenny Musical Notation",
+        ],
+        luo_Latn: [
+            "Noto Music",
+            "Noto Sans",
+            "Noto Sans Cypro Minoan",
+            "Noto Sans Display",
+            "Noto Sans Indic Siyaq Numbers",
+            "Noto Sans Math",
+            "Noto Sans Mayan Numerals",
+            "Noto Sans Mono",
+            "Noto Sans SignWriting",
+            "Noto Sans Symbols",
+            "Noto Sans Symbols 2",
+            "Noto Serif",
+            "Noto Serif Display",
+            "Noto Serif Khitan Small Script",
+            "Noto Serif Ottoman Siyaq",
+            "Noto Znamenny Musical Notation",
+        ],
+        lus_Beng: [
             "Noto Sans Bengali",
             "Noto Sans Bengali UI",
-            "Noto Serif Bengali"
+            "Noto Serif Bengali",
         ],
-        "lus_Latn": [
+        lus_Latn: [
             "Noto Music",
             "Noto Sans",
             "Noto Sans Cypro Minoan",
@@ -6061,16 +6034,16 @@
             "Noto Serif Display",
             "Noto Serif Khitan Small Script",
             "Noto Serif Ottoman Siyaq",
-            "Noto Znamenny Musical Notation"
+            "Noto Znamenny Musical Notation",
         ],
-        "lut_Latn": [
+        lut_Latn: [
             "Noto Sans",
             "Noto Sans Display",
             "Noto Sans Mono",
             "Noto Serif",
-            "Noto Serif Display"
+            "Noto Serif Display",
         ],
-        "luy_Latn": [
+        luy_Latn: [
             "Noto Music",
             "Noto Sans",
             "Noto Sans Cypro Minoan",
@@ -6086,16 +6059,16 @@
             "Noto Serif Display",
             "Noto Serif Khitan Small Script",
             "Noto Serif Ottoman Siyaq",
-            "Noto Znamenny Musical Notation"
+            "Noto Znamenny Musical Notation",
         ],
-        "luz_Arab": [
+        luz_Arab: [
             "Noto Kufi Arabic",
             "Noto Naskh Arabic",
             "Noto Naskh Arabic UI",
             "Noto Sans Arabic",
-            "Noto Sans Arabic UI"
+            "Noto Sans Arabic UI",
         ],
-        "lv_Latn": [
+        lv_Latn: [
             "Noto Music",
             "Noto Sans",
             "Noto Sans Cypro Minoan",
@@ -6110,15 +6083,15 @@
             "Noto Serif Display",
             "Noto Serif Khitan Small Script",
             "Noto Serif Ottoman Siyaq",
-            "Noto Znamenny Musical Notation"
+            "Noto Znamenny Musical Notation",
         ],
-        "lwl_Thai": [
+        lwl_Thai: [
             "Noto Sans Thai",
             "Noto Sans Thai Looped",
             "Noto Sans Thai UI",
-            "Noto Serif Thai"
+            "Noto Serif Thai",
         ],
-        "lwo_Latn": [
+        lwo_Latn: [
             "Noto Music",
             "Noto Sans Cypro Minoan",
             "Noto Sans Indic Siyaq Numbers",
@@ -6128,104 +6101,62 @@
             "Noto Sans Symbols 2",
             "Noto Serif Khitan Small Script",
             "Noto Serif Ottoman Siyaq",
-            "Noto Znamenny Musical Notation"
+            "Noto Znamenny Musical Notation",
         ],
-        "lzh_Hans": ["Noto Sans SC", "Noto Serif SC"],
-        "lzh_Hant": [
+        lzh_Hans: ["Noto Sans SC", "Noto Serif SC"],
+        lzh_Hant: [
             "Noto Sans HK",
             "Noto Sans TC",
             "Noto Serif HK",
-            "Noto Serif TC"
+            "Noto Serif TC",
         ],
-        "lzh_Phag": ["Noto Sans Phags Pa"],
-        "lzz_Geor": ["Noto Sans Georgian", "Noto Serif Georgian"],
-        "lzz_Latn": [
+        lzh_Phag: ["Noto Sans Phags Pa"],
+        lzz_Geor: ["Noto Sans Georgian", "Noto Serif Georgian"],
+        lzz_Latn: [
             "Noto Sans",
             "Noto Sans Display",
             "Noto Sans Mono",
-            "Noto Serif",
-            "Noto Serif Display"
-        ],
-        "mad_Latn": [
-            "Noto Sans",
-            "Noto Sans Display",
-            "Noto Sans Mono",
-            "Noto Serif",
-            "Noto Serif Display"
-        ],
-        "maf_Latn": [
-            "Noto Sans",
-            "Noto Sans Display",
-            "Noto Sans Mono",
-            "Noto Serif",
-            "Noto Serif Display"
-        ],
-        "mag_Deva": [
-            "Noto Sans",
-            "Noto Sans Devanagari",
-            "Noto Sans Devanagari UI",
-            "Noto Serif Devanagari"
-        ],
-        "mai_Deva": [
-            "Noto Sans",
-            "Noto Sans Devanagari",
-            "Noto Sans Devanagari UI",
-            "Noto Serif Devanagari"
-        ],
-        "mai_Newa": ["Noto Sans Newa"],
-        "mai_Tirh": ["Noto Sans Tirhuta"],
-        "mak_Bugi": ["Noto Sans Buginese"],
-        "mak_Latn": [
-            "Noto Sans",
-            "Noto Sans Display",
-            "Noto Sans Mono",
-            "Noto Serif",
-            "Noto Serif Display"
-        ],
-        "mak_Maka": ["Noto Serif Makasar"],
-        "mam_Latn": [
-            "Noto Music",
-            "Noto Sans",
-            "Noto Sans Cypro Minoan",
-            "Noto Sans Display",
-            "Noto Sans Indic Siyaq Numbers",
-            "Noto Sans Mayan Numerals",
-            "Noto Sans Mono",
-            "Noto Sans SignWriting",
-            "Noto Sans Symbols",
-            "Noto Sans Symbols 2",
             "Noto Serif",
             "Noto Serif Display",
-            "Noto Serif Khitan Small Script",
-            "Noto Serif Ottoman Siyaq"
         ],
-        "man_Latn": [
+        mad_Latn: [
             "Noto Sans",
             "Noto Sans Display",
             "Noto Sans Mono",
             "Noto Serif",
-            "Noto Serif Display"
+            "Noto Serif Display",
         ],
-        "man_Nkoo": [
-            "Noto Sans N Ko",
-            "Noto Sans NKo",
-            "Noto Sans NKo Unjoined"
-        ],
-        "mas_Latn": [
+        maf_Latn: [
             "Noto Sans",
             "Noto Sans Display",
             "Noto Sans Mono",
             "Noto Serif",
-            "Noto Serif Display"
+            "Noto Serif Display",
         ],
-        "maz_Latn": [
+        mag_Deva: [
+            "Noto Sans",
+            "Noto Sans Devanagari",
+            "Noto Sans Devanagari UI",
+            "Noto Serif Devanagari",
+        ],
+        mai_Deva: [
+            "Noto Sans",
+            "Noto Sans Devanagari",
+            "Noto Sans Devanagari UI",
+            "Noto Serif Devanagari",
+        ],
+        mai_Newa: ["Noto Sans Newa"],
+        mai_Tirh: ["Noto Sans Tirhuta"],
+        mak_Bugi: ["Noto Sans Buginese"],
+        mak_Latn: [
             "Noto Sans",
             "Noto Sans Display",
             "Noto Sans Mono",
             "Noto Serif",
-            "Noto Serif Display"
+            "Noto Serif Display",
         ],
-        "mcd_Latn": [
+        mak_Maka: ["Noto Serif Makasar"],
+        mam_Latn: [
             "Noto Music",
             "Noto Sans",
             "Noto Sans Cypro Minoan",
@@ -6240,9 +6171,30 @@
             "Noto Serif Display",
             "Noto Serif Khitan Small Script",
             "Noto Serif Ottoman Siyaq",
-            "Noto Znamenny Musical Notation"
         ],
-        "mcf_Latn": [
+        man_Latn: [
+            "Noto Sans",
+            "Noto Sans Display",
+            "Noto Sans Mono",
+            "Noto Serif",
+            "Noto Serif Display",
+        ],
+        man_Nkoo: ["Noto Sans N Ko", "Noto Sans NKo", "Noto Sans NKo Unjoined"],
+        mas_Latn: [
+            "Noto Sans",
+            "Noto Sans Display",
+            "Noto Sans Mono",
+            "Noto Serif",
+            "Noto Serif Display",
+        ],
+        maz_Latn: [
+            "Noto Sans",
+            "Noto Sans Display",
+            "Noto Sans Mono",
+            "Noto Serif",
+            "Noto Serif Display",
+        ],
+        mcd_Latn: [
             "Noto Music",
             "Noto Sans",
             "Noto Sans Cypro Minoan",
@@ -6257,68 +6209,85 @@
             "Noto Serif Display",
             "Noto Serif Khitan Small Script",
             "Noto Serif Ottoman Siyaq",
-            "Noto Znamenny Musical Notation"
+            "Noto Znamenny Musical Notation",
         ],
-        "mdf_Cyrl": [
+        mcf_Latn: [
+            "Noto Music",
             "Noto Sans",
+            "Noto Sans Cypro Minoan",
             "Noto Sans Display",
+            "Noto Sans Indic Siyaq Numbers",
+            "Noto Sans Mayan Numerals",
             "Noto Sans Mono",
+            "Noto Sans SignWriting",
+            "Noto Sans Symbols",
+            "Noto Sans Symbols 2",
             "Noto Serif",
-            "Noto Serif Display"
+            "Noto Serif Display",
+            "Noto Serif Khitan Small Script",
+            "Noto Serif Ottoman Siyaq",
+            "Noto Znamenny Musical Notation",
         ],
-        "mdh_Latn": [
-            "Noto Sans",
-            "Noto Sans Display",
-            "Noto Sans Mono",
-            "Noto Serif",
-            "Noto Serif Display"
-        ],
-        "mdr_Bugi": ["Noto Sans Buginese"],
-        "mdr_Latn": [
-            "Noto Sans",
-            "Noto Sans Display",
-            "Noto Sans Mono",
-            "Noto Serif",
-            "Noto Serif Display"
-        ],
-        "mdt_Latn": [
-            "Noto Sans",
-            "Noto Sans Display",
-            "Noto Sans Mono",
-            "Noto Serif",
-            "Noto Serif Display"
-        ],
-        "men_Latn": [
-            "Noto Sans",
-            "Noto Sans Display",
-            "Noto Sans Mono",
-            "Noto Serif",
-            "Noto Serif Display"
-        ],
-        "men_Mend": ["Noto Sans Mende Kikakui"],
-        "mer_Latn": [
+        mdf_Cyrl: [
             "Noto Sans",
             "Noto Sans Display",
             "Noto Sans Mono",
             "Noto Serif",
             "Noto Serif Display",
-            "Noto Znamenny Musical Notation"
         ],
-        "mey_Latn": [
+        mdh_Latn: [
             "Noto Sans",
             "Noto Sans Display",
             "Noto Sans Mono",
             "Noto Serif",
-            "Noto Serif Display"
+            "Noto Serif Display",
         ],
-        "mfa_Arab": [
+        mdr_Bugi: ["Noto Sans Buginese"],
+        mdr_Latn: [
+            "Noto Sans",
+            "Noto Sans Display",
+            "Noto Sans Mono",
+            "Noto Serif",
+            "Noto Serif Display",
+        ],
+        mdt_Latn: [
+            "Noto Sans",
+            "Noto Sans Display",
+            "Noto Sans Mono",
+            "Noto Serif",
+            "Noto Serif Display",
+        ],
+        men_Latn: [
+            "Noto Sans",
+            "Noto Sans Display",
+            "Noto Sans Mono",
+            "Noto Serif",
+            "Noto Serif Display",
+        ],
+        men_Mend: ["Noto Sans Mende Kikakui"],
+        mer_Latn: [
+            "Noto Sans",
+            "Noto Sans Display",
+            "Noto Sans Mono",
+            "Noto Serif",
+            "Noto Serif Display",
+            "Noto Znamenny Musical Notation",
+        ],
+        mey_Latn: [
+            "Noto Sans",
+            "Noto Sans Display",
+            "Noto Sans Mono",
+            "Noto Serif",
+            "Noto Serif Display",
+        ],
+        mfa_Arab: [
             "Noto Kufi Arabic",
             "Noto Naskh Arabic",
             "Noto Naskh Arabic UI",
             "Noto Sans Arabic",
-            "Noto Sans Arabic UI"
+            "Noto Sans Arabic UI",
         ],
-        "mfe_Latn": [
+        mfe_Latn: [
             "Noto Music",
             "Noto Sans",
             "Noto Sans Cypro Minoan",
@@ -6334,9 +6303,9 @@
             "Noto Serif Display",
             "Noto Serif Khitan Small Script",
             "Noto Serif Ottoman Siyaq",
-            "Noto Znamenny Musical Notation"
+            "Noto Znamenny Musical Notation",
         ],
-        "mfq_Latn": [
+        mfq_Latn: [
             "Noto Music",
             "Noto Sans",
             "Noto Sans Cypro Minoan",
@@ -6351,16 +6320,16 @@
             "Noto Serif Display",
             "Noto Serif Khitan Small Script",
             "Noto Serif Ottoman Siyaq",
-            "Noto Znamenny Musical Notation"
+            "Noto Znamenny Musical Notation",
         ],
-        "mfv_Latn": [
+        mfv_Latn: [
             "Noto Sans",
             "Noto Sans Display",
             "Noto Sans Mono",
             "Noto Serif",
-            "Noto Serif Display"
+            "Noto Serif Display",
         ],
-        "mg_Latn": [
+        mg_Latn: [
             "Noto Music",
             "Noto Sans",
             "Noto Sans Cypro Minoan",
@@ -6375,9 +6344,9 @@
             "Noto Serif Display",
             "Noto Serif Khitan Small Script",
             "Noto Serif Ottoman Siyaq",
-            "Noto Znamenny Musical Notation"
+            "Noto Znamenny Musical Notation",
         ],
-        "mgh_Latn": [
+        mgh_Latn: [
             "Noto Music",
             "Noto Sans",
             "Noto Sans Cypro Minoan",
@@ -6393,45 +6362,29 @@
             "Noto Serif Display",
             "Noto Serif Khitan Small Script",
             "Noto Serif Ottoman Siyaq",
-            "Noto Znamenny Musical Notation"
+            "Noto Znamenny Musical Notation",
         ],
-        "mgo_Latn": [
+        mgo_Latn: [
             "Noto Sans",
             "Noto Sans Display",
             "Noto Sans Mono",
             "Noto Serif",
-            "Noto Serif Display"
+            "Noto Serif Display",
         ],
-        "mgp_Deva": [
+        mgp_Deva: [
             "Noto Sans",
             "Noto Sans Devanagari",
             "Noto Sans Devanagari UI",
-            "Noto Serif Devanagari"
+            "Noto Serif Devanagari",
         ],
-        "mgy_Latn": [
+        mgy_Latn: [
             "Noto Sans",
             "Noto Sans Display",
             "Noto Sans Mono",
-            "Noto Serif",
-            "Noto Serif Display"
-        ],
-        "mh_Latn": [
-            "Noto Music",
-            "Noto Sans",
-            "Noto Sans Cypro Minoan",
-            "Noto Sans Display",
-            "Noto Sans Indic Siyaq Numbers",
-            "Noto Sans Mayan Numerals",
-            "Noto Sans Mono",
-            "Noto Sans SignWriting",
-            "Noto Sans Symbols",
-            "Noto Sans Symbols 2",
             "Noto Serif",
             "Noto Serif Display",
-            "Noto Serif Khitan Small Script",
-            "Noto Serif Ottoman Siyaq"
         ],
-        "mi_Latn": [
+        mh_Latn: [
             "Noto Music",
             "Noto Sans",
             "Noto Sans Cypro Minoan",
@@ -6446,23 +6399,39 @@
             "Noto Serif Display",
             "Noto Serif Khitan Small Script",
             "Noto Serif Ottoman Siyaq",
-            "Noto Znamenny Musical Notation"
         ],
-        "mic_Latn": [
+        mi_Latn: [
+            "Noto Music",
+            "Noto Sans",
+            "Noto Sans Cypro Minoan",
+            "Noto Sans Display",
+            "Noto Sans Indic Siyaq Numbers",
+            "Noto Sans Mayan Numerals",
+            "Noto Sans Mono",
+            "Noto Sans SignWriting",
+            "Noto Sans Symbols",
+            "Noto Sans Symbols 2",
+            "Noto Serif",
+            "Noto Serif Display",
+            "Noto Serif Khitan Small Script",
+            "Noto Serif Ottoman Siyaq",
+            "Noto Znamenny Musical Notation",
+        ],
+        mic_Latn: [
             "Noto Sans",
             "Noto Sans Display",
             "Noto Sans Mono",
             "Noto Serif",
-            "Noto Serif Display"
+            "Noto Serif Display",
         ],
-        "min_Arab": [
+        min_Arab: [
             "Noto Kufi Arabic",
             "Noto Naskh Arabic",
             "Noto Naskh Arabic UI",
             "Noto Sans Arabic",
-            "Noto Sans Arabic UI"
+            "Noto Sans Arabic UI",
         ],
-        "min_Latn": [
+        min_Latn: [
             "Noto Music",
             "Noto Sans",
             "Noto Sans Cypro Minoan",
@@ -6478,9 +6447,9 @@
             "Noto Serif Display",
             "Noto Serif Khitan Small Script",
             "Noto Serif Ottoman Siyaq",
-            "Noto Znamenny Musical Notation"
+            "Noto Znamenny Musical Notation",
         ],
-        "miq_Latn": [
+        miq_Latn: [
             "Noto Music",
             "Noto Sans",
             "Noto Sans Cypro Minoan",
@@ -6495,44 +6464,44 @@
             "Noto Serif Display",
             "Noto Serif Khitan Small Script",
             "Noto Serif Ottoman Siyaq",
-            "Noto Znamenny Musical Notation"
+            "Noto Znamenny Musical Notation",
         ],
-        "mis_Arab": [
+        mis_Arab: [
             "Noto Kufi Arabic",
             "Noto Naskh Arabic",
             "Noto Naskh Arabic UI",
             "Noto Sans Arabic",
-            "Noto Sans Arabic UI"
+            "Noto Sans Arabic UI",
         ],
-        "mis_Hatr": ["Noto Sans Hatran"],
-        "mis_Latn": [
+        mis_Hatr: ["Noto Sans Hatran"],
+        mis_Latn: [
             "Noto Sans",
             "Noto Sans Display",
             "Noto Sans Mono",
             "Noto Serif",
-            "Noto Serif Display"
+            "Noto Serif Display",
         ],
-        "mis_Nshu": ["Noto Sans Nushu", "Noto Traditional Nushu"],
-        "mk_Cyrl": [
+        mis_Nshu: ["Noto Sans Nushu", "Noto Traditional Nushu"],
+        mk_Cyrl: [
             "Noto Sans",
             "Noto Sans Display",
             "Noto Sans Mono",
             "Noto Serif",
-            "Noto Serif Display"
+            "Noto Serif Display",
         ],
-        "ml_Mlym": [
+        ml_Mlym: [
             "Noto Sans Malayalam",
             "Noto Sans Malayalam UI",
-            "Noto Serif Malayalam"
+            "Noto Serif Malayalam",
         ],
-        "mls_Latn": [
+        mls_Latn: [
             "Noto Sans",
             "Noto Sans Display",
             "Noto Sans Mono",
             "Noto Serif",
-            "Noto Serif Display"
+            "Noto Serif Display",
         ],
-        "mlt_Latn": [
+        mlt_Latn: [
             "Noto Music",
             "Noto Sans Cypro Minoan",
             "Noto Sans Indic Siyaq Numbers",
@@ -6542,39 +6511,39 @@
             "Noto Sans Symbols 2",
             "Noto Serif Khitan Small Script",
             "Noto Serif Ottoman Siyaq",
-            "Noto Znamenny Musical Notation"
+            "Noto Znamenny Musical Notation",
         ],
-        "mn_Cyrl": [
+        mn_Cyrl: [
             "Noto Sans",
             "Noto Sans Display",
             "Noto Sans Mono",
             "Noto Serif",
-            "Noto Serif Display"
+            "Noto Serif Display",
         ],
-        "mn_Mong": ["Noto Sans Mongolian"],
-        "mn_Phag": ["Noto Sans Phags Pa"],
-        "mn_Zanb": ["Noto Sans Zanabazar Square"],
-        "mnc_Mong": ["Noto Sans Mongolian"],
-        "mni_Beng": [
+        mn_Mong: ["Noto Sans Mongolian"],
+        mn_Phag: ["Noto Sans Phags Pa"],
+        mn_Zanb: ["Noto Sans Zanabazar Square"],
+        mnc_Mong: ["Noto Sans Mongolian"],
+        mni_Beng: [
             "Noto Sans Bengali",
             "Noto Sans Bengali UI",
-            "Noto Serif Bengali"
+            "Noto Serif Bengali",
         ],
-        "mni_Mtei": ["Noto Sans Meetei Mayek", "Noto Sans MeeteiMayek"],
-        "mnk_Latn": ["Noto Znamenny Musical Notation"],
-        "mns_Cyrl": [
+        mni_Mtei: ["Noto Sans Meetei Mayek", "Noto Sans MeeteiMayek"],
+        mnk_Latn: ["Noto Znamenny Musical Notation"],
+        mns_Cyrl: [
             "Noto Sans",
             "Noto Sans Display",
             "Noto Sans Mono",
             "Noto Serif",
-            "Noto Serif Display"
+            "Noto Serif Display",
         ],
-        "mnw_Mymr": [
+        mnw_Mymr: [
             "Noto Sans Myanmar",
             "Noto Sans Myanmar UI",
-            "Noto Serif Myanmar"
+            "Noto Serif Myanmar",
         ],
-        "moe_Latn": [
+        moe_Latn: [
             "Noto Music",
             "Noto Sans",
             "Noto Sans Cypro Minoan",
@@ -6589,9 +6558,9 @@
             "Noto Serif Display",
             "Noto Serif Khitan Small Script",
             "Noto Serif Ottoman Siyaq",
-            "Noto Znamenny Musical Notation"
+            "Noto Znamenny Musical Notation",
         ],
-        "moh_Latn": [
+        moh_Latn: [
             "Noto Music",
             "Noto Sans",
             "Noto Sans Cypro Minoan",
@@ -6606,58 +6575,58 @@
             "Noto Serif Display",
             "Noto Serif Khitan Small Script",
             "Noto Serif Ottoman Siyaq",
-            "Noto Znamenny Musical Notation"
+            "Noto Znamenny Musical Notation",
         ],
-        "mor_Latn": [
+        mor_Latn: [
             "Noto Sans",
             "Noto Sans Display",
             "Noto Sans Mono",
             "Noto Serif",
-            "Noto Serif Display"
+            "Noto Serif Display",
         ],
-        "mos_Latn": [
+        mos_Latn: [
             "Noto Sans",
             "Noto Sans Display",
             "Noto Sans Mono",
             "Noto Serif",
-            "Noto Serif Display"
+            "Noto Serif Display",
         ],
-        "mr_Deva": [
+        mr_Deva: [
             "Noto Sans",
             "Noto Sans Devanagari",
             "Noto Sans Devanagari UI",
-            "Noto Serif Devanagari"
+            "Noto Serif Devanagari",
         ],
-        "mr_Modi": ["Noto Sans Modi"],
-        "mrd_Deva": [
+        mr_Modi: ["Noto Sans Modi"],
+        mrd_Deva: [
             "Noto Sans",
             "Noto Sans Devanagari",
             "Noto Sans Devanagari UI",
-            "Noto Serif Devanagari"
+            "Noto Serif Devanagari",
         ],
-        "mrj_Cyrl": [
+        mrj_Cyrl: [
             "Noto Sans",
             "Noto Sans Display",
             "Noto Sans Mono",
             "Noto Serif",
-            "Noto Serif Display"
+            "Noto Serif Display",
         ],
-        "mro_Latn": [
+        mro_Latn: [
             "Noto Sans",
             "Noto Sans Display",
             "Noto Sans Mono",
             "Noto Serif",
-            "Noto Serif Display"
+            "Noto Serif Display",
         ],
-        "mro_Mroo": ["Noto Sans Mro"],
-        "mrw_Arab": [
+        mro_Mroo: ["Noto Sans Mro"],
+        mrw_Arab: [
             "Noto Kufi Arabic",
             "Noto Naskh Arabic",
             "Noto Naskh Arabic UI",
             "Noto Sans Arabic",
-            "Noto Sans Arabic UI"
+            "Noto Sans Arabic UI",
         ],
-        "mrw_Latn": [
+        mrw_Latn: [
             "Noto Music",
             "Noto Sans",
             "Noto Sans Cypro Minoan",
@@ -6672,16 +6641,16 @@
             "Noto Serif Display",
             "Noto Serif Khitan Small Script",
             "Noto Serif Ottoman Siyaq",
-            "Noto Znamenny Musical Notation"
+            "Noto Znamenny Musical Notation",
         ],
-        "ms_Arab": [
+        ms_Arab: [
             "Noto Kufi Arabic",
             "Noto Naskh Arabic",
             "Noto Naskh Arabic UI",
             "Noto Sans Arabic",
-            "Noto Sans Arabic UI"
+            "Noto Sans Arabic UI",
         ],
-        "ms_Latn": [
+        ms_Latn: [
             "Noto Music",
             "Noto Sans",
             "Noto Sans Cypro Minoan",
@@ -6697,9 +6666,9 @@
             "Noto Serif Display",
             "Noto Serif Khitan Small Script",
             "Noto Serif Ottoman Siyaq",
-            "Noto Znamenny Musical Notation"
+            "Noto Znamenny Musical Notation",
         ],
-        "mt_Latn": [
+        mt_Latn: [
             "Noto Music",
             "Noto Sans",
             "Noto Sans Cypro Minoan",
@@ -6714,9 +6683,9 @@
             "Noto Serif Display",
             "Noto Serif Khitan Small Script",
             "Noto Serif Ottoman Siyaq",
-            "Noto Znamenny Musical Notation"
+            "Noto Znamenny Musical Notation",
         ],
-        "mto_Latn": [
+        mto_Latn: [
             "Noto Music",
             "Noto Sans",
             "Noto Sans Cypro Minoan",
@@ -6731,22 +6700,22 @@
             "Noto Serif Display",
             "Noto Serif Khitan Small Script",
             "Noto Serif Ottoman Siyaq",
-            "Noto Znamenny Musical Notation"
+            "Noto Znamenny Musical Notation",
         ],
-        "mtr_Deva": [
+        mtr_Deva: [
             "Noto Sans",
             "Noto Sans Devanagari",
             "Noto Sans Devanagari UI",
-            "Noto Serif Devanagari"
+            "Noto Serif Devanagari",
         ],
-        "mua_Latn": [
+        mua_Latn: [
             "Noto Sans",
             "Noto Sans Display",
             "Noto Sans Mono",
             "Noto Serif",
-            "Noto Serif Display"
+            "Noto Serif Display",
         ],
-        "mui_Latn": [
+        mui_Latn: [
             "Noto Music",
             "Noto Sans",
             "Noto Sans Cypro Minoan",
@@ -6761,9 +6730,9 @@
             "Noto Serif Display",
             "Noto Serif Khitan Small Script",
             "Noto Serif Ottoman Siyaq",
-            "Noto Znamenny Musical Notation"
+            "Noto Znamenny Musical Notation",
         ],
-        "mus_Latn": [
+        mus_Latn: [
             "Noto Music",
             "Noto Sans",
             "Noto Sans Cypro Minoan",
@@ -6778,51 +6747,51 @@
             "Noto Serif Display",
             "Noto Serif Khitan Small Script",
             "Noto Serif Ottoman Siyaq",
-            "Noto Znamenny Musical Notation"
+            "Noto Znamenny Musical Notation",
         ],
-        "mvy_Arab": [
+        mvy_Arab: [
             "Noto Kufi Arabic",
             "Noto Naskh Arabic",
             "Noto Naskh Arabic UI",
             "Noto Sans Arabic",
-            "Noto Sans Arabic UI"
+            "Noto Sans Arabic UI",
         ],
-        "mwk_Latn": [
+        mwk_Latn: [
             "Noto Sans",
             "Noto Sans Display",
             "Noto Sans Mono",
             "Noto Serif",
-            "Noto Serif Display"
+            "Noto Serif Display",
         ],
-        "mwl_Latn": [
+        mwl_Latn: [
             "Noto Sans",
             "Noto Sans Display",
             "Noto Sans Mono",
             "Noto Serif",
-            "Noto Serif Display"
+            "Noto Serif Display",
         ],
-        "mwr_Deva": [
+        mwr_Deva: [
             "Noto Sans",
             "Noto Sans Devanagari",
             "Noto Sans Devanagari UI",
-            "Noto Serif Devanagari"
+            "Noto Serif Devanagari",
         ],
-        "mwv_Latn": [
+        mwv_Latn: [
             "Noto Sans",
             "Noto Sans Display",
             "Noto Sans Mono",
             "Noto Serif",
-            "Noto Serif Display"
+            "Noto Serif Display",
         ],
-        "mww_Hmng": ["Noto Sans Pahawh Hmong"],
-        "mxc_Latn": [
+        mww_Hmng: ["Noto Sans Pahawh Hmong"],
+        mxc_Latn: [
             "Noto Sans",
             "Noto Sans Display",
             "Noto Sans Mono",
             "Noto Serif",
-            "Noto Serif Display"
+            "Noto Serif Display",
         ],
-        "mxi_Latn": [
+        mxi_Latn: [
             "Noto Music",
             "Noto Sans",
             "Noto Sans Cypro Minoan",
@@ -6837,9 +6806,9 @@
             "Noto Serif Display",
             "Noto Serif Khitan Small Script",
             "Noto Serif Ottoman Siyaq",
-            "Noto Znamenny Musical Notation"
+            "Noto Znamenny Musical Notation",
         ],
-        "mxv_Latn": [
+        mxv_Latn: [
             "Noto Music",
             "Noto Sans",
             "Noto Sans Cypro Minoan",
@@ -6854,29 +6823,29 @@
             "Noto Serif Display",
             "Noto Serif Khitan Small Script",
             "Noto Serif Ottoman Siyaq",
-            "Noto Znamenny Musical Notation"
+            "Noto Znamenny Musical Notation",
         ],
-        "my_Mymr": [
+        my_Mymr: [
             "Noto Sans Myanmar",
             "Noto Sans Myanmar UI",
-            "Noto Serif Myanmar"
+            "Noto Serif Myanmar",
         ],
-        "myv_Cyrl": [
+        myv_Cyrl: [
             "Noto Sans",
             "Noto Sans Display",
             "Noto Sans Mono",
             "Noto Serif",
-            "Noto Serif Display"
+            "Noto Serif Display",
         ],
-        "myx_Latn": [
+        myx_Latn: [
             "Noto Sans",
             "Noto Sans Display",
             "Noto Sans Mono",
             "Noto Serif",
-            "Noto Serif Display"
+            "Noto Serif Display",
         ],
-        "myz_Mand": ["Noto Sans Mandaic"],
-        "mzi_Latn": [
+        myz_Mand: ["Noto Sans Mandaic"],
+        mzi_Latn: [
             "Noto Music",
             "Noto Sans",
             "Noto Sans Cypro Minoan",
@@ -6891,9 +6860,9 @@
             "Noto Serif Display",
             "Noto Serif Khitan Small Script",
             "Noto Serif Ottoman Siyaq",
-            "Noto Znamenny Musical Notation"
+            "Noto Znamenny Musical Notation",
         ],
-        "mzk_Latn": [
+        mzk_Latn: [
             "Noto Music",
             "Noto Sans Cypro Minoan",
             "Noto Sans Indic Siyaq Numbers",
@@ -6903,37 +6872,37 @@
             "Noto Sans Symbols 2",
             "Noto Serif Khitan Small Script",
             "Noto Serif Ottoman Siyaq",
-            "Noto Znamenny Musical Notation"
+            "Noto Znamenny Musical Notation",
         ],
-        "mzn_Arab": [
+        mzn_Arab: [
             "Noto Kufi Arabic",
             "Noto Naskh Arabic",
             "Noto Naskh Arabic UI",
             "Noto Sans Arabic",
-            "Noto Sans Arabic UI"
+            "Noto Sans Arabic UI",
         ],
-        "na_Latn": [
+        na_Latn: [
             "Noto Sans",
             "Noto Sans Display",
             "Noto Sans Mono",
             "Noto Serif",
-            "Noto Serif Display"
+            "Noto Serif Display",
         ],
-        "nan_Hans": ["Noto Sans SC", "Noto Serif SC"],
-        "nan_Hant": [
+        nan_Hans: ["Noto Sans SC", "Noto Serif SC"],
+        nan_Hant: [
             "Noto Sans HK",
             "Noto Sans TC",
             "Noto Serif HK",
-            "Noto Serif TC"
+            "Noto Serif TC",
         ],
-        "nan_Latn": [
+        nan_Latn: [
             "Noto Sans",
             "Noto Sans Display",
             "Noto Sans Mono",
             "Noto Serif",
-            "Noto Serif Display"
+            "Noto Serif Display",
         ],
-        "nap_Latn": [
+        nap_Latn: [
             "Noto Music",
             "Noto Sans",
             "Noto Sans Cypro Minoan",
@@ -6948,16 +6917,16 @@
             "Noto Serif Display",
             "Noto Serif Khitan Small Script",
             "Noto Serif Ottoman Siyaq",
-            "Noto Znamenny Musical Notation"
+            "Noto Znamenny Musical Notation",
         ],
-        "naq_Latn": [
+        naq_Latn: [
             "Noto Sans",
             "Noto Sans Display",
             "Noto Sans Mono",
             "Noto Serif",
-            "Noto Serif Display"
+            "Noto Serif Display",
         ],
-        "nat_Latn": [
+        nat_Latn: [
             "Noto Music",
             "Noto Sans Cypro Minoan",
             "Noto Sans Indic Siyaq Numbers",
@@ -6967,9 +6936,9 @@
             "Noto Sans Symbols 2",
             "Noto Serif Khitan Small Script",
             "Noto Serif Ottoman Siyaq",
-            "Noto Znamenny Musical Notation"
+            "Noto Znamenny Musical Notation",
         ],
-        "nb_Latn": [
+        nb_Latn: [
             "Noto Music",
             "Noto Sans",
             "Noto Sans Cypro Minoan",
@@ -6984,9 +6953,9 @@
             "Noto Serif Display",
             "Noto Serif Khitan Small Script",
             "Noto Serif Ottoman Siyaq",
-            "Noto Znamenny Musical Notation"
+            "Noto Znamenny Musical Notation",
         ],
-        "nba_Latn": [
+        nba_Latn: [
             "Noto Music",
             "Noto Sans",
             "Noto Sans Cypro Minoan",
@@ -7001,16 +6970,16 @@
             "Noto Serif Display",
             "Noto Serif Khitan Small Script",
             "Noto Serif Ottoman Siyaq",
-            "Noto Znamenny Musical Notation"
+            "Noto Znamenny Musical Notation",
         ],
-        "nch_Latn": [
+        nch_Latn: [
             "Noto Sans",
             "Noto Sans Display",
             "Noto Sans Mono",
             "Noto Serif",
-            "Noto Serif Display"
+            "Noto Serif Display",
         ],
-        "nd_Latn": [
+        nd_Latn: [
             "Noto Music",
             "Noto Sans",
             "Noto Sans Cypro Minoan",
@@ -7026,16 +6995,16 @@
             "Noto Serif Display",
             "Noto Serif Khitan Small Script",
             "Noto Serif Ottoman Siyaq",
-            "Noto Znamenny Musical Notation"
+            "Noto Znamenny Musical Notation",
         ],
-        "ndc_Latn": [
+        ndc_Latn: [
             "Noto Sans",
             "Noto Sans Display",
             "Noto Sans Mono",
             "Noto Serif",
-            "Noto Serif Display"
+            "Noto Serif Display",
         ],
-        "ndj_Latn": [
+        ndj_Latn: [
             "Noto Music",
             "Noto Sans Cypro Minoan",
             "Noto Sans Indic Siyaq Numbers",
@@ -7045,9 +7014,9 @@
             "Noto Sans Symbols 2",
             "Noto Serif Khitan Small Script",
             "Noto Serif Ottoman Siyaq",
-            "Noto Znamenny Musical Notation"
+            "Noto Znamenny Musical Notation",
         ],
-        "nds_Latn": [
+        nds_Latn: [
             "Noto Music",
             "Noto Sans",
             "Noto Sans Cypro Minoan",
@@ -7062,23 +7031,23 @@
             "Noto Serif Display",
             "Noto Serif Khitan Small Script",
             "Noto Serif Ottoman Siyaq",
-            "Noto Znamenny Musical Notation"
+            "Noto Znamenny Musical Notation",
         ],
-        "ne_Deva": [
+        ne_Deva: [
             "Noto Sans",
             "Noto Sans Devanagari",
             "Noto Sans Devanagari UI",
-            "Noto Serif Devanagari"
+            "Noto Serif Devanagari",
         ],
-        "ne_Newa": ["Noto Sans Newa"],
-        "new_Deva": [
+        ne_Newa: ["Noto Sans Newa"],
+        new_Deva: [
             "Noto Sans",
             "Noto Sans Devanagari",
             "Noto Sans Devanagari UI",
-            "Noto Serif Devanagari"
+            "Noto Serif Devanagari",
         ],
-        "new_Newa": ["Noto Sans Newa"],
-        "ng_Latn": [
+        new_Newa: ["Noto Sans Newa"],
+        ng_Latn: [
             "Noto Music",
             "Noto Sans",
             "Noto Sans Cypro Minoan",
@@ -7094,16 +7063,16 @@
             "Noto Serif Display",
             "Noto Serif Khitan Small Script",
             "Noto Serif Ottoman Siyaq",
-            "Noto Znamenny Musical Notation"
+            "Noto Znamenny Musical Notation",
         ],
-        "ngl_Latn": [
+        ngl_Latn: [
             "Noto Sans",
             "Noto Sans Display",
             "Noto Sans Mono",
             "Noto Serif",
-            "Noto Serif Display"
+            "Noto Serif Display",
         ],
-        "ngp_Latn": [
+        ngp_Latn: [
             "Noto Music",
             "Noto Sans Cypro Minoan",
             "Noto Sans Indic Siyaq Numbers",
@@ -7113,16 +7082,16 @@
             "Noto Sans Symbols 2",
             "Noto Serif Khitan Small Script",
             "Noto Serif Ottoman Siyaq",
-            "Noto Znamenny Musical Notation"
+            "Noto Znamenny Musical Notation",
         ],
-        "nhe_Latn": [
+        nhe_Latn: [
             "Noto Sans",
             "Noto Sans Display",
             "Noto Sans Mono",
             "Noto Serif",
-            "Noto Serif Display"
+            "Noto Serif Display",
         ],
-        "nhn_Latn": [
+        nhn_Latn: [
             "Noto Music",
             "Noto Sans",
             "Noto Sans Cypro Minoan",
@@ -7137,37 +7106,37 @@
             "Noto Serif Display",
             "Noto Serif Khitan Small Script",
             "Noto Serif Ottoman Siyaq",
-            "Noto Znamenny Musical Notation"
+            "Noto Znamenny Musical Notation",
         ],
-        "nhw_Latn": [
+        nhw_Latn: [
             "Noto Sans",
             "Noto Sans Display",
             "Noto Sans Mono",
             "Noto Serif",
-            "Noto Serif Display"
+            "Noto Serif Display",
         ],
-        "nia_Latn": [
+        nia_Latn: [
             "Noto Sans",
             "Noto Sans Display",
             "Noto Sans Mono",
             "Noto Serif",
-            "Noto Serif Display"
+            "Noto Serif Display",
         ],
-        "nij_Latn": [
+        nij_Latn: [
             "Noto Sans",
             "Noto Sans Display",
             "Noto Sans Mono",
             "Noto Serif",
-            "Noto Serif Display"
+            "Noto Serif Display",
         ],
-        "nio_Cyrl": [
+        nio_Cyrl: [
             "Noto Sans",
             "Noto Sans Display",
             "Noto Sans Mono",
             "Noto Serif",
-            "Noto Serif Display"
+            "Noto Serif Display",
         ],
-        "niu_Latn": [
+        niu_Latn: [
             "Noto Music",
             "Noto Sans",
             "Noto Sans Cypro Minoan",
@@ -7182,9 +7151,9 @@
             "Noto Serif Display",
             "Noto Serif Khitan Small Script",
             "Noto Serif Ottoman Siyaq",
-            "Noto Znamenny Musical Notation"
+            "Noto Znamenny Musical Notation",
         ],
-        "njo_Latn": [
+        njo_Latn: [
             "Noto Music",
             "Noto Sans",
             "Noto Sans Cypro Minoan",
@@ -7200,9 +7169,9 @@
             "Noto Serif Display",
             "Noto Serif Khitan Small Script",
             "Noto Serif Ottoman Siyaq",
-            "Noto Znamenny Musical Notation"
+            "Noto Znamenny Musical Notation",
         ],
-        "nku_Latn": [
+        nku_Latn: [
             "Noto Music",
             "Noto Sans",
             "Noto Sans Cypro Minoan",
@@ -7217,9 +7186,9 @@
             "Noto Serif Display",
             "Noto Serif Khitan Small Script",
             "Noto Serif Ottoman Siyaq",
-            "Noto Znamenny Musical Notation"
+            "Noto Znamenny Musical Notation",
         ],
-        "nl_Latn": [
+        nl_Latn: [
             "Noto Music",
             "Noto Sans",
             "Noto Sans Cypro Minoan",
@@ -7234,16 +7203,16 @@
             "Noto Serif Display",
             "Noto Serif Khitan Small Script",
             "Noto Serif Ottoman Siyaq",
-            "Noto Znamenny Musical Notation"
+            "Noto Znamenny Musical Notation",
         ],
-        "nmg_Latn": [
+        nmg_Latn: [
             "Noto Sans",
             "Noto Sans Display",
             "Noto Sans Mono",
             "Noto Serif",
-            "Noto Serif Display"
+            "Noto Serif Display",
         ],
-        "nn_Latn": [
+        nn_Latn: [
             "Noto Music",
             "Noto Sans",
             "Noto Sans Cypro Minoan",
@@ -7258,22 +7227,22 @@
             "Noto Serif Display",
             "Noto Serif Khitan Small Script",
             "Noto Serif Ottoman Siyaq",
-            "Noto Znamenny Musical Notation"
+            "Noto Znamenny Musical Notation",
         ],
-        "nnh_Latn": [
+        nnh_Latn: [
             "Noto Sans",
             "Noto Sans Display",
             "Noto Sans Mono",
             "Noto Serif",
-            "Noto Serif Display"
+            "Noto Serif Display",
         ],
-        "nnp_Deva": [
+        nnp_Deva: [
             "Noto Sans",
             "Noto Sans Devanagari",
             "Noto Sans Devanagari UI",
-            "Noto Serif Devanagari"
+            "Noto Serif Devanagari",
         ],
-        "nnp_Latn": [
+        nnp_Latn: [
             "Noto Music",
             "Noto Sans",
             "Noto Sans Cypro Minoan",
@@ -7288,10 +7257,10 @@
             "Noto Serif Display",
             "Noto Serif Khitan Small Script",
             "Noto Serif Ottoman Siyaq",
-            "Noto Znamenny Musical Notation"
+            "Noto Znamenny Musical Notation",
         ],
-        "nnp_Wcho": ["Noto Sans Wancho"],
-        "nnq_Latn": [
+        nnp_Wcho: ["Noto Sans Wancho"],
+        nnq_Latn: [
             "Noto Music",
             "Noto Sans Cypro Minoan",
             "Noto Sans Indic Siyaq Numbers",
@@ -7301,9 +7270,9 @@
             "Noto Sans Symbols 2",
             "Noto Serif Khitan Small Script",
             "Noto Serif Ottoman Siyaq",
-            "Noto Znamenny Musical Notation"
+            "Noto Znamenny Musical Notation",
         ],
-        "no_Latn": [
+        no_Latn: [
             "Noto Music",
             "Noto Sans",
             "Noto Sans Cypro Minoan",
@@ -7318,31 +7287,31 @@
             "Noto Serif Display",
             "Noto Serif Khitan Small Script",
             "Noto Serif Ottoman Siyaq",
-            "Noto Znamenny Musical Notation"
+            "Noto Znamenny Musical Notation",
         ],
-        "nod_Lana": ["Noto Sans Tai Tham"],
-        "noe_Deva": [
+        nod_Lana: ["Noto Sans Tai Tham"],
+        noe_Deva: [
             "Noto Sans",
             "Noto Sans Devanagari",
             "Noto Sans Devanagari UI",
-            "Noto Serif Devanagari"
+            "Noto Serif Devanagari",
         ],
-        "nog_Cyrl": [
+        nog_Cyrl: [
             "Noto Sans",
             "Noto Sans Display",
             "Noto Sans Mono",
             "Noto Serif",
-            "Noto Serif Display"
+            "Noto Serif Display",
         ],
-        "non_Latn": [
+        non_Latn: [
             "Noto Sans",
             "Noto Sans Display",
             "Noto Sans Mono",
             "Noto Serif",
-            "Noto Serif Display"
+            "Noto Serif Display",
         ],
-        "non_Runr": ["Noto Sans Runic"],
-        "not_Latn": [
+        non_Runr: ["Noto Sans Runic"],
+        not_Latn: [
             "Noto Music",
             "Noto Sans",
             "Noto Sans Cypro Minoan",
@@ -7357,9 +7326,9 @@
             "Noto Serif Display",
             "Noto Serif Khitan Small Script",
             "Noto Serif Ottoman Siyaq",
-            "Noto Znamenny Musical Notation"
+            "Noto Znamenny Musical Notation",
         ],
-        "nov_Latn": [
+        nov_Latn: [
             "Noto Music",
             "Noto Sans",
             "Noto Sans Cypro Minoan",
@@ -7375,14 +7344,10 @@
             "Noto Serif Display",
             "Noto Serif Khitan Small Script",
             "Noto Serif Ottoman Siyaq",
-            "Noto Znamenny Musical Notation"
+            "Noto Znamenny Musical Notation",
         ],
-        "nqo_Nkoo": [
-            "Noto Sans N Ko",
-            "Noto Sans NKo",
-            "Noto Sans NKo Unjoined"
-        ],
-        "nr_Latn": [
+        nqo_Nkoo: ["Noto Sans N Ko", "Noto Sans NKo", "Noto Sans NKo Unjoined"],
+        nr_Latn: [
             "Noto Music",
             "Noto Sans",
             "Noto Sans Cypro Minoan",
@@ -7398,9 +7363,9 @@
             "Noto Serif Display",
             "Noto Serif Khitan Small Script",
             "Noto Serif Ottoman Siyaq",
-            "Noto Znamenny Musical Notation"
+            "Noto Znamenny Musical Notation",
         ],
-        "nrb_Latn": [
+        nrb_Latn: [
             "Noto Music",
             "Noto Sans Cypro Minoan",
             "Noto Sans Indic Siyaq Numbers",
@@ -7410,34 +7375,9 @@
             "Noto Sans Symbols 2",
             "Noto Serif Khitan Small Script",
             "Noto Serif Ottoman Siyaq",
-            "Noto Znamenny Musical Notation"
+            "Noto Znamenny Musical Notation",
         ],
-        "nrf_Latn": [
-            "Noto Music",
-            "Noto Sans",
-            "Noto Sans Cypro Minoan",
-            "Noto Sans Display",
-            "Noto Sans Indic Siyaq Numbers",
-            "Noto Sans Mayan Numerals",
-            "Noto Sans Mono",
-            "Noto Sans SignWriting",
-            "Noto Sans Symbols",
-            "Noto Sans Symbols 2",
-            "Noto Serif",
-            "Noto Serif Display",
-            "Noto Serif Khitan Small Script",
-            "Noto Serif Ottoman Siyaq",
-            "Noto Znamenny Musical Notation"
-        ],
-        "nsk_Cans": ["Noto Sans Canadian Aboriginal"],
-        "nsk_Latn": [
-            "Noto Sans",
-            "Noto Sans Display",
-            "Noto Sans Mono",
-            "Noto Serif",
-            "Noto Serif Display"
-        ],
-        "nso_Latn": [
+        nrf_Latn: [
             "Noto Music",
             "Noto Sans",
             "Noto Sans Cypro Minoan",
@@ -7452,55 +7392,17 @@
             "Noto Serif Display",
             "Noto Serif Khitan Small Script",
             "Noto Serif Ottoman Siyaq",
-            "Noto Znamenny Musical Notation"
+            "Noto Znamenny Musical Notation",
         ],
-        "nst_Tnsa": ["Noto Sans Tangsa"],
-        "nui_Latn": [
-            "Noto Music",
-            "Noto Sans Cypro Minoan",
-            "Noto Sans Indic Siyaq Numbers",
-            "Noto Sans Mayan Numerals",
-            "Noto Sans SignWriting",
-            "Noto Sans Symbols",
-            "Noto Sans Symbols 2",
-            "Noto Serif Khitan Small Script",
-            "Noto Serif Ottoman Siyaq",
-            "Noto Znamenny Musical Notation"
-        ],
-        "nup_Latn": [
-            "Noto Music",
-            "Noto Sans Cypro Minoan",
-            "Noto Sans Indic Siyaq Numbers",
-            "Noto Sans Mayan Numerals",
-            "Noto Sans SignWriting",
-            "Noto Sans Symbols",
-            "Noto Sans Symbols 2",
-            "Noto Serif Khitan Small Script",
-            "Noto Serif Ottoman Siyaq",
-            "Noto Znamenny Musical Notation"
-        ],
-        "nus_Latn": [
+        nsk_Cans: ["Noto Sans Canadian Aboriginal"],
+        nsk_Latn: [
             "Noto Sans",
             "Noto Sans Display",
             "Noto Sans Mono",
             "Noto Serif",
-            "Noto Serif Display"
+            "Noto Serif Display",
         ],
-        "nv_Latn": [
-            "Noto Sans",
-            "Noto Sans Display",
-            "Noto Sans Mono",
-            "Noto Serif",
-            "Noto Serif Display"
-        ],
-        "nxq_Latn": [
-            "Noto Sans",
-            "Noto Sans Display",
-            "Noto Sans Mono",
-            "Noto Serif",
-            "Noto Serif Display"
-        ],
-        "ny_Latn": [
+        nso_Latn: [
             "Noto Music",
             "Noto Sans",
             "Noto Sans Cypro Minoan",
@@ -7515,16 +7417,79 @@
             "Noto Serif Display",
             "Noto Serif Khitan Small Script",
             "Noto Serif Ottoman Siyaq",
-            "Noto Znamenny Musical Notation"
+            "Noto Znamenny Musical Notation",
         ],
-        "nym_Latn": [
+        nst_Tnsa: ["Noto Sans Tangsa"],
+        nui_Latn: [
+            "Noto Music",
+            "Noto Sans Cypro Minoan",
+            "Noto Sans Indic Siyaq Numbers",
+            "Noto Sans Mayan Numerals",
+            "Noto Sans SignWriting",
+            "Noto Sans Symbols",
+            "Noto Sans Symbols 2",
+            "Noto Serif Khitan Small Script",
+            "Noto Serif Ottoman Siyaq",
+            "Noto Znamenny Musical Notation",
+        ],
+        nup_Latn: [
+            "Noto Music",
+            "Noto Sans Cypro Minoan",
+            "Noto Sans Indic Siyaq Numbers",
+            "Noto Sans Mayan Numerals",
+            "Noto Sans SignWriting",
+            "Noto Sans Symbols",
+            "Noto Sans Symbols 2",
+            "Noto Serif Khitan Small Script",
+            "Noto Serif Ottoman Siyaq",
+            "Noto Znamenny Musical Notation",
+        ],
+        nus_Latn: [
             "Noto Sans",
             "Noto Sans Display",
             "Noto Sans Mono",
             "Noto Serif",
-            "Noto Serif Display"
+            "Noto Serif Display",
         ],
-        "nyn_Latn": [
+        nv_Latn: [
+            "Noto Sans",
+            "Noto Sans Display",
+            "Noto Sans Mono",
+            "Noto Serif",
+            "Noto Serif Display",
+        ],
+        nxq_Latn: [
+            "Noto Sans",
+            "Noto Sans Display",
+            "Noto Sans Mono",
+            "Noto Serif",
+            "Noto Serif Display",
+        ],
+        ny_Latn: [
+            "Noto Music",
+            "Noto Sans",
+            "Noto Sans Cypro Minoan",
+            "Noto Sans Display",
+            "Noto Sans Indic Siyaq Numbers",
+            "Noto Sans Mayan Numerals",
+            "Noto Sans Mono",
+            "Noto Sans SignWriting",
+            "Noto Sans Symbols",
+            "Noto Sans Symbols 2",
+            "Noto Serif",
+            "Noto Serif Display",
+            "Noto Serif Khitan Small Script",
+            "Noto Serif Ottoman Siyaq",
+            "Noto Znamenny Musical Notation",
+        ],
+        nym_Latn: [
+            "Noto Sans",
+            "Noto Sans Display",
+            "Noto Sans Mono",
+            "Noto Serif",
+            "Noto Serif Display",
+        ],
+        nyn_Latn: [
             "Noto Music",
             "Noto Sans",
             "Noto Sans Cypro Minoan",
@@ -7540,30 +7505,30 @@
             "Noto Serif Display",
             "Noto Serif Khitan Small Script",
             "Noto Serif Ottoman Siyaq",
-            "Noto Znamenny Musical Notation"
+            "Noto Znamenny Musical Notation",
         ],
-        "nyo_Latn": [
+        nyo_Latn: [
             "Noto Sans",
             "Noto Sans Display",
             "Noto Sans Mono",
             "Noto Serif",
-            "Noto Serif Display"
+            "Noto Serif Display",
         ],
-        "nzi_Latn": [
+        nzi_Latn: [
             "Noto Sans",
             "Noto Sans Display",
             "Noto Sans Mono",
             "Noto Serif",
-            "Noto Serif Display"
+            "Noto Serif Display",
         ],
-        "oaa_Cyrl": [
+        oaa_Cyrl: [
             "Noto Sans",
             "Noto Sans Display",
             "Noto Sans Mono",
             "Noto Serif",
-            "Noto Serif Display"
+            "Noto Serif Display",
         ],
-        "oc_Latn": [
+        oc_Latn: [
             "Noto Music",
             "Noto Sans",
             "Noto Sans Cypro Minoan",
@@ -7578,9 +7543,9 @@
             "Noto Serif Display",
             "Noto Serif Khitan Small Script",
             "Noto Serif Ottoman Siyaq",
-            "Noto Znamenny Musical Notation"
+            "Noto Znamenny Musical Notation",
         ],
-        "ogc_Latn": [
+        ogc_Latn: [
             "Noto Music",
             "Noto Sans Cypro Minoan",
             "Noto Sans Indic Siyaq Numbers",
@@ -7590,19 +7555,19 @@
             "Noto Sans Symbols 2",
             "Noto Serif Khitan Small Script",
             "Noto Serif Ottoman Siyaq",
-            "Noto Znamenny Musical Notation"
+            "Noto Znamenny Musical Notation",
         ],
-        "ohu_Hung": ["Noto Sans Old Hungarian"],
-        "oj_Cans": ["Noto Sans Canadian Aboriginal"],
-        "oj_Latn": [
+        ohu_Hung: ["Noto Sans Old Hungarian"],
+        oj_Cans: ["Noto Sans Canadian Aboriginal"],
+        oj_Latn: [
             "Noto Sans",
             "Noto Sans Display",
             "Noto Sans Mono",
             "Noto Serif",
-            "Noto Serif Display"
+            "Noto Serif Display",
         ],
-        "ojb_Cans": ["Noto Sans Canadian Aboriginal"],
-        "oki_Latn": [
+        ojb_Cans: ["Noto Sans Canadian Aboriginal"],
+        oki_Latn: [
             "Noto Music",
             "Noto Sans",
             "Noto Sans Cypro Minoan",
@@ -7617,10 +7582,10 @@
             "Noto Serif Display",
             "Noto Serif Khitan Small Script",
             "Noto Serif Ottoman Siyaq",
-            "Noto Znamenny Musical Notation"
+            "Noto Znamenny Musical Notation",
         ],
-        "om_Ethi": ["Noto Sans Ethiopic", "Noto Serif Ethiopic"],
-        "om_Latn": [
+        om_Ethi: ["Noto Sans Ethiopic", "Noto Serif Ethiopic"],
+        om_Latn: [
             "Noto Music",
             "Noto Sans",
             "Noto Sans Cypro Minoan",
@@ -7636,15 +7601,11 @@
             "Noto Serif Display",
             "Noto Serif Khitan Small Script",
             "Noto Serif Ottoman Siyaq",
-            "Noto Znamenny Musical Notation"
+            "Noto Znamenny Musical Notation",
         ],
-        "omn_Lina": ["Noto Sans Linear A"],
-        "or_Orya": [
-            "Noto Sans Oriya",
-            "Noto Sans Oriya UI",
-            "Noto Serif Oriya"
-        ],
-        "orh_Latn": [
+        omn_Lina: ["Noto Sans Linear A"],
+        or_Orya: ["Noto Sans Oriya", "Noto Sans Oriya UI", "Noto Serif Oriya"],
+        orh_Latn: [
             "Noto Music",
             "Noto Sans",
             "Noto Sans Cypro Minoan",
@@ -7659,46 +7620,46 @@
             "Noto Serif Display",
             "Noto Serif Khitan Small Script",
             "Noto Serif Ottoman Siyaq",
-            "Noto Znamenny Musical Notation"
+            "Noto Znamenny Musical Notation",
         ],
-        "orv_Cyrl": [
+        orv_Cyrl: [
             "Noto Sans",
             "Noto Sans Display",
             "Noto Sans Mono",
             "Noto Serif",
-            "Noto Serif Display"
+            "Noto Serif Display",
         ],
-        "os_Cyrl": [
+        os_Cyrl: [
             "Noto Sans",
             "Noto Sans Display",
             "Noto Sans Mono",
             "Noto Serif",
-            "Noto Serif Display"
+            "Noto Serif Display",
         ],
-        "osa_Latn": [
+        osa_Latn: [
             "Noto Sans",
             "Noto Sans Display",
             "Noto Sans Mono",
             "Noto Serif",
-            "Noto Serif Display"
+            "Noto Serif Display",
         ],
-        "osa_Osge": ["Noto Sans Osage"],
-        "osc_Ital": ["Noto Sans Old Italic"],
-        "osc_Latn": [
+        osa_Osge: ["Noto Sans Osage"],
+        osc_Ital: ["Noto Sans Old Italic"],
+        osc_Latn: [
             "Noto Sans",
             "Noto Sans Display",
             "Noto Sans Mono",
             "Noto Serif",
-            "Noto Serif Display"
+            "Noto Serif Display",
         ],
-        "ota_Arab": [
+        ota_Arab: [
             "Noto Kufi Arabic",
             "Noto Naskh Arabic",
             "Noto Naskh Arabic UI",
             "Noto Sans Arabic",
-            "Noto Sans Arabic UI"
+            "Noto Sans Arabic UI",
         ],
-        "ote_Latn": [
+        ote_Latn: [
             "Noto Music",
             "Noto Sans",
             "Noto Sans Cypro Minoan",
@@ -7713,10 +7674,10 @@
             "Noto Serif Display",
             "Noto Serif Khitan Small Script",
             "Noto Serif Ottoman Siyaq",
-            "Noto Znamenny Musical Notation"
+            "Noto Znamenny Musical Notation",
         ],
-        "otk_Orkh": ["Noto Sans Old Turkic"],
-        "otn_Latn": [
+        otk_Orkh: ["Noto Sans Old Turkic"],
+        otn_Latn: [
             "Noto Music",
             "Noto Sans",
             "Noto Sans Cypro Minoan",
@@ -7731,10 +7692,10 @@
             "Noto Serif Display",
             "Noto Serif Khitan Small Script",
             "Noto Serif Ottoman Siyaq",
-            "Noto Znamenny Musical Notation"
+            "Noto Znamenny Musical Notation",
         ],
-        "oui_Ougr": ["Noto Serif Old Uyghur"],
-        "owl_Latn": [
+        oui_Ougr: ["Noto Serif Old Uyghur"],
+        owl_Latn: [
             "Noto Music",
             "Noto Sans",
             "Noto Sans Cypro Minoan",
@@ -7749,30 +7710,30 @@
             "Noto Serif Display",
             "Noto Serif Khitan Small Script",
             "Noto Serif Ottoman Siyaq",
-            "Noto Znamenny Musical Notation"
+            "Noto Znamenny Musical Notation",
         ],
-        "pa_Arab": [
+        pa_Arab: [
             "Noto Kufi Arabic",
             "Noto Naskh Arabic",
             "Noto Naskh Arabic UI",
             "Noto Sans Arabic",
-            "Noto Sans Arabic UI"
+            "Noto Sans Arabic UI",
         ],
-        "pa_Guru": [
+        pa_Guru: [
             "Noto Sans Gurmukhi",
             "Noto Sans Gurmukhi UI",
-            "Noto Serif Gurmukhi"
+            "Noto Serif Gurmukhi",
         ],
-        "pag_Latn": [
+        pag_Latn: [
             "Noto Sans",
             "Noto Sans Display",
             "Noto Sans Mono",
             "Noto Serif",
-            "Noto Serif Display"
+            "Noto Serif Display",
         ],
-        "pal_Phli": ["Noto Sans Inscriptional Pahlavi"],
-        "pal_Phlp": ["Noto Sans Psalter Pahlavi"],
-        "pam_Latn": [
+        pal_Phli: ["Noto Sans Inscriptional Pahlavi"],
+        pal_Phlp: ["Noto Sans Psalter Pahlavi"],
+        pam_Latn: [
             "Noto Music",
             "Noto Sans",
             "Noto Sans Cypro Minoan",
@@ -7788,9 +7749,9 @@
             "Noto Serif Display",
             "Noto Serif Khitan Small Script",
             "Noto Serif Ottoman Siyaq",
-            "Noto Znamenny Musical Notation"
+            "Noto Znamenny Musical Notation",
         ],
-        "pap_Latn": [
+        pap_Latn: [
             "Noto Music",
             "Noto Sans",
             "Noto Sans Cypro Minoan",
@@ -7805,9 +7766,9 @@
             "Noto Serif Display",
             "Noto Serif Khitan Small Script",
             "Noto Serif Ottoman Siyaq",
-            "Noto Znamenny Musical Notation"
+            "Noto Znamenny Musical Notation",
         ],
-        "pau_Latn": [
+        pau_Latn: [
             "Noto Music",
             "Noto Sans",
             "Noto Sans Cypro Minoan",
@@ -7822,9 +7783,9 @@
             "Noto Serif Display",
             "Noto Serif Khitan Small Script",
             "Noto Serif Ottoman Siyaq",
-            "Noto Znamenny Musical Notation"
+            "Noto Znamenny Musical Notation",
         ],
-        "pbb_Latn": [
+        pbb_Latn: [
             "Noto Music",
             "Noto Sans",
             "Noto Sans Cypro Minoan",
@@ -7839,9 +7800,9 @@
             "Noto Serif Display",
             "Noto Serif Khitan Small Script",
             "Noto Serif Ottoman Siyaq",
-            "Noto Znamenny Musical Notation"
+            "Noto Znamenny Musical Notation",
         ],
-        "pcd_Latn": [
+        pcd_Latn: [
             "Noto Music",
             "Noto Sans",
             "Noto Sans Cypro Minoan",
@@ -7856,9 +7817,9 @@
             "Noto Serif Display",
             "Noto Serif Khitan Small Script",
             "Noto Serif Ottoman Siyaq",
-            "Noto Znamenny Musical Notation"
+            "Noto Znamenny Musical Notation",
         ],
-        "pck_Latn": [
+        pck_Latn: [
             "Noto Music",
             "Noto Sans",
             "Noto Sans Cypro Minoan",
@@ -7873,57 +7834,57 @@
             "Noto Serif Display",
             "Noto Serif Khitan Small Script",
             "Noto Serif Ottoman Siyaq",
-            "Noto Znamenny Musical Notation"
+            "Noto Znamenny Musical Notation",
         ],
-        "pcm_Latn": [
+        pcm_Latn: [
             "Noto Sans",
             "Noto Sans Display",
             "Noto Sans Mono",
             "Noto Serif",
-            "Noto Serif Display"
+            "Noto Serif Display",
         ],
-        "pdc_Latn": [
+        pdc_Latn: [
             "Noto Sans",
             "Noto Sans Display",
             "Noto Sans Mono",
             "Noto Serif",
-            "Noto Serif Display"
+            "Noto Serif Display",
         ],
-        "pdt_Latn": [
+        pdt_Latn: [
             "Noto Sans",
             "Noto Sans Display",
             "Noto Sans Mono",
             "Noto Serif",
-            "Noto Serif Display"
+            "Noto Serif Display",
         ],
-        "peo_Xpeo": ["Noto Sans Old Persian"],
-        "pfl_Latn": [
+        peo_Xpeo: ["Noto Sans Old Persian"],
+        pfl_Latn: [
             "Noto Sans",
             "Noto Sans Display",
             "Noto Sans Mono",
             "Noto Serif",
-            "Noto Serif Display"
+            "Noto Serif Display",
         ],
-        "phn_Phnx": ["Noto Sans Phoenician"],
-        "pi_Brah": ["Noto Sans Brahmi"],
-        "pi_Deva": [
+        phn_Phnx: ["Noto Sans Phoenician"],
+        pi_Brah: ["Noto Sans Brahmi"],
+        pi_Deva: [
             "Noto Sans",
             "Noto Sans Devanagari",
             "Noto Sans Devanagari UI",
-            "Noto Serif Devanagari"
+            "Noto Serif Devanagari",
         ],
-        "pi_Sinh": [
+        pi_Sinh: [
             "Noto Sans Sinhala",
             "Noto Sans Sinhala UI",
-            "Noto Serif Sinhala"
+            "Noto Serif Sinhala",
         ],
-        "pi_Thai": [
+        pi_Thai: [
             "Noto Sans Thai",
             "Noto Sans Thai Looped",
             "Noto Sans Thai UI",
-            "Noto Serif Thai"
+            "Noto Serif Thai",
         ],
-        "pis_Latn": [
+        pis_Latn: [
             "Noto Music",
             "Noto Sans",
             "Noto Sans Cypro Minoan",
@@ -7938,9 +7899,9 @@
             "Noto Serif Display",
             "Noto Serif Khitan Small Script",
             "Noto Serif Ottoman Siyaq",
-            "Noto Znamenny Musical Notation"
+            "Noto Znamenny Musical Notation",
         ],
-        "piu_Latn": [
+        piu_Latn: [
             "Noto Music",
             "Noto Sans",
             "Noto Sans Cypro Minoan",
@@ -7955,83 +7916,10 @@
             "Noto Serif Display",
             "Noto Serif Khitan Small Script",
             "Noto Serif Ottoman Siyaq",
-            "Noto Znamenny Musical Notation"
+            "Noto Znamenny Musical Notation",
         ],
-        "pka_Brah": ["Noto Sans Brahmi"],
-        "pko_Latn": [
-            "Noto Music",
-            "Noto Sans",
-            "Noto Sans Cypro Minoan",
-            "Noto Sans Display",
-            "Noto Sans Indic Siyaq Numbers",
-            "Noto Sans Math",
-            "Noto Sans Mayan Numerals",
-            "Noto Sans Mono",
-            "Noto Sans SignWriting",
-            "Noto Sans Symbols",
-            "Noto Sans Symbols 2",
-            "Noto Serif",
-            "Noto Serif Display",
-            "Noto Serif Khitan Small Script",
-            "Noto Serif Ottoman Siyaq",
-            "Noto Znamenny Musical Notation"
-        ],
-        "pl_Latn": [
-            "Noto Music",
-            "Noto Sans",
-            "Noto Sans Cypro Minoan",
-            "Noto Sans Display",
-            "Noto Sans Indic Siyaq Numbers",
-            "Noto Sans Mayan Numerals",
-            "Noto Sans Mono",
-            "Noto Sans SignWriting",
-            "Noto Sans Symbols",
-            "Noto Sans Symbols 2",
-            "Noto Serif",
-            "Noto Serif Display",
-            "Noto Serif Khitan Small Script",
-            "Noto Serif Ottoman Siyaq",
-            "Noto Znamenny Musical Notation"
-        ],
-        "pms_Latn": [
-            "Noto Music",
-            "Noto Sans",
-            "Noto Sans Cypro Minoan",
-            "Noto Sans Display",
-            "Noto Sans Indic Siyaq Numbers",
-            "Noto Sans Mayan Numerals",
-            "Noto Sans Mono",
-            "Noto Sans SignWriting",
-            "Noto Sans Symbols",
-            "Noto Sans Symbols 2",
-            "Noto Serif",
-            "Noto Serif Display",
-            "Noto Serif Khitan Small Script",
-            "Noto Serif Ottoman Siyaq",
-            "Noto Znamenny Musical Notation"
-        ],
-        "pnt_Cyrl": [
-            "Noto Sans",
-            "Noto Sans Display",
-            "Noto Sans Mono",
-            "Noto Serif",
-            "Noto Serif Display"
-        ],
-        "pnt_Grek": [
-            "Noto Sans",
-            "Noto Sans Display",
-            "Noto Sans Mono",
-            "Noto Serif",
-            "Noto Serif Display"
-        ],
-        "pnt_Latn": [
-            "Noto Sans",
-            "Noto Sans Display",
-            "Noto Sans Mono",
-            "Noto Serif",
-            "Noto Serif Display"
-        ],
-        "pon_Latn": [
+        pka_Brah: ["Noto Sans Brahmi"],
+        pko_Latn: [
             "Noto Music",
             "Noto Sans",
             "Noto Sans Cypro Minoan",
@@ -8047,9 +7935,9 @@
             "Noto Serif Display",
             "Noto Serif Khitan Small Script",
             "Noto Serif Ottoman Siyaq",
-            "Noto Znamenny Musical Notation"
+            "Noto Znamenny Musical Notation",
         ],
-        "pov_Latn": [
+        pl_Latn: [
             "Noto Music",
             "Noto Sans",
             "Noto Sans Cypro Minoan",
@@ -8064,21 +7952,9 @@
             "Noto Serif Display",
             "Noto Serif Khitan Small Script",
             "Noto Serif Ottoman Siyaq",
-            "Noto Znamenny Musical Notation"
+            "Noto Znamenny Musical Notation",
         ],
-        "poy_Latn": [
-            "Noto Music",
-            "Noto Sans Cypro Minoan",
-            "Noto Sans Indic Siyaq Numbers",
-            "Noto Sans Mayan Numerals",
-            "Noto Sans SignWriting",
-            "Noto Sans Symbols",
-            "Noto Sans Symbols 2",
-            "Noto Serif Khitan Small Script",
-            "Noto Serif Ottoman Siyaq",
-            "Noto Znamenny Musical Notation"
-        ],
-        "ppl_Latn": [
+        pms_Latn: [
             "Noto Music",
             "Noto Sans",
             "Noto Sans Cypro Minoan",
@@ -8093,24 +7969,109 @@
             "Noto Serif Display",
             "Noto Serif Khitan Small Script",
             "Noto Serif Ottoman Siyaq",
-            "Noto Znamenny Musical Notation"
+            "Noto Znamenny Musical Notation",
         ],
-        "pra_Khar": ["Noto Sans Kharoshthi"],
-        "prd_Arab": [
+        pnt_Cyrl: [
+            "Noto Sans",
+            "Noto Sans Display",
+            "Noto Sans Mono",
+            "Noto Serif",
+            "Noto Serif Display",
+        ],
+        pnt_Grek: [
+            "Noto Sans",
+            "Noto Sans Display",
+            "Noto Sans Mono",
+            "Noto Serif",
+            "Noto Serif Display",
+        ],
+        pnt_Latn: [
+            "Noto Sans",
+            "Noto Sans Display",
+            "Noto Sans Mono",
+            "Noto Serif",
+            "Noto Serif Display",
+        ],
+        pon_Latn: [
+            "Noto Music",
+            "Noto Sans",
+            "Noto Sans Cypro Minoan",
+            "Noto Sans Display",
+            "Noto Sans Indic Siyaq Numbers",
+            "Noto Sans Math",
+            "Noto Sans Mayan Numerals",
+            "Noto Sans Mono",
+            "Noto Sans SignWriting",
+            "Noto Sans Symbols",
+            "Noto Sans Symbols 2",
+            "Noto Serif",
+            "Noto Serif Display",
+            "Noto Serif Khitan Small Script",
+            "Noto Serif Ottoman Siyaq",
+            "Noto Znamenny Musical Notation",
+        ],
+        pov_Latn: [
+            "Noto Music",
+            "Noto Sans",
+            "Noto Sans Cypro Minoan",
+            "Noto Sans Display",
+            "Noto Sans Indic Siyaq Numbers",
+            "Noto Sans Mayan Numerals",
+            "Noto Sans Mono",
+            "Noto Sans SignWriting",
+            "Noto Sans Symbols",
+            "Noto Sans Symbols 2",
+            "Noto Serif",
+            "Noto Serif Display",
+            "Noto Serif Khitan Small Script",
+            "Noto Serif Ottoman Siyaq",
+            "Noto Znamenny Musical Notation",
+        ],
+        poy_Latn: [
+            "Noto Music",
+            "Noto Sans Cypro Minoan",
+            "Noto Sans Indic Siyaq Numbers",
+            "Noto Sans Mayan Numerals",
+            "Noto Sans SignWriting",
+            "Noto Sans Symbols",
+            "Noto Sans Symbols 2",
+            "Noto Serif Khitan Small Script",
+            "Noto Serif Ottoman Siyaq",
+            "Noto Znamenny Musical Notation",
+        ],
+        ppl_Latn: [
+            "Noto Music",
+            "Noto Sans",
+            "Noto Sans Cypro Minoan",
+            "Noto Sans Display",
+            "Noto Sans Indic Siyaq Numbers",
+            "Noto Sans Mayan Numerals",
+            "Noto Sans Mono",
+            "Noto Sans SignWriting",
+            "Noto Sans Symbols",
+            "Noto Sans Symbols 2",
+            "Noto Serif",
+            "Noto Serif Display",
+            "Noto Serif Khitan Small Script",
+            "Noto Serif Ottoman Siyaq",
+            "Noto Znamenny Musical Notation",
+        ],
+        pra_Khar: ["Noto Sans Kharoshthi"],
+        prd_Arab: [
             "Noto Kufi Arabic",
             "Noto Naskh Arabic",
             "Noto Naskh Arabic UI",
             "Noto Sans Arabic",
-            "Noto Sans Arabic UI"
+            "Noto Sans Arabic UI",
         ],
-        "prg_Latn": [
+        prg_Latn: [
             "Noto Sans",
             "Noto Sans Display",
             "Noto Sans Mono",
             "Noto Serif",
-            "Noto Serif Display"
+            "Noto Serif Display",
         ],
-        "pro_Latn": [
+        pro_Latn: [
             "Noto Music",
             "Noto Sans",
             "Noto Sans Cypro Minoan",
@@ -8125,9 +8086,9 @@
             "Noto Serif Display",
             "Noto Serif Khitan Small Script",
             "Noto Serif Ottoman Siyaq",
-            "Noto Znamenny Musical Notation"
+            "Noto Znamenny Musical Notation",
         ],
-        "prq_Latn": [
+        prq_Latn: [
             "Noto Music",
             "Noto Sans",
             "Noto Sans Cypro Minoan",
@@ -8142,23 +8103,23 @@
             "Noto Serif Display",
             "Noto Serif Khitan Small Script",
             "Noto Serif Ottoman Siyaq",
-            "Noto Znamenny Musical Notation"
+            "Noto Znamenny Musical Notation",
         ],
-        "prs_Arab": [
+        prs_Arab: [
             "Noto Kufi Arabic",
             "Noto Naskh Arabic",
             "Noto Naskh Arabic UI",
             "Noto Sans Arabic",
-            "Noto Sans Arabic UI"
+            "Noto Sans Arabic UI",
         ],
-        "ps_Arab": [
+        ps_Arab: [
             "Noto Kufi Arabic",
             "Noto Naskh Arabic",
             "Noto Naskh Arabic UI",
             "Noto Sans Arabic",
-            "Noto Sans Arabic UI"
+            "Noto Sans Arabic UI",
         ],
-        "pt_Latn": [
+        pt_Latn: [
             "Noto Music",
             "Noto Sans",
             "Noto Sans Cypro Minoan",
@@ -8173,22 +8134,22 @@
             "Noto Serif Display",
             "Noto Serif Khitan Small Script",
             "Noto Serif Ottoman Siyaq",
-            "Noto Znamenny Musical Notation"
+            "Noto Znamenny Musical Notation",
         ],
-        "puu_Latn": [
+        puu_Latn: [
             "Noto Sans",
             "Noto Sans Display",
             "Noto Sans Mono",
             "Noto Serif",
             "Noto Serif Display",
-            "Noto Znamenny Musical Notation"
+            "Noto Znamenny Musical Notation",
         ],
-        "pwo_Mymr": [
+        pwo_Mymr: [
             "Noto Sans Myanmar",
             "Noto Sans Myanmar UI",
-            "Noto Serif Myanmar"
+            "Noto Serif Myanmar",
         ],
-        "qu_Latn": [
+        qu_Latn: [
             "Noto Music",
             "Noto Sans",
             "Noto Sans Cypro Minoan",
@@ -8203,9 +8164,9 @@
             "Noto Serif Display",
             "Noto Serif Khitan Small Script",
             "Noto Serif Ottoman Siyaq",
-            "Noto Znamenny Musical Notation"
+            "Noto Znamenny Musical Notation",
         ],
-        "quc_Latn": [
+        quc_Latn: [
             "Noto Music",
             "Noto Sans",
             "Noto Sans Cypro Minoan",
@@ -8221,9 +8182,9 @@
             "Noto Serif Display",
             "Noto Serif Khitan Small Script",
             "Noto Serif Ottoman Siyaq",
-            "Noto Znamenny Musical Notation"
+            "Noto Znamenny Musical Notation",
         ],
-        "qud_Latn": [
+        qud_Latn: [
             "Noto Music",
             "Noto Sans",
             "Noto Sans Cypro Minoan",
@@ -8238,9 +8199,9 @@
             "Noto Serif Display",
             "Noto Serif Khitan Small Script",
             "Noto Serif Ottoman Siyaq",
-            "Noto Znamenny Musical Notation"
+            "Noto Znamenny Musical Notation",
         ],
-        "qug_Latn": [
+        qug_Latn: [
             "Noto Music",
             "Noto Sans",
             "Noto Sans Cypro Minoan",
@@ -8255,9 +8216,9 @@
             "Noto Serif Display",
             "Noto Serif Khitan Small Script",
             "Noto Serif Ottoman Siyaq",
-            "Noto Znamenny Musical Notation"
+            "Noto Znamenny Musical Notation",
         ],
-        "quh_Latn": [
+        quh_Latn: [
             "Noto Music",
             "Noto Sans",
             "Noto Sans Cypro Minoan",
@@ -8272,9 +8233,9 @@
             "Noto Serif Display",
             "Noto Serif Khitan Small Script",
             "Noto Serif Ottoman Siyaq",
-            "Noto Znamenny Musical Notation"
+            "Noto Znamenny Musical Notation",
         ],
-        "quy_Latn": [
+        quy_Latn: [
             "Noto Music",
             "Noto Sans",
             "Noto Sans Cypro Minoan",
@@ -8289,9 +8250,9 @@
             "Noto Serif Display",
             "Noto Serif Khitan Small Script",
             "Noto Serif Ottoman Siyaq",
-            "Noto Znamenny Musical Notation"
+            "Noto Znamenny Musical Notation",
         ],
-        "quz_Latn": [
+        quz_Latn: [
             "Noto Music",
             "Noto Sans",
             "Noto Sans Cypro Minoan",
@@ -8306,9 +8267,9 @@
             "Noto Serif Display",
             "Noto Serif Khitan Small Script",
             "Noto Serif Ottoman Siyaq",
-            "Noto Znamenny Musical Notation"
+            "Noto Znamenny Musical Notation",
         ],
-        "qva_Latn": [
+        qva_Latn: [
             "Noto Music",
             "Noto Sans",
             "Noto Sans Cypro Minoan",
@@ -8323,9 +8284,9 @@
             "Noto Serif Display",
             "Noto Serif Khitan Small Script",
             "Noto Serif Ottoman Siyaq",
-            "Noto Znamenny Musical Notation"
+            "Noto Znamenny Musical Notation",
         ],
-        "qvc_Latn": [
+        qvc_Latn: [
             "Noto Music",
             "Noto Sans",
             "Noto Sans Cypro Minoan",
@@ -8340,9 +8301,9 @@
             "Noto Serif Display",
             "Noto Serif Khitan Small Script",
             "Noto Serif Ottoman Siyaq",
-            "Noto Znamenny Musical Notation"
+            "Noto Znamenny Musical Notation",
         ],
-        "qvh_Latn": [
+        qvh_Latn: [
             "Noto Music",
             "Noto Sans",
             "Noto Sans Cypro Minoan",
@@ -8357,9 +8318,9 @@
             "Noto Serif Display",
             "Noto Serif Khitan Small Script",
             "Noto Serif Ottoman Siyaq",
-            "Noto Znamenny Musical Notation"
+            "Noto Znamenny Musical Notation",
         ],
-        "qvm_Latn": [
+        qvm_Latn: [
             "Noto Music",
             "Noto Sans",
             "Noto Sans Cypro Minoan",
@@ -8374,9 +8335,9 @@
             "Noto Serif Display",
             "Noto Serif Khitan Small Script",
             "Noto Serif Ottoman Siyaq",
-            "Noto Znamenny Musical Notation"
+            "Noto Znamenny Musical Notation",
         ],
-        "qvn_Latn": [
+        qvn_Latn: [
             "Noto Music",
             "Noto Sans",
             "Noto Sans Cypro Minoan",
@@ -8391,9 +8352,9 @@
             "Noto Serif Display",
             "Noto Serif Khitan Small Script",
             "Noto Serif Ottoman Siyaq",
-            "Noto Znamenny Musical Notation"
+            "Noto Znamenny Musical Notation",
         ],
-        "qwh_Latn": [
+        qwh_Latn: [
             "Noto Music",
             "Noto Sans",
             "Noto Sans Cypro Minoan",
@@ -8408,9 +8369,9 @@
             "Noto Serif Display",
             "Noto Serif Khitan Small Script",
             "Noto Serif Ottoman Siyaq",
-            "Noto Znamenny Musical Notation"
+            "Noto Znamenny Musical Notation",
         ],
-        "qxn_Latn": [
+        qxn_Latn: [
             "Noto Music",
             "Noto Sans",
             "Noto Sans Cypro Minoan",
@@ -8425,9 +8386,9 @@
             "Noto Serif Display",
             "Noto Serif Khitan Small Script",
             "Noto Serif Ottoman Siyaq",
-            "Noto Znamenny Musical Notation"
+            "Noto Znamenny Musical Notation",
         ],
-        "qxu_Latn": [
+        qxu_Latn: [
             "Noto Music",
             "Noto Sans",
             "Noto Sans Cypro Minoan",
@@ -8442,28 +8403,28 @@
             "Noto Serif Display",
             "Noto Serif Khitan Small Script",
             "Noto Serif Ottoman Siyaq",
-            "Noto Znamenny Musical Notation"
+            "Noto Znamenny Musical Notation",
         ],
-        "rab_Deva": [
+        rab_Deva: [
             "Noto Sans",
             "Noto Sans Devanagari",
             "Noto Sans Devanagari UI",
-            "Noto Serif Devanagari"
+            "Noto Serif Devanagari",
         ],
-        "raj_Deva": [
+        raj_Deva: [
             "Noto Sans",
             "Noto Sans Devanagari",
             "Noto Sans Devanagari UI",
-            "Noto Serif Devanagari"
+            "Noto Serif Devanagari",
         ],
-        "rap_Latn": [
+        rap_Latn: [
             "Noto Sans",
             "Noto Sans Display",
             "Noto Sans Mono",
             "Noto Serif",
-            "Noto Serif Display"
+            "Noto Serif Display",
         ],
-        "rar_Latn": [
+        rar_Latn: [
             "Noto Music",
             "Noto Sans",
             "Noto Sans Cypro Minoan",
@@ -8478,9 +8439,9 @@
             "Noto Serif Display",
             "Noto Serif Khitan Small Script",
             "Noto Serif Ottoman Siyaq",
-            "Noto Znamenny Musical Notation"
+            "Noto Znamenny Musical Notation",
         ],
-        "ray_Latn": [
+        ray_Latn: [
             "Noto Music",
             "Noto Sans",
             "Noto Sans Cypro Minoan",
@@ -8495,9 +8456,9 @@
             "Noto Serif Display",
             "Noto Serif Khitan Small Script",
             "Noto Serif Ottoman Siyaq",
-            "Noto Znamenny Musical Notation"
+            "Noto Znamenny Musical Notation",
         ],
-        "rcf_Latn": [
+        rcf_Latn: [
             "Noto Music",
             "Noto Sans",
             "Noto Sans Cypro Minoan",
@@ -8512,9 +8473,9 @@
             "Noto Serif Display",
             "Noto Serif Khitan Small Script",
             "Noto Serif Ottoman Siyaq",
-            "Noto Znamenny Musical Notation"
+            "Noto Znamenny Musical Notation",
         ],
-        "rej_Latn": [
+        rej_Latn: [
             "Noto Music",
             "Noto Sans",
             "Noto Sans Cypro Minoan",
@@ -8529,10 +8490,10 @@
             "Noto Serif Display",
             "Noto Serif Khitan Small Script",
             "Noto Serif Ottoman Siyaq",
-            "Noto Znamenny Musical Notation"
+            "Noto Znamenny Musical Notation",
         ],
-        "rej_Rjng": ["Noto Sans Rejang"],
-        "rel_Latn": [
+        rej_Rjng: ["Noto Sans Rejang"],
+        rel_Latn: [
             "Noto Music",
             "Noto Sans Cypro Minoan",
             "Noto Sans Indic Siyaq Numbers",
@@ -8542,9 +8503,9 @@
             "Noto Sans Symbols 2",
             "Noto Serif Khitan Small Script",
             "Noto Serif Ottoman Siyaq",
-            "Noto Znamenny Musical Notation"
+            "Noto Znamenny Musical Notation",
         ],
-        "res_Latn": [
+        res_Latn: [
             "Noto Music",
             "Noto Sans Cypro Minoan",
             "Noto Sans Indic Siyaq Numbers",
@@ -8554,26 +8515,9 @@
             "Noto Sans Symbols 2",
             "Noto Serif Khitan Small Script",
             "Noto Serif Ottoman Siyaq",
-            "Noto Znamenny Musical Notation"
+            "Noto Znamenny Musical Notation",
         ],
-        "rgn_Latn": [
-            "Noto Music",
-            "Noto Sans",
-            "Noto Sans Cypro Minoan",
-            "Noto Sans Display",
-            "Noto Sans Indic Siyaq Numbers",
-            "Noto Sans Mayan Numerals",
-            "Noto Sans Mono",
-            "Noto Sans SignWriting",
-            "Noto Sans Symbols",
-            "Noto Sans Symbols 2",
-            "Noto Serif",
-            "Noto Serif Display",
-            "Noto Serif Khitan Small Script",
-            "Noto Serif Ottoman Siyaq",
-            "Noto Znamenny Musical Notation"
-        ],
-        "rhg_Latn": [
+        rgn_Latn: [
             "Noto Music",
             "Noto Sans",
             "Noto Sans Cypro Minoan",
@@ -8588,36 +8532,53 @@
             "Noto Serif Display",
             "Noto Serif Khitan Small Script",
             "Noto Serif Ottoman Siyaq",
-            "Noto Znamenny Musical Notation"
+            "Noto Znamenny Musical Notation",
         ],
-        "rhg_Rohg": ["Noto Sans Hanifi Rohingya"],
-        "ria_Latn": [
+        rhg_Latn: [
+            "Noto Music",
+            "Noto Sans",
+            "Noto Sans Cypro Minoan",
+            "Noto Sans Display",
+            "Noto Sans Indic Siyaq Numbers",
+            "Noto Sans Mayan Numerals",
+            "Noto Sans Mono",
+            "Noto Sans SignWriting",
+            "Noto Sans Symbols",
+            "Noto Sans Symbols 2",
+            "Noto Serif",
+            "Noto Serif Display",
+            "Noto Serif Khitan Small Script",
+            "Noto Serif Ottoman Siyaq",
+            "Noto Znamenny Musical Notation",
+        ],
+        rhg_Rohg: ["Noto Sans Hanifi Rohingya"],
+        ria_Latn: [
             "Noto Sans",
             "Noto Sans Display",
             "Noto Sans Mono",
             "Noto Serif",
-            "Noto Serif Display"
+            "Noto Serif Display",
         ],
-        "rif_Latn": [
+        rif_Latn: [
             "Noto Sans",
             "Noto Sans Display",
             "Noto Sans Mono",
             "Noto Serif",
-            "Noto Serif Display"
+            "Noto Serif Display",
         ],
-        "rif_Tfng": ["Noto Sans Tifinagh"],
-        "rjs_Deva": [
+        rif_Tfng: ["Noto Sans Tifinagh"],
+        rjs_Deva: [
             "Noto Sans",
             "Noto Sans Devanagari",
             "Noto Sans Devanagari UI",
-            "Noto Serif Devanagari"
+            "Noto Serif Devanagari",
         ],
-        "rkt_Beng": [
+        rkt_Beng: [
             "Noto Sans Bengali",
             "Noto Sans Bengali UI",
-            "Noto Serif Bengali"
+            "Noto Serif Bengali",
         ],
-        "rm_Latn": [
+        rm_Latn: [
             "Noto Music",
             "Noto Sans",
             "Noto Sans Cypro Minoan",
@@ -8632,16 +8593,16 @@
             "Noto Serif Display",
             "Noto Serif Khitan Small Script",
             "Noto Serif Ottoman Siyaq",
-            "Noto Znamenny Musical Notation"
+            "Noto Znamenny Musical Notation",
         ],
-        "rmf_Latn": [
+        rmf_Latn: [
             "Noto Sans",
             "Noto Sans Display",
             "Noto Sans Mono",
             "Noto Serif",
-            "Noto Serif Display"
+            "Noto Serif Display",
         ],
-        "rmn_Latn": [
+        rmn_Latn: [
             "Noto Music",
             "Noto Sans",
             "Noto Sans Cypro Minoan",
@@ -8656,30 +8617,30 @@
             "Noto Serif Display",
             "Noto Serif Khitan Small Script",
             "Noto Serif Ottoman Siyaq",
-            "Noto Znamenny Musical Notation"
+            "Noto Znamenny Musical Notation",
         ],
-        "rmo_Latn": [
+        rmo_Latn: [
             "Noto Sans",
             "Noto Sans Display",
             "Noto Sans Mono",
             "Noto Serif",
-            "Noto Serif Display"
+            "Noto Serif Display",
         ],
-        "rmt_Arab": [
+        rmt_Arab: [
             "Noto Kufi Arabic",
             "Noto Naskh Arabic",
             "Noto Naskh Arabic UI",
             "Noto Sans Arabic",
-            "Noto Sans Arabic UI"
+            "Noto Sans Arabic UI",
         ],
-        "rmu_Latn": [
+        rmu_Latn: [
             "Noto Sans",
             "Noto Sans Display",
             "Noto Sans Mono",
             "Noto Serif",
-            "Noto Serif Display"
+            "Noto Serif Display",
         ],
-        "rn_Latn": [
+        rn_Latn: [
             "Noto Music",
             "Noto Sans",
             "Noto Sans Cypro Minoan",
@@ -8695,23 +8656,23 @@
             "Noto Serif Display",
             "Noto Serif Khitan Small Script",
             "Noto Serif Ottoman Siyaq",
-            "Noto Znamenny Musical Notation"
+            "Noto Znamenny Musical Notation",
         ],
-        "rng_Latn": [
+        rng_Latn: [
             "Noto Sans",
             "Noto Sans Display",
             "Noto Sans Mono",
             "Noto Serif",
-            "Noto Serif Display"
+            "Noto Serif Display",
         ],
-        "ro_Cyrl": [
+        ro_Cyrl: [
             "Noto Sans",
             "Noto Sans Display",
             "Noto Sans Mono",
             "Noto Serif",
-            "Noto Serif Display"
+            "Noto Serif Display",
         ],
-        "ro_Latn": [
+        ro_Latn: [
             "Noto Music",
             "Noto Sans",
             "Noto Sans Cypro Minoan",
@@ -8726,16 +8687,16 @@
             "Noto Serif Display",
             "Noto Serif Khitan Small Script",
             "Noto Serif Ottoman Siyaq",
-            "Noto Znamenny Musical Notation"
+            "Noto Znamenny Musical Notation",
         ],
-        "rob_Latn": [
+        rob_Latn: [
             "Noto Sans",
             "Noto Sans Display",
             "Noto Sans Mono",
             "Noto Serif",
-            "Noto Serif Display"
+            "Noto Serif Display",
         ],
-        "rof_Latn": [
+        rof_Latn: [
             "Noto Music",
             "Noto Sans",
             "Noto Sans Cypro Minoan",
@@ -8751,37 +8712,37 @@
             "Noto Serif Display",
             "Noto Serif Khitan Small Script",
             "Noto Serif Ottoman Siyaq",
-            "Noto Znamenny Musical Notation"
+            "Noto Znamenny Musical Notation",
         ],
-        "rom_Cyrl": [
+        rom_Cyrl: [
             "Noto Sans",
             "Noto Sans Display",
             "Noto Sans Mono",
             "Noto Serif",
-            "Noto Serif Display"
+            "Noto Serif Display",
         ],
-        "rom_Latn": [
+        rom_Latn: [
             "Noto Sans",
             "Noto Sans Display",
             "Noto Sans Mono",
             "Noto Serif",
-            "Noto Serif Display"
+            "Noto Serif Display",
         ],
-        "rtm_Latn": [
+        rtm_Latn: [
             "Noto Sans",
             "Noto Sans Display",
             "Noto Sans Mono",
             "Noto Serif",
-            "Noto Serif Display"
+            "Noto Serif Display",
         ],
-        "ru_Cyrl": [
+        ru_Cyrl: [
             "Noto Sans",
             "Noto Sans Display",
             "Noto Sans Mono",
             "Noto Serif",
-            "Noto Serif Display"
+            "Noto Serif Display",
         ],
-        "rub_Latn": [
+        rub_Latn: [
             "Noto Music",
             "Noto Sans Cypro Minoan",
             "Noto Sans Indic Siyaq Numbers",
@@ -8791,16 +8752,16 @@
             "Noto Sans Symbols 2",
             "Noto Serif Khitan Small Script",
             "Noto Serif Ottoman Siyaq",
-            "Noto Znamenny Musical Notation"
+            "Noto Znamenny Musical Notation",
         ],
-        "rue_Cyrl": [
+        rue_Cyrl: [
             "Noto Sans",
             "Noto Sans Display",
             "Noto Sans Mono",
             "Noto Serif",
-            "Noto Serif Display"
+            "Noto Serif Display",
         ],
-        "ruf_Latn": [
+        ruf_Latn: [
             "Noto Music",
             "Noto Sans Cypro Minoan",
             "Noto Sans Indic Siyaq Numbers",
@@ -8810,16 +8771,16 @@
             "Noto Sans Symbols 2",
             "Noto Serif Khitan Small Script",
             "Noto Serif Ottoman Siyaq",
-            "Noto Znamenny Musical Notation"
+            "Noto Znamenny Musical Notation",
         ],
-        "rug_Latn": [
+        rug_Latn: [
             "Noto Sans",
             "Noto Sans Display",
             "Noto Sans Mono",
             "Noto Serif",
-            "Noto Serif Display"
+            "Noto Serif Display",
         ],
-        "rup_Latn": [
+        rup_Latn: [
             "Noto Music",
             "Noto Sans",
             "Noto Sans Cypro Minoan",
@@ -8834,9 +8795,9 @@
             "Noto Serif Display",
             "Noto Serif Khitan Small Script",
             "Noto Serif Ottoman Siyaq",
-            "Noto Znamenny Musical Notation"
+            "Noto Znamenny Musical Notation",
         ],
-        "rw_Latn": [
+        rw_Latn: [
             "Noto Music",
             "Noto Sans",
             "Noto Sans Cypro Minoan",
@@ -8852,9 +8813,9 @@
             "Noto Serif Display",
             "Noto Serif Khitan Small Script",
             "Noto Serif Ottoman Siyaq",
-            "Noto Znamenny Musical Notation"
+            "Noto Znamenny Musical Notation",
         ],
-        "rwk_Latn": [
+        rwk_Latn: [
             "Noto Music",
             "Noto Sans",
             "Noto Sans Cypro Minoan",
@@ -8870,86 +8831,82 @@
             "Noto Serif Display",
             "Noto Serif Khitan Small Script",
             "Noto Serif Ottoman Siyaq",
-            "Noto Znamenny Musical Notation"
+            "Noto Znamenny Musical Notation",
         ],
-        "ryu_Jpan": ["Noto Sans JP", "Noto Serif JP"],
-        "ryu_Kana": ["Noto Sans JP", "Noto Serif JP"],
-        "sa_Ahom": ["Noto Serif Ahom"],
-        "sa_Bali": ["Noto Sans Balinese", "Noto Serif Balinese"],
-        "sa_Bhks": ["Noto Sans Bhaiksuki"],
-        "sa_Brah": ["Noto Sans Brahmi"],
-        "sa_Bugi": ["Noto Sans Buginese"],
-        "sa_Cham": ["Noto Sans Cham"],
-        "sa_Deva": [
+        ryu_Jpan: ["Noto Sans JP", "Noto Serif JP"],
+        ryu_Kana: ["Noto Sans JP", "Noto Serif JP"],
+        sa_Ahom: ["Noto Serif Ahom"],
+        sa_Bali: ["Noto Sans Balinese", "Noto Serif Balinese"],
+        sa_Bhks: ["Noto Sans Bhaiksuki"],
+        sa_Brah: ["Noto Sans Brahmi"],
+        sa_Bugi: ["Noto Sans Buginese"],
+        sa_Cham: ["Noto Sans Cham"],
+        sa_Deva: [
             "Noto Sans",
             "Noto Sans Devanagari",
             "Noto Sans Devanagari UI",
-            "Noto Serif Devanagari"
+            "Noto Serif Devanagari",
         ],
-        "sa_Gonm": ["Noto Sans Masaram Gondi"],
-        "sa_Gran": ["Noto Sans Grantha", "Noto Serif Grantha"],
-        "sa_Khar": ["Noto Sans Kharoshthi"],
-        "sa_Limb": ["Noto Sans Limbu"],
-        "sa_Marc": ["Noto Sans Marchen"],
-        "sa_Modi": ["Noto Sans Modi"],
-        "sa_Mong": ["Noto Sans Mongolian"],
-        "sa_Mroo": ["Noto Sans Mro"],
-        "sa_Mtei": ["Noto Sans Meetei Mayek", "Noto Sans MeeteiMayek"],
-        "sa_Mult": ["Noto Sans Multani"],
-        "sa_Nand": ["Noto Sans Nandinagari"],
-        "sa_Newa": ["Noto Sans Newa"],
-        "sa_Orya": [
-            "Noto Sans Oriya",
-            "Noto Sans Oriya UI",
-            "Noto Serif Oriya"
-        ],
-        "sa_Phag": ["Noto Sans Phags Pa"],
-        "sa_Rjng": ["Noto Sans Rejang"],
-        "sa_Shrd": ["Noto Sans Sharada"],
-        "sa_Sidd": ["Noto Sans Siddham"],
-        "sa_Sinh": [
+        sa_Gonm: ["Noto Sans Masaram Gondi"],
+        sa_Gran: ["Noto Sans Grantha", "Noto Serif Grantha"],
+        sa_Khar: ["Noto Sans Kharoshthi"],
+        sa_Limb: ["Noto Sans Limbu"],
+        sa_Marc: ["Noto Sans Marchen"],
+        sa_Modi: ["Noto Sans Modi"],
+        sa_Mong: ["Noto Sans Mongolian"],
+        sa_Mroo: ["Noto Sans Mro"],
+        sa_Mtei: ["Noto Sans Meetei Mayek", "Noto Sans MeeteiMayek"],
+        sa_Mult: ["Noto Sans Multani"],
+        sa_Nand: ["Noto Sans Nandinagari"],
+        sa_Newa: ["Noto Sans Newa"],
+        sa_Orya: ["Noto Sans Oriya", "Noto Sans Oriya UI", "Noto Serif Oriya"],
+        sa_Phag: ["Noto Sans Phags Pa"],
+        sa_Rjng: ["Noto Sans Rejang"],
+        sa_Shrd: ["Noto Sans Sharada"],
+        sa_Sidd: ["Noto Sans Siddham"],
+        sa_Sinh: [
             "Noto Sans Sinhala",
             "Noto Sans Sinhala UI",
-            "Noto Serif Sinhala"
+            "Noto Serif Sinhala",
         ],
-        "sa_Sora": ["Noto Sans Sora Sompeng"],
-        "sa_Soyo": ["Noto Sans Soyombo"],
-        "sa_Sund": ["Noto Sans Sundanese"],
-        "sa_Sylo": ["Noto Sans Syloti Nagri"],
-        "sa_Tagb": ["Noto Sans Tagbanwa"],
-        "sa_Tirh": ["Noto Sans Tirhuta"],
-        "sa_Wara": ["Noto Sans Warang Citi"],
-        "sa_Wcho": ["Noto Sans Wancho"],
-        "sa_Xpeo": ["Noto Sans Old Persian"],
-        "sa_Zanb": ["Noto Sans Zanabazar Square"],
-        "sad_Latn": [
+        sa_Sora: ["Noto Sans Sora Sompeng"],
+        sa_Soyo: ["Noto Sans Soyombo"],
+        sa_Sund: ["Noto Sans Sundanese"],
+        sa_Sylo: ["Noto Sans Syloti Nagri"],
+        sa_Tagb: ["Noto Sans Tagbanwa"],
+        sa_Tirh: ["Noto Sans Tirhuta"],
+        sa_Wara: ["Noto Sans Warang Citi"],
+        sa_Wcho: ["Noto Sans Wancho"],
+        sa_Xpeo: ["Noto Sans Old Persian"],
+        sa_Zanb: ["Noto Sans Zanabazar Square"],
+        sad_Latn: [
             "Noto Sans",
             "Noto Sans Display",
             "Noto Sans Mono",
             "Noto Serif",
-            "Noto Serif Display"
+            "Noto Serif Display",
         ],
-        "saf_Latn": [
+        saf_Latn: [
             "Noto Sans",
             "Noto Sans Display",
             "Noto Sans Mono",
             "Noto Serif",
-            "Noto Serif Display"
+            "Noto Serif Display",
         ],
-        "sah_Cyrl": [
+        sah_Cyrl: [
             "Noto Sans",
             "Noto Sans Display",
             "Noto Sans Mono",
             "Noto Serif",
-            "Noto Serif Display"
+            "Noto Serif Display",
         ],
-        "sam_Hebr": [
+        sam_Hebr: [
             "Noto Rashi Hebrew",
             "Noto Sans Hebrew",
-            "Noto Serif Hebrew"
+            "Noto Serif Hebrew",
         ],
-        "sam_Samr": ["Noto Sans Samaritan"],
-        "saq_Latn": [
+        sam_Samr: ["Noto Sans Samaritan"],
+        saq_Latn: [
             "Noto Music",
             "Noto Sans",
             "Noto Sans Cypro Minoan",
@@ -8965,9 +8922,9 @@
             "Noto Serif Display",
             "Noto Serif Khitan Small Script",
             "Noto Serif Ottoman Siyaq",
-            "Noto Znamenny Musical Notation"
+            "Noto Znamenny Musical Notation",
         ],
-        "sas_Latn": [
+        sas_Latn: [
             "Noto Music",
             "Noto Sans",
             "Noto Sans Cypro Minoan",
@@ -8982,41 +8939,37 @@
             "Noto Serif Display",
             "Noto Serif Khitan Small Script",
             "Noto Serif Ottoman Siyaq",
-            "Noto Znamenny Musical Notation"
+            "Noto Znamenny Musical Notation",
         ],
-        "sat_Beng": [
+        sat_Beng: [
             "Noto Sans Bengali",
             "Noto Sans Bengali UI",
-            "Noto Serif Bengali"
+            "Noto Serif Bengali",
         ],
-        "sat_Deva": [
+        sat_Deva: [
             "Noto Sans",
             "Noto Sans Devanagari",
             "Noto Sans Devanagari UI",
-            "Noto Serif Devanagari"
+            "Noto Serif Devanagari",
         ],
-        "sat_Latn": [
+        sat_Latn: [
             "Noto Sans",
             "Noto Sans Display",
             "Noto Sans Mono",
             "Noto Serif",
-            "Noto Serif Display"
+            "Noto Serif Display",
         ],
-        "sat_Olck": ["Noto Sans Ol Chiki"],
-        "sat_Orya": [
-            "Noto Sans Oriya",
-            "Noto Sans Oriya UI",
-            "Noto Serif Oriya"
-        ],
-        "sav_Latn": [
+        sat_Olck: ["Noto Sans Ol Chiki"],
+        sat_Orya: ["Noto Sans Oriya", "Noto Sans Oriya UI", "Noto Serif Oriya"],
+        sav_Latn: [
             "Noto Sans",
             "Noto Sans Display",
             "Noto Sans Mono",
             "Noto Serif",
-            "Noto Serif Display"
+            "Noto Serif Display",
         ],
-        "saz_Saur": ["Noto Sans Saurashtra"],
-        "sbp_Latn": [
+        saz_Saur: ["Noto Sans Saurashtra"],
+        sbp_Latn: [
             "Noto Music",
             "Noto Sans",
             "Noto Sans Cypro Minoan",
@@ -9032,9 +8985,9 @@
             "Noto Serif Display",
             "Noto Serif Khitan Small Script",
             "Noto Serif Ottoman Siyaq",
-            "Noto Znamenny Musical Notation"
+            "Noto Znamenny Musical Notation",
         ],
-        "sc_Latn": [
+        sc_Latn: [
             "Noto Music",
             "Noto Sans",
             "Noto Sans Cypro Minoan",
@@ -9049,15 +9002,15 @@
             "Noto Serif Display",
             "Noto Serif Khitan Small Script",
             "Noto Serif Ottoman Siyaq",
-            "Noto Znamenny Musical Notation"
+            "Noto Znamenny Musical Notation",
         ],
-        "sck_Deva": [
+        sck_Deva: [
             "Noto Sans",
             "Noto Sans Devanagari",
             "Noto Sans Devanagari UI",
-            "Noto Serif Devanagari"
+            "Noto Serif Devanagari",
         ],
-        "scn_Latn": [
+        scn_Latn: [
             "Noto Music",
             "Noto Sans",
             "Noto Sans Cypro Minoan",
@@ -9070,38 +9023,38 @@
             "Noto Serif",
             "Noto Serif Display",
             "Noto Serif Khitan Small Script",
-            "Noto Serif Ottoman Siyaq"
+            "Noto Serif Ottoman Siyaq",
         ],
-        "sco_Latn": [
+        sco_Latn: [
             "Noto Sans",
             "Noto Sans Display",
             "Noto Sans Mono",
             "Noto Serif",
-            "Noto Serif Display"
+            "Noto Serif Display",
         ],
-        "scs_Latn": [
+        scs_Latn: [
             "Noto Sans",
             "Noto Sans Display",
             "Noto Sans Mono",
             "Noto Serif",
-            "Noto Serif Display"
+            "Noto Serif Display",
         ],
-        "sd_Arab": [
+        sd_Arab: [
             "Noto Kufi Arabic",
             "Noto Naskh Arabic",
             "Noto Naskh Arabic UI",
             "Noto Sans Arabic",
-            "Noto Sans Arabic UI"
+            "Noto Sans Arabic UI",
         ],
-        "sd_Deva": [
+        sd_Deva: [
             "Noto Sans",
             "Noto Sans Devanagari",
             "Noto Sans Devanagari UI",
-            "Noto Serif Devanagari"
+            "Noto Serif Devanagari",
         ],
-        "sd_Khoj": ["Noto Sans Khojki", "Noto Serif Khojki"],
-        "sd_Sind": ["Noto Sans Khudawadi"],
-        "sdc_Latn": [
+        sd_Khoj: ["Noto Sans Khojki", "Noto Serif Khojki"],
+        sd_Sind: ["Noto Sans Khudawadi"],
+        sdc_Latn: [
             "Noto Music",
             "Noto Sans",
             "Noto Sans Cypro Minoan",
@@ -9116,44 +9069,44 @@
             "Noto Serif Display",
             "Noto Serif Khitan Small Script",
             "Noto Serif Ottoman Siyaq",
-            "Noto Znamenny Musical Notation"
+            "Noto Znamenny Musical Notation",
         ],
-        "sdh_Arab": [
+        sdh_Arab: [
             "Noto Kufi Arabic",
             "Noto Naskh Arabic",
             "Noto Naskh Arabic UI",
             "Noto Sans Arabic",
-            "Noto Sans Arabic UI"
+            "Noto Sans Arabic UI",
         ],
-        "se_Cyrl": [
+        se_Cyrl: [
             "Noto Sans",
             "Noto Sans Display",
             "Noto Sans Mono",
             "Noto Serif",
-            "Noto Serif Display"
+            "Noto Serif Display",
         ],
-        "se_Latn": [
+        se_Latn: [
             "Noto Sans",
             "Noto Sans Display",
             "Noto Sans Mono",
             "Noto Serif",
-            "Noto Serif Display"
+            "Noto Serif Display",
         ],
-        "see_Latn": [
+        see_Latn: [
             "Noto Sans",
             "Noto Sans Display",
             "Noto Sans Mono",
             "Noto Serif",
-            "Noto Serif Display"
+            "Noto Serif Display",
         ],
-        "sef_Latn": [
+        sef_Latn: [
             "Noto Sans",
             "Noto Sans Display",
             "Noto Sans Mono",
             "Noto Serif",
-            "Noto Serif Display"
+            "Noto Serif Display",
         ],
-        "seh_Latn": [
+        seh_Latn: [
             "Noto Music",
             "Noto Sans",
             "Noto Sans Cypro Minoan",
@@ -9168,9 +9121,9 @@
             "Noto Serif Display",
             "Noto Serif Khitan Small Script",
             "Noto Serif Ottoman Siyaq",
-            "Noto Znamenny Musical Notation"
+            "Noto Znamenny Musical Notation",
         ],
-        "sei_Latn": [
+        sei_Latn: [
             "Noto Music",
             "Noto Sans",
             "Noto Sans Cypro Minoan",
@@ -9185,23 +9138,23 @@
             "Noto Serif Display",
             "Noto Serif Khitan Small Script",
             "Noto Serif Ottoman Siyaq",
-            "Noto Znamenny Musical Notation"
+            "Noto Znamenny Musical Notation",
         ],
-        "sel_Cyrl": [
+        sel_Cyrl: [
             "Noto Sans",
             "Noto Sans Display",
             "Noto Sans Mono",
             "Noto Serif",
-            "Noto Serif Display"
+            "Noto Serif Display",
         ],
-        "ses_Latn": [
+        ses_Latn: [
             "Noto Sans",
             "Noto Sans Display",
             "Noto Sans Mono",
             "Noto Serif",
-            "Noto Serif Display"
+            "Noto Serif Display",
         ],
-        "sey_Latn": [
+        sey_Latn: [
             "Noto Music",
             "Noto Sans",
             "Noto Sans Cypro Minoan",
@@ -9216,9 +9169,9 @@
             "Noto Serif Display",
             "Noto Serif Khitan Small Script",
             "Noto Serif Ottoman Siyaq",
-            "Noto Znamenny Musical Notation"
+            "Noto Znamenny Musical Notation",
         ],
-        "sg_Latn": [
+        sg_Latn: [
             "Noto Music",
             "Noto Sans",
             "Noto Sans Cypro Minoan",
@@ -9233,9 +9186,9 @@
             "Noto Serif Display",
             "Noto Serif Khitan Small Script",
             "Noto Serif Ottoman Siyaq",
-            "Noto Znamenny Musical Notation"
+            "Noto Znamenny Musical Notation",
         ],
-        "sga_Latn": [
+        sga_Latn: [
             "Noto Music",
             "Noto Sans",
             "Noto Sans Cypro Minoan",
@@ -9250,32 +9203,32 @@
             "Noto Serif Display",
             "Noto Serif Khitan Small Script",
             "Noto Serif Ottoman Siyaq",
-            "Noto Znamenny Musical Notation"
+            "Noto Znamenny Musical Notation",
         ],
-        "sga_Ogam": ["Noto Sans Ogham"],
-        "sgs_Latn": [
+        sga_Ogam: ["Noto Sans Ogham"],
+        sgs_Latn: [
             "Noto Sans",
             "Noto Sans Display",
             "Noto Sans Mono",
             "Noto Serif",
-            "Noto Serif Display"
+            "Noto Serif Display",
         ],
-        "shi_Arab": [
+        shi_Arab: [
             "Noto Kufi Arabic",
             "Noto Naskh Arabic",
             "Noto Naskh Arabic UI",
             "Noto Sans Arabic",
-            "Noto Sans Arabic UI"
+            "Noto Sans Arabic UI",
         ],
-        "shi_Latn": [
+        shi_Latn: [
             "Noto Sans",
             "Noto Sans Display",
             "Noto Sans Mono",
             "Noto Serif",
-            "Noto Serif Display"
+            "Noto Serif Display",
         ],
-        "shi_Tfng": ["Noto Sans Tifinagh"],
-        "shk_Latn": [
+        shi_Tfng: ["Noto Sans Tifinagh"],
+        shk_Latn: [
             "Noto Music",
             "Noto Sans",
             "Noto Sans Cypro Minoan",
@@ -9290,14 +9243,14 @@
             "Noto Serif Display",
             "Noto Serif Khitan Small Script",
             "Noto Serif Ottoman Siyaq",
-            "Noto Znamenny Musical Notation"
+            "Noto Znamenny Musical Notation",
         ],
-        "shn_Mymr": [
+        shn_Mymr: [
             "Noto Sans Myanmar",
             "Noto Sans Myanmar UI",
-            "Noto Serif Myanmar"
+            "Noto Serif Myanmar",
         ],
-        "shp_Latn": [
+        shp_Latn: [
             "Noto Music",
             "Noto Sans",
             "Noto Sans Cypro Minoan",
@@ -9312,9 +9265,9 @@
             "Noto Serif Display",
             "Noto Serif Khitan Small Script",
             "Noto Serif Ottoman Siyaq",
-            "Noto Znamenny Musical Notation"
+            "Noto Znamenny Musical Notation",
         ],
-        "shu_Latn": [
+        shu_Latn: [
             "Noto Music",
             "Noto Sans Cypro Minoan",
             "Noto Sans Indic Siyaq Numbers",
@@ -9324,28 +9277,28 @@
             "Noto Sans Symbols 2",
             "Noto Serif Khitan Small Script",
             "Noto Serif Ottoman Siyaq",
-            "Noto Znamenny Musical Notation"
+            "Noto Znamenny Musical Notation",
         ],
-        "si_Sinh": [
+        si_Sinh: [
             "Noto Sans Sinhala",
             "Noto Sans Sinhala UI",
-            "Noto Serif Sinhala"
+            "Noto Serif Sinhala",
         ],
-        "sid_Latn": [
+        sid_Latn: [
             "Noto Sans",
             "Noto Sans Display",
             "Noto Sans Mono",
             "Noto Serif",
-            "Noto Serif Display"
+            "Noto Serif Display",
         ],
-        "sja_Latn": [
+        sja_Latn: [
             "Noto Sans",
             "Noto Sans Display",
             "Noto Sans Mono",
             "Noto Serif",
-            "Noto Serif Display"
+            "Noto Serif Display",
         ],
-        "sk_Latn": [
+        sk_Latn: [
             "Noto Music",
             "Noto Sans",
             "Noto Sans Cypro Minoan",
@@ -9360,17 +9313,17 @@
             "Noto Serif Display",
             "Noto Serif Khitan Small Script",
             "Noto Serif Ottoman Siyaq",
-            "Noto Znamenny Musical Notation"
+            "Noto Znamenny Musical Notation",
         ],
-        "skr_Arab": [
+        skr_Arab: [
             "Noto Kufi Arabic",
             "Noto Naskh Arabic",
             "Noto Naskh Arabic UI",
             "Noto Sans Arabic",
-            "Noto Sans Arabic UI"
+            "Noto Sans Arabic UI",
         ],
-        "skr_Mult": ["Noto Sans Multani"],
-        "sl_Latn": [
+        skr_Mult: ["Noto Sans Multani"],
+        sl_Latn: [
             "Noto Music",
             "Noto Sans",
             "Noto Sans Cypro Minoan",
@@ -9385,9 +9338,9 @@
             "Noto Serif Display",
             "Noto Serif Khitan Small Script",
             "Noto Serif Ottoman Siyaq",
-            "Noto Znamenny Musical Notation"
+            "Noto Znamenny Musical Notation",
         ],
-        "sla_Latn": [
+        sla_Latn: [
             "Noto Music",
             "Noto Sans",
             "Noto Sans Cypro Minoan",
@@ -9402,16 +9355,16 @@
             "Noto Serif Display",
             "Noto Serif Khitan Small Script",
             "Noto Serif Ottoman Siyaq",
-            "Noto Znamenny Musical Notation"
+            "Noto Znamenny Musical Notation",
         ],
-        "sli_Latn": [
+        sli_Latn: [
             "Noto Sans",
             "Noto Sans Display",
             "Noto Sans Mono",
             "Noto Serif",
-            "Noto Serif Display"
+            "Noto Serif Display",
         ],
-        "slr_Latn": [
+        slr_Latn: [
             "Noto Music",
             "Noto Sans",
             "Noto Sans Cypro Minoan",
@@ -9426,16 +9379,16 @@
             "Noto Serif Display",
             "Noto Serif Khitan Small Script",
             "Noto Serif Ottoman Siyaq",
-            "Noto Znamenny Musical Notation"
+            "Noto Znamenny Musical Notation",
         ],
-        "sly_Latn": [
+        sly_Latn: [
             "Noto Sans",
             "Noto Sans Display",
             "Noto Sans Mono",
             "Noto Serif",
-            "Noto Serif Display"
+            "Noto Serif Display",
         ],
-        "sm_Latn": [
+        sm_Latn: [
             "Noto Music",
             "Noto Sans",
             "Noto Sans Cypro Minoan",
@@ -9450,9 +9403,9 @@
             "Noto Serif Display",
             "Noto Serif Khitan Small Script",
             "Noto Serif Ottoman Siyaq",
-            "Noto Znamenny Musical Notation"
+            "Noto Znamenny Musical Notation",
         ],
-        "sma_Latn": [
+        sma_Latn: [
             "Noto Music",
             "Noto Sans",
             "Noto Sans Cypro Minoan",
@@ -9467,9 +9420,9 @@
             "Noto Serif Display",
             "Noto Serif Khitan Small Script",
             "Noto Serif Ottoman Siyaq",
-            "Noto Znamenny Musical Notation"
+            "Noto Znamenny Musical Notation",
         ],
-        "smj_Latn": [
+        smj_Latn: [
             "Noto Music",
             "Noto Sans",
             "Noto Sans Cypro Minoan",
@@ -9484,9 +9437,9 @@
             "Noto Serif Display",
             "Noto Serif Khitan Small Script",
             "Noto Serif Ottoman Siyaq",
-            "Noto Znamenny Musical Notation"
+            "Noto Znamenny Musical Notation",
         ],
-        "smn_Latn": [
+        smn_Latn: [
             "Noto Music",
             "Noto Sans",
             "Noto Sans Cypro Minoan",
@@ -9501,42 +9454,17 @@
             "Noto Serif Display",
             "Noto Serif Khitan Small Script",
             "Noto Serif Ottoman Siyaq",
-            "Noto Znamenny Musical Notation"
+            "Noto Znamenny Musical Notation",
         ],
-        "smp_Samr": ["Noto Sans Samaritan"],
-        "sms_Latn": [
+        smp_Samr: ["Noto Sans Samaritan"],
+        sms_Latn: [
             "Noto Sans",
             "Noto Sans Display",
             "Noto Sans Mono",
-            "Noto Serif",
-            "Noto Serif Display"
-        ],
-        "sn_Latn": [
-            "Noto Music",
-            "Noto Sans",
-            "Noto Sans Cypro Minoan",
-            "Noto Sans Display",
-            "Noto Sans Indic Siyaq Numbers",
-            "Noto Sans Math",
-            "Noto Sans Mayan Numerals",
-            "Noto Sans Mono",
-            "Noto Sans SignWriting",
-            "Noto Sans Symbols",
-            "Noto Sans Symbols 2",
             "Noto Serif",
             "Noto Serif Display",
-            "Noto Serif Khitan Small Script",
-            "Noto Serif Ottoman Siyaq",
-            "Noto Znamenny Musical Notation"
         ],
-        "snf_Latn": [
-            "Noto Sans",
-            "Noto Sans Display",
-            "Noto Sans Mono",
-            "Noto Serif",
-            "Noto Serif Display"
-        ],
-        "snk_Latn": [
+        sn_Latn: [
             "Noto Music",
             "Noto Sans",
             "Noto Sans Cypro Minoan",
@@ -9552,9 +9480,34 @@
             "Noto Serif Display",
             "Noto Serif Khitan Small Script",
             "Noto Serif Ottoman Siyaq",
-            "Noto Znamenny Musical Notation"
+            "Noto Znamenny Musical Notation",
         ],
-        "snn_Latn": [
+        snf_Latn: [
+            "Noto Sans",
+            "Noto Sans Display",
+            "Noto Sans Mono",
+            "Noto Serif",
+            "Noto Serif Display",
+        ],
+        snk_Latn: [
+            "Noto Music",
+            "Noto Sans",
+            "Noto Sans Cypro Minoan",
+            "Noto Sans Display",
+            "Noto Sans Indic Siyaq Numbers",
+            "Noto Sans Math",
+            "Noto Sans Mayan Numerals",
+            "Noto Sans Mono",
+            "Noto Sans SignWriting",
+            "Noto Sans Symbols",
+            "Noto Sans Symbols 2",
+            "Noto Serif",
+            "Noto Serif Display",
+            "Noto Serif Khitan Small Script",
+            "Noto Serif Ottoman Siyaq",
+            "Noto Znamenny Musical Notation",
+        ],
+        snn_Latn: [
             "Noto Music",
             "Noto Sans",
             "Noto Sans Cypro Minoan",
@@ -9569,16 +9522,16 @@
             "Noto Serif Display",
             "Noto Serif Khitan Small Script",
             "Noto Serif Ottoman Siyaq",
-            "Noto Znamenny Musical Notation"
+            "Noto Znamenny Musical Notation",
         ],
-        "so_Arab": [
+        so_Arab: [
             "Noto Kufi Arabic",
             "Noto Naskh Arabic",
             "Noto Naskh Arabic UI",
             "Noto Sans Arabic",
-            "Noto Sans Arabic UI"
+            "Noto Sans Arabic UI",
         ],
-        "so_Latn": [
+        so_Latn: [
             "Noto Music",
             "Noto Sans",
             "Noto Sans Cypro Minoan",
@@ -9594,19 +9547,19 @@
             "Noto Serif Display",
             "Noto Serif Khitan Small Script",
             "Noto Serif Ottoman Siyaq",
-            "Noto Znamenny Musical Notation"
+            "Noto Znamenny Musical Notation",
         ],
-        "so_Osma": ["Noto Sans Osmanya"],
-        "sog_Sogd": ["Noto Sans Sogdian"],
-        "sog_Sogo": ["Noto Sans Old Sogdian"],
-        "sou_Thai": [
+        so_Osma: ["Noto Sans Osmanya"],
+        sog_Sogd: ["Noto Sans Sogdian"],
+        sog_Sogo: ["Noto Sans Old Sogdian"],
+        sou_Thai: [
             "Noto Sans Thai",
             "Noto Sans Thai Looped",
             "Noto Sans Thai UI",
-            "Noto Serif Thai"
+            "Noto Serif Thai",
         ],
-        "sq_Elba": ["Noto Sans Elbasan"],
-        "sq_Latn": [
+        sq_Elba: ["Noto Sans Elbasan"],
+        sq_Latn: [
             "Noto Music",
             "Noto Sans",
             "Noto Sans Cypro Minoan",
@@ -9621,17 +9574,17 @@
             "Noto Serif Display",
             "Noto Serif Khitan Small Script",
             "Noto Serif Ottoman Siyaq",
-            "Noto Znamenny Musical Notation"
+            "Noto Znamenny Musical Notation",
         ],
-        "sq_Vith": ["Noto Sans Vithkuqi", "Noto Serif Vithkuqi"],
-        "sr_Cyrl": [
+        sq_Vith: ["Noto Sans Vithkuqi", "Noto Serif Vithkuqi"],
+        sr_Cyrl: [
             "Noto Sans",
             "Noto Sans Display",
             "Noto Sans Mono",
             "Noto Serif",
-            "Noto Serif Display"
+            "Noto Serif Display",
         ],
-        "sr_Latn": [
+        sr_Latn: [
             "Noto Music",
             "Noto Sans",
             "Noto Sans Cypro Minoan",
@@ -9646,17 +9599,17 @@
             "Noto Serif Display",
             "Noto Serif Khitan Small Script",
             "Noto Serif Ottoman Siyaq",
-            "Noto Znamenny Musical Notation"
+            "Noto Znamenny Musical Notation",
         ],
-        "srb_Latn": [
+        srb_Latn: [
             "Noto Sans",
             "Noto Sans Display",
             "Noto Sans Mono",
             "Noto Serif",
-            "Noto Serif Display"
+            "Noto Serif Display",
         ],
-        "srb_Sora": ["Noto Sans Sora Sompeng"],
-        "srn_Latn": [
+        srb_Sora: ["Noto Sans Sora Sompeng"],
+        srn_Latn: [
             "Noto Music",
             "Noto Sans",
             "Noto Sans Cypro Minoan",
@@ -9671,22 +9624,22 @@
             "Noto Serif Display",
             "Noto Serif Khitan Small Script",
             "Noto Serif Ottoman Siyaq",
-            "Noto Znamenny Musical Notation"
+            "Noto Znamenny Musical Notation",
         ],
-        "srr_Latn": [
+        srr_Latn: [
             "Noto Sans",
             "Noto Sans Display",
             "Noto Sans Mono",
             "Noto Serif",
-            "Noto Serif Display"
+            "Noto Serif Display",
         ],
-        "srx_Deva": [
+        srx_Deva: [
             "Noto Sans",
             "Noto Sans Devanagari",
             "Noto Sans Devanagari UI",
-            "Noto Serif Devanagari"
+            "Noto Serif Devanagari",
         ],
-        "ss_Latn": [
+        ss_Latn: [
             "Noto Music",
             "Noto Sans",
             "Noto Sans Cypro Minoan",
@@ -9702,16 +9655,16 @@
             "Noto Serif Display",
             "Noto Serif Khitan Small Script",
             "Noto Serif Ottoman Siyaq",
-            "Noto Znamenny Musical Notation"
+            "Noto Znamenny Musical Notation",
         ],
-        "ssy_Latn": [
+        ssy_Latn: [
             "Noto Sans",
             "Noto Sans Display",
             "Noto Sans Mono",
             "Noto Serif",
-            "Noto Serif Display"
+            "Noto Serif Display",
         ],
-        "st_Latn": [
+        st_Latn: [
             "Noto Music",
             "Noto Sans",
             "Noto Sans Cypro Minoan",
@@ -9726,9 +9679,9 @@
             "Noto Serif Display",
             "Noto Serif Khitan Small Script",
             "Noto Serif Ottoman Siyaq",
-            "Noto Znamenny Musical Notation"
+            "Noto Znamenny Musical Notation",
         ],
-        "stq_Latn": [
+        stq_Latn: [
             "Noto Music",
             "Noto Sans",
             "Noto Sans Cypro Minoan",
@@ -9743,16 +9696,16 @@
             "Noto Serif Display",
             "Noto Serif Khitan Small Script",
             "Noto Serif Ottoman Siyaq",
-            "Noto Znamenny Musical Notation"
+            "Noto Znamenny Musical Notation",
         ],
-        "str_Latn": [
+        str_Latn: [
             "Noto Sans",
             "Noto Sans Display",
             "Noto Sans Mono",
             "Noto Serif",
-            "Noto Serif Display"
+            "Noto Serif Display",
         ],
-        "su_Latn": [
+        su_Latn: [
             "Noto Music",
             "Noto Sans",
             "Noto Sans Cypro Minoan",
@@ -9767,31 +9720,31 @@
             "Noto Serif Display",
             "Noto Serif Khitan Small Script",
             "Noto Serif Ottoman Siyaq",
-            "Noto Znamenny Musical Notation"
+            "Noto Znamenny Musical Notation",
         ],
-        "su_Sund": ["Noto Sans Sundanese"],
-        "suk_Latn": [
+        su_Sund: ["Noto Sans Sundanese"],
+        suk_Latn: [
             "Noto Sans",
             "Noto Sans Display",
             "Noto Sans Mono",
             "Noto Serif",
-            "Noto Serif Display"
+            "Noto Serif Display",
         ],
-        "sus_Arab": [
+        sus_Arab: [
             "Noto Kufi Arabic",
             "Noto Naskh Arabic",
             "Noto Naskh Arabic UI",
             "Noto Sans Arabic",
-            "Noto Sans Arabic UI"
+            "Noto Sans Arabic UI",
         ],
-        "sus_Latn": [
+        sus_Latn: [
             "Noto Sans",
             "Noto Sans Display",
             "Noto Sans Mono",
             "Noto Serif",
-            "Noto Serif Display"
+            "Noto Serif Display",
         ],
-        "sv_Latn": [
+        sv_Latn: [
             "Noto Music",
             "Noto Sans",
             "Noto Sans Cypro Minoan",
@@ -9806,9 +9759,9 @@
             "Noto Serif Display",
             "Noto Serif Khitan Small Script",
             "Noto Serif Ottoman Siyaq",
-            "Noto Znamenny Musical Notation"
+            "Noto Znamenny Musical Notation",
         ],
-        "sw_Latn": [
+        sw_Latn: [
             "Noto Music",
             "Noto Sans",
             "Noto Sans Cypro Minoan",
@@ -9824,16 +9777,16 @@
             "Noto Serif Display",
             "Noto Serif Khitan Small Script",
             "Noto Serif Ottoman Siyaq",
-            "Noto Znamenny Musical Notation"
+            "Noto Znamenny Musical Notation",
         ],
-        "swb_Arab": [
+        swb_Arab: [
             "Noto Kufi Arabic",
             "Noto Naskh Arabic",
             "Noto Naskh Arabic UI",
             "Noto Sans Arabic",
-            "Noto Sans Arabic UI"
+            "Noto Sans Arabic UI",
         ],
-        "swb_Latn": [
+        swb_Latn: [
             "Noto Music",
             "Noto Sans",
             "Noto Sans Cypro Minoan",
@@ -9849,9 +9802,9 @@
             "Noto Serif Display",
             "Noto Serif Khitan Small Script",
             "Noto Serif Ottoman Siyaq",
-            "Noto Znamenny Musical Notation"
+            "Noto Znamenny Musical Notation",
         ],
-        "swc_Latn": [
+        swc_Latn: [
             "Noto Music",
             "Noto Sans Cypro Minoan",
             "Noto Sans Indic Siyaq Numbers",
@@ -9861,22 +9814,22 @@
             "Noto Sans Symbols 2",
             "Noto Serif Khitan Small Script",
             "Noto Serif Ottoman Siyaq",
-            "Noto Znamenny Musical Notation"
+            "Noto Znamenny Musical Notation",
         ],
-        "swg_Latn": [
+        swg_Latn: [
             "Noto Sans",
             "Noto Sans Display",
             "Noto Sans Mono",
             "Noto Serif",
-            "Noto Serif Display"
+            "Noto Serif Display",
         ],
-        "swv_Deva": [
+        swv_Deva: [
             "Noto Sans",
             "Noto Sans Devanagari",
             "Noto Sans Devanagari UI",
-            "Noto Serif Devanagari"
+            "Noto Serif Devanagari",
         ],
-        "sxb_Latn": [
+        sxb_Latn: [
             "Noto Music",
             "Noto Sans Cypro Minoan",
             "Noto Sans Indic Siyaq Numbers",
@@ -9886,31 +9839,31 @@
             "Noto Sans Symbols 2",
             "Noto Serif Khitan Small Script",
             "Noto Serif Ottoman Siyaq",
-            "Noto Znamenny Musical Notation"
+            "Noto Znamenny Musical Notation",
         ],
-        "sxn_Latn": [
+        sxn_Latn: [
             "Noto Sans",
             "Noto Sans Display",
             "Noto Sans Mono",
             "Noto Serif",
-            "Noto Serif Display"
+            "Noto Serif Display",
         ],
-        "syc_Syrc": ["Noto Sans Syriac", "Noto Sans Syriac Eastern"],
-        "syi_Latn": [
+        syc_Syrc: ["Noto Sans Syriac", "Noto Sans Syriac Eastern"],
+        syi_Latn: [
             "Noto Sans",
             "Noto Sans Display",
             "Noto Sans Mono",
             "Noto Serif",
-            "Noto Serif Display"
+            "Noto Serif Display",
         ],
-        "syl_Beng": [
+        syl_Beng: [
             "Noto Sans Bengali",
             "Noto Sans Bengali UI",
-            "Noto Serif Bengali"
+            "Noto Serif Bengali",
         ],
-        "syl_Sylo": ["Noto Sans Syloti Nagri"],
-        "syr_Syrc": ["Noto Sans Syriac", "Noto Sans Syriac Eastern"],
-        "szl_Latn": [
+        syl_Sylo: ["Noto Sans Syloti Nagri"],
+        syr_Syrc: ["Noto Sans Syriac", "Noto Sans Syriac Eastern"],
+        szl_Latn: [
             "Noto Music",
             "Noto Sans",
             "Noto Sans Cypro Minoan",
@@ -9925,78 +9878,78 @@
             "Noto Serif Display",
             "Noto Serif Khitan Small Script",
             "Noto Serif Ottoman Siyaq",
-            "Noto Znamenny Musical Notation"
+            "Noto Znamenny Musical Notation",
         ],
-        "ta_Taml": [
+        ta_Taml: [
             "Noto Sans Tamil",
             "Noto Sans Tamil Supplement",
             "Noto Sans Tamil UI",
-            "Noto Serif Tamil"
+            "Noto Serif Tamil",
         ],
-        "tab_Cyrl": [
+        tab_Cyrl: [
             "Noto Sans",
             "Noto Sans Display",
             "Noto Sans Mono",
             "Noto Serif",
-            "Noto Serif Display"
+            "Noto Serif Display",
         ],
-        "taj_Deva": [
+        taj_Deva: [
             "Noto Sans",
             "Noto Sans Devanagari",
             "Noto Sans Devanagari UI",
-            "Noto Serif Devanagari"
+            "Noto Serif Devanagari",
         ],
-        "taj_Tibt": ["Noto Serif Tibetan"],
-        "taq_Latn": [
+        taj_Tibt: ["Noto Serif Tibetan"],
+        taq_Latn: [
             "Noto Sans",
             "Noto Sans Display",
             "Noto Sans Mono",
             "Noto Serif",
-            "Noto Serif Display"
+            "Noto Serif Display",
         ],
-        "taq_Tfng": ["Noto Sans Tifinagh"],
-        "tbw_Latn": [
+        taq_Tfng: ["Noto Sans Tifinagh"],
+        tbw_Latn: [
             "Noto Sans",
             "Noto Sans Display",
             "Noto Sans Mono",
             "Noto Serif",
-            "Noto Serif Display"
+            "Noto Serif Display",
         ],
-        "tbw_Tagb": ["Noto Sans Tagbanwa"],
-        "tbz_Latn": [
+        tbw_Tagb: ["Noto Sans Tagbanwa"],
+        tbz_Latn: [
             "Noto Sans",
             "Noto Sans Display",
             "Noto Sans Mono",
             "Noto Serif",
-            "Noto Serif Display"
+            "Noto Serif Display",
         ],
-        "tca_Latn": [
+        tca_Latn: [
             "Noto Sans",
             "Noto Sans Display",
             "Noto Sans Mono",
             "Noto Serif",
-            "Noto Serif Display"
+            "Noto Serif Display",
         ],
-        "tcy_Knda": [
+        tcy_Knda: [
             "Noto Sans Kannada",
             "Noto Sans Kannada UI",
-            "Noto Serif Kannada"
+            "Noto Serif Kannada",
         ],
-        "tdd_Tale": ["Noto Sans Tai Le"],
-        "tdg_Deva": [
+        tdd_Tale: ["Noto Sans Tai Le"],
+        tdg_Deva: [
             "Noto Sans",
             "Noto Sans Devanagari",
             "Noto Sans Devanagari UI",
-            "Noto Serif Devanagari"
+            "Noto Serif Devanagari",
         ],
-        "tdg_Tibt": ["Noto Serif Tibetan"],
-        "tdh_Deva": [
+        tdg_Tibt: ["Noto Serif Tibetan"],
+        tdh_Deva: [
             "Noto Sans",
             "Noto Sans Devanagari",
             "Noto Sans Devanagari UI",
-            "Noto Serif Devanagari"
+            "Noto Serif Devanagari",
         ],
-        "tdt_Latn": [
+        tdt_Latn: [
             "Noto Music",
             "Noto Sans",
             "Noto Sans Cypro Minoan",
@@ -10011,17 +9964,17 @@
             "Noto Serif Display",
             "Noto Serif Khitan Small Script",
             "Noto Serif Ottoman Siyaq",
-            "Noto Znamenny Musical Notation"
+            "Noto Znamenny Musical Notation",
         ],
-        "te_Telu": ["Noto Sans Telugu", "Noto Serif Telugu"],
-        "tem_Latn": [
+        te_Telu: ["Noto Sans Telugu", "Noto Serif Telugu"],
+        tem_Latn: [
             "Noto Sans",
             "Noto Sans Display",
             "Noto Sans Mono",
             "Noto Serif",
-            "Noto Serif Display"
+            "Noto Serif Display",
         ],
-        "teo_Latn": [
+        teo_Latn: [
             "Noto Music",
             "Noto Sans",
             "Noto Sans Cypro Minoan",
@@ -10036,16 +9989,16 @@
             "Noto Serif",
             "Noto Serif Display",
             "Noto Serif Khitan Small Script",
-            "Noto Serif Ottoman Siyaq"
+            "Noto Serif Ottoman Siyaq",
         ],
-        "ter_Latn": [
+        ter_Latn: [
             "Noto Sans",
             "Noto Sans Display",
             "Noto Sans Mono",
             "Noto Serif",
-            "Noto Serif Display"
+            "Noto Serif Display",
         ],
-        "tet_Latn": [
+        tet_Latn: [
             "Noto Music",
             "Noto Sans",
             "Noto Sans Cypro Minoan",
@@ -10060,23 +10013,23 @@
             "Noto Serif Display",
             "Noto Serif Khitan Small Script",
             "Noto Serif Ottoman Siyaq",
-            "Noto Znamenny Musical Notation"
+            "Noto Znamenny Musical Notation",
         ],
-        "tg_Arab": [
+        tg_Arab: [
             "Noto Kufi Arabic",
             "Noto Naskh Arabic",
             "Noto Naskh Arabic UI",
             "Noto Sans Arabic",
-            "Noto Sans Arabic UI"
+            "Noto Sans Arabic UI",
         ],
-        "tg_Cyrl": [
+        tg_Cyrl: [
             "Noto Sans",
             "Noto Sans Display",
             "Noto Sans Mono",
             "Noto Serif",
-            "Noto Serif Display"
+            "Noto Serif Display",
         ],
-        "tg_Latn": [
+        tg_Latn: [
             "Noto Music",
             "Noto Sans",
             "Noto Sans Cypro Minoan",
@@ -10091,47 +10044,47 @@
             "Noto Serif Display",
             "Noto Serif Khitan Small Script",
             "Noto Serif Ottoman Siyaq",
-            "Noto Znamenny Musical Notation"
+            "Noto Znamenny Musical Notation",
         ],
-        "th_Thai": [
+        th_Thai: [
             "Noto Sans Thai",
             "Noto Sans Thai Looped",
             "Noto Sans Thai UI",
-            "Noto Serif Thai"
+            "Noto Serif Thai",
         ],
-        "thf_Deva": [
+        thf_Deva: [
             "Noto Sans",
             "Noto Sans Devanagari",
             "Noto Sans Devanagari UI",
-            "Noto Serif Devanagari"
+            "Noto Serif Devanagari",
         ],
-        "thl_Deva": [
+        thl_Deva: [
             "Noto Sans",
             "Noto Sans Devanagari",
             "Noto Sans Devanagari UI",
-            "Noto Serif Devanagari"
+            "Noto Serif Devanagari",
         ],
-        "thq_Deva": [
+        thq_Deva: [
             "Noto Sans",
             "Noto Sans Devanagari",
             "Noto Sans Devanagari UI",
-            "Noto Serif Devanagari"
+            "Noto Serif Devanagari",
         ],
-        "thr_Deva": [
+        thr_Deva: [
             "Noto Sans",
             "Noto Sans Devanagari",
             "Noto Sans Devanagari UI",
-            "Noto Serif Devanagari"
+            "Noto Serif Devanagari",
         ],
-        "ths_Deva": [
+        ths_Deva: [
             "Noto Sans",
             "Noto Sans Devanagari",
             "Noto Sans Devanagari UI",
-            "Noto Serif Devanagari"
+            "Noto Serif Devanagari",
         ],
-        "ti_Ethi": ["Noto Sans Ethiopic", "Noto Serif Ethiopic"],
-        "tig_Ethi": ["Noto Sans Ethiopic", "Noto Serif Ethiopic"],
-        "tiv_Latn": [
+        ti_Ethi: ["Noto Sans Ethiopic", "Noto Serif Ethiopic"],
+        tig_Ethi: ["Noto Sans Ethiopic", "Noto Serif Ethiopic"],
+        tiv_Latn: [
             "Noto Music",
             "Noto Sans",
             "Noto Sans Cypro Minoan",
@@ -10146,9 +10099,9 @@
             "Noto Serif Display",
             "Noto Serif Khitan Small Script",
             "Noto Serif Ottoman Siyaq",
-            "Noto Znamenny Musical Notation"
+            "Noto Znamenny Musical Notation",
         ],
-        "tiw_Latn": [
+        tiw_Latn: [
             "Noto Music",
             "Noto Sans",
             "Noto Sans Cypro Minoan",
@@ -10163,9 +10116,9 @@
             "Noto Serif Display",
             "Noto Serif Khitan Small Script",
             "Noto Serif Ottoman Siyaq",
-            "Noto Znamenny Musical Notation"
+            "Noto Znamenny Musical Notation",
         ],
-        "tjs_Latn": [
+        tjs_Latn: [
             "Noto Music",
             "Noto Sans",
             "Noto Sans Cypro Minoan",
@@ -10180,23 +10133,23 @@
             "Noto Serif Display",
             "Noto Serif Khitan Small Script",
             "Noto Serif Ottoman Siyaq",
-            "Noto Znamenny Musical Notation"
+            "Noto Znamenny Musical Notation",
         ],
-        "tk_Arab": [
+        tk_Arab: [
             "Noto Kufi Arabic",
             "Noto Naskh Arabic",
             "Noto Naskh Arabic UI",
             "Noto Sans Arabic",
-            "Noto Sans Arabic UI"
+            "Noto Sans Arabic UI",
         ],
-        "tk_Cyrl": [
+        tk_Cyrl: [
             "Noto Sans",
             "Noto Sans Display",
             "Noto Sans Mono",
             "Noto Serif",
-            "Noto Serif Display"
+            "Noto Serif Display",
         ],
-        "tk_Latn": [
+        tk_Latn: [
             "Noto Music",
             "Noto Sans",
             "Noto Sans Cypro Minoan",
@@ -10211,9 +10164,9 @@
             "Noto Serif Display",
             "Noto Serif Khitan Small Script",
             "Noto Serif Ottoman Siyaq",
-            "Noto Znamenny Musical Notation"
+            "Noto Znamenny Musical Notation",
         ],
-        "tke_Latn": [
+        tke_Latn: [
             "Noto Music",
             "Noto Sans Cypro Minoan",
             "Noto Sans Indic Siyaq Numbers",
@@ -10223,9 +10176,9 @@
             "Noto Sans Symbols 2",
             "Noto Serif Khitan Small Script",
             "Noto Serif Ottoman Siyaq",
-            "Noto Znamenny Musical Notation"
+            "Noto Znamenny Musical Notation",
         ],
-        "tkl_Latn": [
+        tkl_Latn: [
             "Noto Music",
             "Noto Sans",
             "Noto Sans Cypro Minoan",
@@ -10240,43 +10193,43 @@
             "Noto Serif Display",
             "Noto Serif Khitan Small Script",
             "Noto Serif Ottoman Siyaq",
-            "Noto Znamenny Musical Notation"
+            "Noto Znamenny Musical Notation",
         ],
-        "tkr_Cyrl": [
+        tkr_Cyrl: [
             "Noto Sans",
             "Noto Sans Display",
             "Noto Sans Mono",
             "Noto Serif",
-            "Noto Serif Display"
+            "Noto Serif Display",
         ],
-        "tkr_Latn": [
+        tkr_Latn: [
             "Noto Sans",
             "Noto Sans Display",
             "Noto Sans Mono",
             "Noto Serif",
-            "Noto Serif Display"
+            "Noto Serif Display",
         ],
-        "tkt_Deva": [
+        tkt_Deva: [
             "Noto Sans",
             "Noto Sans Devanagari",
             "Noto Sans Devanagari UI",
-            "Noto Serif Devanagari"
+            "Noto Serif Devanagari",
         ],
-        "tlh_Latn": [
+        tlh_Latn: [
             "Noto Sans",
             "Noto Sans Display",
             "Noto Sans Mono",
             "Noto Serif",
-            "Noto Serif Display"
+            "Noto Serif Display",
         ],
-        "tli_Latn": [
+        tli_Latn: [
             "Noto Sans",
             "Noto Sans Display",
             "Noto Sans Mono",
             "Noto Serif",
-            "Noto Serif Display"
+            "Noto Serif Display",
         ],
-        "tlj_Latn": [
+        tlj_Latn: [
             "Noto Music",
             "Noto Sans Cypro Minoan",
             "Noto Sans Indic Siyaq Numbers",
@@ -10286,37 +10239,37 @@
             "Noto Sans Symbols 2",
             "Noto Serif Khitan Small Script",
             "Noto Serif Ottoman Siyaq",
-            "Noto Znamenny Musical Notation"
+            "Noto Znamenny Musical Notation",
         ],
-        "tly_Arab": [
+        tly_Arab: [
             "Noto Kufi Arabic",
             "Noto Naskh Arabic",
             "Noto Naskh Arabic UI",
             "Noto Sans Arabic",
-            "Noto Sans Arabic UI"
+            "Noto Sans Arabic UI",
         ],
-        "tly_Cyrl": [
+        tly_Cyrl: [
             "Noto Sans",
             "Noto Sans Display",
             "Noto Sans Mono",
             "Noto Serif",
-            "Noto Serif Display"
+            "Noto Serif Display",
         ],
-        "tly_Latn": [
+        tly_Latn: [
             "Noto Sans",
             "Noto Sans Display",
             "Noto Sans Mono",
             "Noto Serif",
-            "Noto Serif Display"
+            "Noto Serif Display",
         ],
-        "tmh_Latn": [
+        tmh_Latn: [
             "Noto Sans",
             "Noto Sans Display",
             "Noto Sans Mono",
             "Noto Serif",
-            "Noto Serif Display"
+            "Noto Serif Display",
         ],
-        "tn_Latn": [
+        tn_Latn: [
             "Noto Music",
             "Noto Sans",
             "Noto Sans Cypro Minoan",
@@ -10331,37 +10284,37 @@
             "Noto Serif Display",
             "Noto Serif Khitan Small Script",
             "Noto Serif Ottoman Siyaq",
-            "Noto Znamenny Musical Notation"
+            "Noto Znamenny Musical Notation",
         ],
-        "tnr_Latn": [
+        tnr_Latn: [
             "Noto Sans",
             "Noto Sans Display",
             "Noto Sans Mono",
             "Noto Serif",
-            "Noto Serif Display"
+            "Noto Serif Display",
         ],
-        "to_Latn": [
+        to_Latn: [
             "Noto Sans",
             "Noto Sans Display",
             "Noto Sans Mono",
             "Noto Serif",
-            "Noto Serif Display"
+            "Noto Serif Display",
         ],
-        "tob_Latn": [
+        tob_Latn: [
             "Noto Sans",
             "Noto Sans Display",
             "Noto Sans Mono",
             "Noto Serif",
-            "Noto Serif Display"
+            "Noto Serif Display",
         ],
-        "tog_Latn": [
+        tog_Latn: [
             "Noto Sans",
             "Noto Sans Display",
             "Noto Sans Mono",
             "Noto Serif",
-            "Noto Serif Display"
+            "Noto Serif Display",
         ],
-        "toi_Latn": [
+        toi_Latn: [
             "Noto Music",
             "Noto Sans",
             "Noto Sans Cypro Minoan",
@@ -10376,9 +10329,9 @@
             "Noto Serif Display",
             "Noto Serif Khitan Small Script",
             "Noto Serif Ottoman Siyaq",
-            "Noto Znamenny Musical Notation"
+            "Noto Znamenny Musical Notation",
         ],
-        "toj_Latn": [
+        toj_Latn: [
             "Noto Music",
             "Noto Sans",
             "Noto Sans Cypro Minoan",
@@ -10393,9 +10346,9 @@
             "Noto Serif Display",
             "Noto Serif Khitan Small Script",
             "Noto Serif Ottoman Siyaq",
-            "Noto Znamenny Musical Notation"
+            "Noto Znamenny Musical Notation",
         ],
-        "top_Latn": [
+        top_Latn: [
             "Noto Music",
             "Noto Sans",
             "Noto Sans Cypro Minoan",
@@ -10410,9 +10363,9 @@
             "Noto Serif Display",
             "Noto Serif Khitan Small Script",
             "Noto Serif Ottoman Siyaq",
-            "Noto Znamenny Musical Notation"
+            "Noto Znamenny Musical Notation",
         ],
-        "toq_Latn": [
+        toq_Latn: [
             "Noto Music",
             "Noto Sans Cypro Minoan",
             "Noto Sans Indic Siyaq Numbers",
@@ -10422,9 +10375,9 @@
             "Noto Sans Symbols 2",
             "Noto Serif Khitan Small Script",
             "Noto Serif Ottoman Siyaq",
-            "Noto Znamenny Musical Notation"
+            "Noto Znamenny Musical Notation",
         ],
-        "tpi_Latn": [
+        tpi_Latn: [
             "Noto Music",
             "Noto Sans",
             "Noto Sans Cypro Minoan",
@@ -10440,16 +10393,16 @@
             "Noto Serif Display",
             "Noto Serif Khitan Small Script",
             "Noto Serif Ottoman Siyaq",
-            "Noto Znamenny Musical Notation"
+            "Noto Znamenny Musical Notation",
         ],
-        "tr_Arab": [
+        tr_Arab: [
             "Noto Kufi Arabic",
             "Noto Naskh Arabic",
             "Noto Naskh Arabic UI",
             "Noto Sans Arabic",
-            "Noto Sans Arabic UI"
+            "Noto Sans Arabic UI",
         ],
-        "tr_Latn": [
+        tr_Latn: [
             "Noto Music",
             "Noto Sans",
             "Noto Sans Cypro Minoan",
@@ -10464,36 +10417,36 @@
             "Noto Serif Display",
             "Noto Serif Khitan Small Script",
             "Noto Serif Ottoman Siyaq",
-            "Noto Znamenny Musical Notation"
+            "Noto Znamenny Musical Notation",
         ],
-        "trp_Beng": [
+        trp_Beng: [
             "Noto Sans Bengali",
             "Noto Sans Bengali UI",
-            "Noto Serif Bengali"
+            "Noto Serif Bengali",
         ],
-        "tru_Latn": [
+        tru_Latn: [
             "Noto Sans",
             "Noto Sans Display",
             "Noto Sans Mono",
             "Noto Serif",
-            "Noto Serif Display"
+            "Noto Serif Display",
         ],
-        "tru_Syrc": ["Noto Sans Syriac", "Noto Sans Syriac Eastern"],
-        "trv_Latn": [
+        tru_Syrc: ["Noto Sans Syriac", "Noto Sans Syriac Eastern"],
+        trv_Latn: [
             "Noto Sans",
             "Noto Sans Display",
             "Noto Sans Mono",
             "Noto Serif",
-            "Noto Serif Display"
+            "Noto Serif Display",
         ],
-        "trw_Arab": [
+        trw_Arab: [
             "Noto Kufi Arabic",
             "Noto Naskh Arabic",
             "Noto Naskh Arabic UI",
             "Noto Sans Arabic",
-            "Noto Sans Arabic UI"
+            "Noto Sans Arabic UI",
         ],
-        "ts_Latn": [
+        ts_Latn: [
             "Noto Music",
             "Noto Sans",
             "Noto Sans Cypro Minoan",
@@ -10509,37 +10462,37 @@
             "Noto Serif Display",
             "Noto Serif Khitan Small Script",
             "Noto Serif Ottoman Siyaq",
-            "Noto Znamenny Musical Notation"
+            "Noto Znamenny Musical Notation",
         ],
-        "tsd_Grek": [
+        tsd_Grek: [
             "Noto Sans",
             "Noto Sans Display",
             "Noto Sans Mono",
             "Noto Serif",
-            "Noto Serif Display"
+            "Noto Serif Display",
         ],
-        "tsf_Deva": [
+        tsf_Deva: [
             "Noto Sans",
             "Noto Sans Devanagari",
             "Noto Sans Devanagari UI",
-            "Noto Serif Devanagari"
+            "Noto Serif Devanagari",
         ],
-        "tsg_Latn": [
+        tsg_Latn: [
             "Noto Sans",
             "Noto Sans Display",
             "Noto Sans Mono",
             "Noto Serif",
-            "Noto Serif Display"
+            "Noto Serif Display",
         ],
-        "tsi_Latn": [
+        tsi_Latn: [
             "Noto Sans",
             "Noto Sans Display",
             "Noto Sans Mono",
             "Noto Serif",
-            "Noto Serif Display"
+            "Noto Serif Display",
         ],
-        "tsj_Tibt": ["Noto Serif Tibetan"],
-        "tsz_Latn": [
+        tsj_Tibt: ["Noto Serif Tibetan"],
+        tsz_Latn: [
             "Noto Music",
             "Noto Sans",
             "Noto Sans Cypro Minoan",
@@ -10554,23 +10507,23 @@
             "Noto Serif Display",
             "Noto Serif Khitan Small Script",
             "Noto Serif Ottoman Siyaq",
-            "Noto Znamenny Musical Notation"
+            "Noto Znamenny Musical Notation",
         ],
-        "tt_Arab": [
+        tt_Arab: [
             "Noto Kufi Arabic",
             "Noto Naskh Arabic",
             "Noto Naskh Arabic UI",
             "Noto Sans Arabic",
-            "Noto Sans Arabic UI"
+            "Noto Sans Arabic UI",
         ],
-        "tt_Cyrl": [
+        tt_Cyrl: [
             "Noto Sans",
             "Noto Sans Display",
             "Noto Sans Mono",
             "Noto Serif",
-            "Noto Serif Display"
+            "Noto Serif Display",
         ],
-        "tt_Latn": [
+        tt_Latn: [
             "Noto Music",
             "Noto Sans",
             "Noto Sans Cypro Minoan",
@@ -10585,43 +10538,43 @@
             "Noto Serif Display",
             "Noto Serif Khitan Small Script",
             "Noto Serif Ottoman Siyaq",
-            "Noto Znamenny Musical Notation"
+            "Noto Znamenny Musical Notation",
         ],
-        "ttj_Latn": [
+        ttj_Latn: [
             "Noto Sans",
             "Noto Sans Display",
             "Noto Sans Mono",
             "Noto Serif",
-            "Noto Serif Display"
+            "Noto Serif Display",
         ],
-        "tts_Thai": [
+        tts_Thai: [
             "Noto Sans Thai",
             "Noto Sans Thai Looped",
             "Noto Sans Thai UI",
-            "Noto Serif Thai"
+            "Noto Serif Thai",
         ],
-        "ttt_Arab": [
+        ttt_Arab: [
             "Noto Kufi Arabic",
             "Noto Naskh Arabic",
             "Noto Naskh Arabic UI",
             "Noto Sans Arabic",
-            "Noto Sans Arabic UI"
+            "Noto Sans Arabic UI",
         ],
-        "ttt_Cyrl": [
+        ttt_Cyrl: [
             "Noto Sans",
             "Noto Sans Display",
             "Noto Sans Mono",
             "Noto Serif",
-            "Noto Serif Display"
+            "Noto Serif Display",
         ],
-        "ttt_Latn": [
+        ttt_Latn: [
             "Noto Sans",
             "Noto Sans Display",
             "Noto Sans Mono",
             "Noto Serif",
-            "Noto Serif Display"
+            "Noto Serif Display",
         ],
-        "tul_Latn": [
+        tul_Latn: [
             "Noto Music",
             "Noto Sans Cypro Minoan",
             "Noto Sans Indic Siyaq Numbers",
@@ -10631,9 +10584,9 @@
             "Noto Sans Symbols 2",
             "Noto Serif Khitan Small Script",
             "Noto Serif Ottoman Siyaq",
-            "Noto Znamenny Musical Notation"
+            "Noto Znamenny Musical Notation",
         ],
-        "tum_Latn": [
+        tum_Latn: [
             "Noto Music",
             "Noto Sans",
             "Noto Sans Cypro Minoan",
@@ -10649,9 +10602,9 @@
             "Noto Serif Display",
             "Noto Serif Khitan Small Script",
             "Noto Serif Ottoman Siyaq",
-            "Noto Znamenny Musical Notation"
+            "Noto Znamenny Musical Notation",
         ],
-        "tvd_Latn": [
+        tvd_Latn: [
             "Noto Music",
             "Noto Sans Cypro Minoan",
             "Noto Sans Indic Siyaq Numbers",
@@ -10661,25 +10614,25 @@
             "Noto Sans Symbols 2",
             "Noto Serif Khitan Small Script",
             "Noto Serif Ottoman Siyaq",
-            "Noto Znamenny Musical Notation"
+            "Noto Znamenny Musical Notation",
         ],
-        "tvl_Latn": [
+        tvl_Latn: [
             "Noto Sans",
             "Noto Sans Display",
             "Noto Sans Mono",
             "Noto Serif",
-            "Noto Serif Display"
+            "Noto Serif Display",
         ],
-        "twq_Latn": [
+        twq_Latn: [
             "Noto Sans",
             "Noto Sans Display",
             "Noto Sans Mono",
             "Noto Serif",
-            "Noto Serif Display"
+            "Noto Serif Display",
         ],
-        "txg_Tang": ["Noto Serif Tangut"],
-        "txo_Toto": ["Noto Serif Toto"],
-        "ty_Latn": [
+        txg_Tang: ["Noto Serif Tangut"],
+        txo_Toto: ["Noto Serif Toto"],
+        ty_Latn: [
             "Noto Music",
             "Noto Sans",
             "Noto Sans Cypro Minoan",
@@ -10694,16 +10647,16 @@
             "Noto Serif Display",
             "Noto Serif Khitan Small Script",
             "Noto Serif Ottoman Siyaq",
-            "Noto Znamenny Musical Notation"
+            "Noto Znamenny Musical Notation",
         ],
-        "tyv_Cyrl": [
+        tyv_Cyrl: [
             "Noto Sans",
             "Noto Sans Display",
             "Noto Sans Mono",
             "Noto Serif",
-            "Noto Serif Display"
+            "Noto Serif Display",
         ],
-        "tzh_Latn": [
+        tzh_Latn: [
             "Noto Music",
             "Noto Sans",
             "Noto Sans Cypro Minoan",
@@ -10718,17 +10671,17 @@
             "Noto Serif Display",
             "Noto Serif Khitan Small Script",
             "Noto Serif Ottoman Siyaq",
-            "Noto Znamenny Musical Notation"
+            "Noto Znamenny Musical Notation",
         ],
-        "tzm_Latn": [
+        tzm_Latn: [
             "Noto Sans",
             "Noto Sans Display",
             "Noto Sans Mono",
             "Noto Serif",
-            "Noto Serif Display"
+            "Noto Serif Display",
         ],
-        "tzm_Tfng": ["Noto Sans Tifinagh"],
-        "tzo_Latn": [
+        tzm_Tfng: ["Noto Sans Tifinagh"],
+        tzo_Latn: [
             "Noto Music",
             "Noto Sans",
             "Noto Sans Cypro Minoan",
@@ -10743,51 +10696,51 @@
             "Noto Serif Display",
             "Noto Serif Khitan Small Script",
             "Noto Serif Ottoman Siyaq",
-            "Noto Znamenny Musical Notation"
+            "Noto Znamenny Musical Notation",
         ],
-        "ude_Cyrl": [
+        ude_Cyrl: [
             "Noto Sans",
             "Noto Sans Display",
             "Noto Sans Mono",
             "Noto Serif",
-            "Noto Serif Display"
+            "Noto Serif Display",
         ],
-        "udm_Cyrl": [
+        udm_Cyrl: [
             "Noto Sans",
             "Noto Sans Display",
             "Noto Sans Mono",
             "Noto Serif",
-            "Noto Serif Display"
+            "Noto Serif Display",
         ],
-        "udm_Latn": [
+        udm_Latn: [
             "Noto Sans",
             "Noto Sans Display",
             "Noto Sans Mono",
             "Noto Serif",
-            "Noto Serif Display"
+            "Noto Serif Display",
         ],
-        "udu_Latn": [
+        udu_Latn: [
             "Noto Sans",
             "Noto Sans Display",
             "Noto Sans Mono",
             "Noto Serif",
-            "Noto Serif Display"
+            "Noto Serif Display",
         ],
-        "ug_Arab": [
+        ug_Arab: [
             "Noto Kufi Arabic",
             "Noto Naskh Arabic",
             "Noto Naskh Arabic UI",
             "Noto Sans Arabic",
-            "Noto Sans Arabic UI"
+            "Noto Sans Arabic UI",
         ],
-        "ug_Cyrl": [
+        ug_Cyrl: [
             "Noto Sans",
             "Noto Sans Display",
             "Noto Sans Mono",
             "Noto Serif",
-            "Noto Serif Display"
+            "Noto Serif Display",
         ],
-        "ug_Latn": [
+        ug_Latn: [
             "Noto Music",
             "Noto Sans",
             "Noto Sans Cypro Minoan",
@@ -10802,67 +10755,63 @@
             "Noto Serif Display",
             "Noto Serif Khitan Small Script",
             "Noto Serif Ottoman Siyaq",
-            "Noto Znamenny Musical Notation"
+            "Noto Znamenny Musical Notation",
         ],
-        "uga_Ugar": ["Noto Sans Ugaritic"],
-        "uk_Cyrl": [
+        uga_Ugar: ["Noto Sans Ugaritic"],
+        uk_Cyrl: [
             "Noto Sans",
             "Noto Sans Display",
             "Noto Sans Mono",
             "Noto Serif",
-            "Noto Serif Display"
+            "Noto Serif Display",
         ],
-        "uli_Latn": [
+        uli_Latn: [
             "Noto Sans",
             "Noto Sans Display",
             "Noto Sans Mono",
             "Noto Serif",
-            "Noto Serif Display"
+            "Noto Serif Display",
         ],
-        "umb_Latn": [
+        umb_Latn: [
             "Noto Sans",
             "Noto Sans Display",
             "Noto Sans Mono",
             "Noto Serif",
-            "Noto Serif Display"
+            "Noto Serif Display",
         ],
-        "unr_Beng": [
+        unr_Beng: [
             "Noto Sans Bengali",
             "Noto Sans Bengali UI",
-            "Noto Serif Bengali"
+            "Noto Serif Bengali",
         ],
-        "unr_Deva": [
+        unr_Deva: [
             "Noto Sans",
             "Noto Sans Devanagari",
             "Noto Sans Devanagari UI",
-            "Noto Serif Devanagari"
+            "Noto Serif Devanagari",
         ],
-        "unr_Nagm": ["Noto Sans Nag Mundari"],
-        "unr_Orya": [
-            "Noto Sans Oriya",
-            "Noto Sans Oriya UI",
-            "Noto Serif Oriya"
-        ],
-        "unx_Beng": [
+        unr_Nagm: ["Noto Sans Nag Mundari"],
+        unr_Orya: ["Noto Sans Oriya", "Noto Sans Oriya UI", "Noto Serif Oriya"],
+        unx_Beng: [
             "Noto Sans Bengali",
             "Noto Sans Bengali UI",
-            "Noto Serif Bengali"
+            "Noto Serif Bengali",
         ],
-        "unx_Deva": [
+        unx_Deva: [
             "Noto Sans",
             "Noto Sans Devanagari",
             "Noto Sans Devanagari UI",
-            "Noto Serif Devanagari"
+            "Noto Serif Devanagari",
         ],
-        "ur_Arab": [
+        ur_Arab: [
             "Noto Kufi Arabic",
             "Noto Naskh Arabic",
             "Noto Naskh Arabic UI",
             "Noto Nastaliq Urdu",
             "Noto Sans Arabic",
-            "Noto Sans Arabic UI"
+            "Noto Sans Arabic UI",
         ],
-        "ura_Latn": [
+        ura_Latn: [
             "Noto Music",
             "Noto Sans",
             "Noto Sans Cypro Minoan",
@@ -10877,46 +10826,46 @@
             "Noto Serif Display",
             "Noto Serif Khitan Small Script",
             "Noto Serif Ottoman Siyaq",
-            "Noto Znamenny Musical Notation"
+            "Noto Znamenny Musical Notation",
         ],
-        "uth_Latn": ["Noto Znamenny Musical Notation"],
-        "uz_Arab": [
+        uth_Latn: ["Noto Znamenny Musical Notation"],
+        uz_Arab: [
             "Noto Kufi Arabic",
             "Noto Naskh Arabic",
             "Noto Naskh Arabic UI",
             "Noto Sans Arabic",
-            "Noto Sans Arabic UI"
+            "Noto Sans Arabic UI",
         ],
-        "uz_Cyrl": [
+        uz_Cyrl: [
             "Noto Sans",
             "Noto Sans Display",
             "Noto Sans Mono",
             "Noto Serif",
-            "Noto Serif Display"
+            "Noto Serif Display",
         ],
-        "uz_Latn": [
+        uz_Latn: [
             "Noto Sans",
             "Noto Sans Display",
             "Noto Sans Mono",
             "Noto Serif",
-            "Noto Serif Display"
+            "Noto Serif Display",
         ],
-        "vai_Latn": [
+        vai_Latn: [
             "Noto Sans",
             "Noto Sans Display",
             "Noto Sans Mono",
             "Noto Serif",
-            "Noto Serif Display"
+            "Noto Serif Display",
         ],
-        "vai_Vaii": ["Noto Sans Vai"],
-        "ve_Latn": [
+        vai_Vaii: ["Noto Sans Vai"],
+        ve_Latn: [
             "Noto Sans",
             "Noto Sans Display",
             "Noto Sans Mono",
             "Noto Serif",
-            "Noto Serif Display"
+            "Noto Serif Display",
         ],
-        "vec_Latn": [
+        vec_Latn: [
             "Noto Music",
             "Noto Sans",
             "Noto Sans Cypro Minoan",
@@ -10931,9 +10880,9 @@
             "Noto Serif Display",
             "Noto Serif Khitan Small Script",
             "Noto Serif Ottoman Siyaq",
-            "Noto Znamenny Musical Notation"
+            "Noto Znamenny Musical Notation",
         ],
-        "vep_Latn": [
+        vep_Latn: [
             "Noto Music",
             "Noto Sans",
             "Noto Sans Cypro Minoan",
@@ -10948,24 +10897,24 @@
             "Noto Serif Display",
             "Noto Serif Khitan Small Script",
             "Noto Serif Ottoman Siyaq",
-            "Noto Znamenny Musical Notation"
+            "Noto Znamenny Musical Notation",
         ],
-        "vi_Hani": ["Noto Serif SC"],
-        "vi_Latn": [
+        vi_Hani: ["Noto Serif SC"],
+        vi_Latn: [
             "Noto Sans",
             "Noto Sans Display",
             "Noto Sans Mono",
             "Noto Serif",
-            "Noto Serif Display"
+            "Noto Serif Display",
         ],
-        "vic_Latn": [
+        vic_Latn: [
             "Noto Sans",
             "Noto Sans Display",
             "Noto Sans Mono",
             "Noto Serif",
-            "Noto Serif Display"
+            "Noto Serif Display",
         ],
-        "vid_Latn": [
+        vid_Latn: [
             "Noto Music",
             "Noto Sans Cypro Minoan",
             "Noto Sans Indic Siyaq Numbers",
@@ -10975,23 +10924,23 @@
             "Noto Sans Symbols 2",
             "Noto Serif Khitan Small Script",
             "Noto Serif Ottoman Siyaq",
-            "Noto Znamenny Musical Notation"
+            "Noto Znamenny Musical Notation",
         ],
-        "vls_Latn": [
+        vls_Latn: [
             "Noto Sans",
             "Noto Sans Display",
             "Noto Sans Mono",
             "Noto Serif",
-            "Noto Serif Display"
+            "Noto Serif Display",
         ],
-        "vmf_Latn": [
+        vmf_Latn: [
             "Noto Sans",
             "Noto Sans Display",
             "Noto Sans Mono",
             "Noto Serif",
-            "Noto Serif Display"
+            "Noto Serif Display",
         ],
-        "vmw_Latn": [
+        vmw_Latn: [
             "Noto Music",
             "Noto Sans",
             "Noto Sans Cypro Minoan",
@@ -11006,9 +10955,9 @@
             "Noto Serif Display",
             "Noto Serif Khitan Small Script",
             "Noto Serif Ottoman Siyaq",
-            "Noto Znamenny Musical Notation"
+            "Noto Znamenny Musical Notation",
         ],
-        "vo_Latn": [
+        vo_Latn: [
             "Noto Music",
             "Noto Sans",
             "Noto Sans Cypro Minoan",
@@ -11023,16 +10972,16 @@
             "Noto Serif Display",
             "Noto Serif Khitan Small Script",
             "Noto Serif Ottoman Siyaq",
-            "Noto Znamenny Musical Notation"
+            "Noto Znamenny Musical Notation",
         ],
-        "vot_Latn": [
+        vot_Latn: [
             "Noto Sans",
             "Noto Sans Display",
             "Noto Sans Mono",
             "Noto Serif",
-            "Noto Serif Display"
+            "Noto Serif Display",
         ],
-        "vro_Latn": [
+        vro_Latn: [
             "Noto Music",
             "Noto Sans",
             "Noto Sans Cypro Minoan",
@@ -11047,9 +10996,9 @@
             "Noto Serif Display",
             "Noto Serif Khitan Small Script",
             "Noto Serif Ottoman Siyaq",
-            "Noto Znamenny Musical Notation"
+            "Noto Znamenny Musical Notation",
         ],
-        "vun_Latn": [
+        vun_Latn: [
             "Noto Music",
             "Noto Sans",
             "Noto Sans Cypro Minoan",
@@ -11065,9 +11014,9 @@
             "Noto Serif Display",
             "Noto Serif Khitan Small Script",
             "Noto Serif Ottoman Siyaq",
-            "Noto Znamenny Musical Notation"
+            "Noto Znamenny Musical Notation",
         ],
-        "wa_Latn": [
+        wa_Latn: [
             "Noto Music",
             "Noto Sans",
             "Noto Sans Cypro Minoan",
@@ -11082,17 +11031,17 @@
             "Noto Serif Display",
             "Noto Serif Khitan Small Script",
             "Noto Serif Ottoman Siyaq",
-            "Noto Znamenny Musical Notation"
+            "Noto Znamenny Musical Notation",
         ],
-        "wae_Latn": [
+        wae_Latn: [
             "Noto Sans",
             "Noto Sans Display",
             "Noto Sans Mono",
             "Noto Serif",
-            "Noto Serif Display"
+            "Noto Serif Display",
         ],
-        "wal_Ethi": ["Noto Sans Ethiopic", "Noto Serif Ethiopic"],
-        "wal_Latn": [
+        wal_Ethi: ["Noto Sans Ethiopic", "Noto Serif Ethiopic"],
+        wal_Latn: [
             "Noto Music",
             "Noto Sans Cypro Minoan",
             "Noto Sans Indic Siyaq Numbers",
@@ -11102,9 +11051,9 @@
             "Noto Sans Symbols 2",
             "Noto Serif Khitan Small Script",
             "Noto Serif Ottoman Siyaq",
-            "Noto Znamenny Musical Notation"
+            "Noto Znamenny Musical Notation",
         ],
-        "war_Latn": [
+        war_Latn: [
             "Noto Music",
             "Noto Sans",
             "Noto Sans Cypro Minoan",
@@ -11119,16 +11068,16 @@
             "Noto Serif Display",
             "Noto Serif Khitan Small Script",
             "Noto Serif Ottoman Siyaq",
-            "Noto Znamenny Musical Notation"
+            "Noto Znamenny Musical Notation",
         ],
-        "was_Latn": [
+        was_Latn: [
             "Noto Sans",
             "Noto Sans Display",
             "Noto Sans Mono",
             "Noto Serif",
-            "Noto Serif Display"
+            "Noto Serif Display",
         ],
-        "wbp_Latn": [
+        wbp_Latn: [
             "Noto Music",
             "Noto Sans",
             "Noto Sans Cypro Minoan",
@@ -11144,37 +11093,37 @@
             "Noto Serif Display",
             "Noto Serif Khitan Small Script",
             "Noto Serif Ottoman Siyaq",
-            "Noto Znamenny Musical Notation"
+            "Noto Znamenny Musical Notation",
         ],
-        "wbq_Telu": ["Noto Sans Telugu", "Noto Serif Telugu"],
-        "wbr_Deva": [
+        wbq_Telu: ["Noto Sans Telugu", "Noto Serif Telugu"],
+        wbr_Deva: [
             "Noto Sans",
             "Noto Sans Devanagari",
             "Noto Sans Devanagari UI",
-            "Noto Serif Devanagari"
+            "Noto Serif Devanagari",
         ],
-        "wls_Latn": [
+        wls_Latn: [
             "Noto Sans",
             "Noto Sans Display",
             "Noto Sans Mono",
             "Noto Serif",
-            "Noto Serif Display"
+            "Noto Serif Display",
         ],
-        "wni_Arab": [
+        wni_Arab: [
             "Noto Kufi Arabic",
             "Noto Naskh Arabic",
             "Noto Naskh Arabic UI",
             "Noto Sans Arabic",
-            "Noto Sans Arabic UI"
+            "Noto Sans Arabic UI",
         ],
-        "wo_Arab": [
+        wo_Arab: [
             "Noto Kufi Arabic",
             "Noto Naskh Arabic",
             "Noto Naskh Arabic UI",
             "Noto Sans Arabic",
-            "Noto Sans Arabic UI"
+            "Noto Sans Arabic UI",
         ],
-        "wo_Latn": [
+        wo_Latn: [
             "Noto Music",
             "Noto Sans",
             "Noto Sans Cypro Minoan",
@@ -11189,19 +11138,19 @@
             "Noto Serif Display",
             "Noto Serif Khitan Small Script",
             "Noto Serif Ottoman Siyaq",
-            "Noto Znamenny Musical Notation"
+            "Noto Znamenny Musical Notation",
         ],
-        "wsg_Gong": ["Noto Sans Gunjala Gondi"],
-        "wsg_Gonm": ["Noto Sans Masaram Gondi"],
-        "wtm_Deva": [
+        wsg_Gong: ["Noto Sans Gunjala Gondi"],
+        wsg_Gonm: ["Noto Sans Masaram Gondi"],
+        wtm_Deva: [
             "Noto Sans",
             "Noto Sans Devanagari",
             "Noto Sans Devanagari UI",
-            "Noto Serif Devanagari"
+            "Noto Serif Devanagari",
         ],
-        "wuu_Hans": ["Noto Sans SC", "Noto Serif SC"],
-        "wuu_Hant": ["Noto Sans HK", "Noto Sans TC", "Noto Serif HK"],
-        "wwa_Latn": [
+        wuu_Hans: ["Noto Sans SC", "Noto Serif SC"],
+        wuu_Hant: ["Noto Sans HK", "Noto Sans TC", "Noto Serif HK"],
+        wwa_Latn: [
             "Noto Music",
             "Noto Sans",
             "Noto Sans Cypro Minoan",
@@ -11216,25 +11165,25 @@
             "Noto Serif Display",
             "Noto Serif Khitan Small Script",
             "Noto Serif Ottoman Siyaq",
-            "Noto Znamenny Musical Notation"
+            "Noto Znamenny Musical Notation",
         ],
-        "wya_Latn": ["Noto Znamenny Musical Notation"],
-        "xal_Cyrl": [
+        wya_Latn: ["Noto Znamenny Musical Notation"],
+        xal_Cyrl: [
             "Noto Sans",
             "Noto Sans Display",
             "Noto Sans Mono",
             "Noto Serif",
-            "Noto Serif Display"
+            "Noto Serif Display",
         ],
-        "xav_Latn": [
+        xav_Latn: [
             "Noto Sans",
             "Noto Sans Display",
             "Noto Sans Mono",
             "Noto Serif",
-            "Noto Serif Display"
+            "Noto Serif Display",
         ],
-        "xcr_Cari": ["Noto Sans Carian"],
-        "xh_Latn": [
+        xcr_Cari: ["Noto Sans Carian"],
+        xh_Latn: [
             "Noto Music",
             "Noto Sans",
             "Noto Sans Cypro Minoan",
@@ -11250,22 +11199,22 @@
             "Noto Serif Display",
             "Noto Serif Khitan Small Script",
             "Noto Serif Ottoman Siyaq",
-            "Noto Znamenny Musical Notation"
+            "Noto Znamenny Musical Notation",
         ],
-        "xlc_Lyci": ["Noto Sans Lycian"],
-        "xld_Lydi": ["Noto Sans Lydian"],
-        "xly_Elym": ["Noto Sans Elymaic"],
-        "xmf_Geor": ["Noto Sans Georgian", "Noto Serif Georgian"],
-        "xmn_Mani": ["Noto Sans Manichaean"],
-        "xmr_Mero": ["Noto Sans Meroitic"],
-        "xna_Narb": ["Noto Sans Old North Arabian"],
-        "xnr_Deva": [
+        xlc_Lyci: ["Noto Sans Lycian"],
+        xld_Lydi: ["Noto Sans Lydian"],
+        xly_Elym: ["Noto Sans Elymaic"],
+        xmf_Geor: ["Noto Sans Georgian", "Noto Serif Georgian"],
+        xmn_Mani: ["Noto Sans Manichaean"],
+        xmr_Mero: ["Noto Sans Meroitic"],
+        xna_Narb: ["Noto Sans Old North Arabian"],
+        xnr_Deva: [
             "Noto Sans",
             "Noto Sans Devanagari",
             "Noto Sans Devanagari UI",
-            "Noto Serif Devanagari"
+            "Noto Serif Devanagari",
         ],
-        "xog_Latn": [
+        xog_Latn: [
             "Noto Music",
             "Noto Sans",
             "Noto Sans Cypro Minoan",
@@ -11281,11 +11230,11 @@
             "Noto Serif Display",
             "Noto Serif Khitan Small Script",
             "Noto Serif Ottoman Siyaq",
-            "Noto Znamenny Musical Notation"
+            "Noto Znamenny Musical Notation",
         ],
-        "xpr_Prti": ["Noto Sans Inscriptional Parthian"],
-        "xsa_Sarb": ["Noto Sans Old South Arabian"],
-        "xsm_Latn": [
+        xpr_Prti: ["Noto Sans Inscriptional Parthian"],
+        xsa_Sarb: ["Noto Sans Old South Arabian"],
+        xsm_Latn: [
             "Noto Music",
             "Noto Sans",
             "Noto Sans Cypro Minoan",
@@ -11299,23 +11248,23 @@
             "Noto Serif",
             "Noto Serif Display",
             "Noto Serif Khitan Small Script",
-            "Noto Serif Ottoman Siyaq"
+            "Noto Serif Ottoman Siyaq",
         ],
-        "xsr_Deva": [
+        xsr_Deva: [
             "Noto Sans",
             "Noto Sans Devanagari",
             "Noto Sans Devanagari UI",
-            "Noto Serif Devanagari"
+            "Noto Serif Devanagari",
         ],
-        "xum_Ital": ["Noto Sans Old Italic"],
-        "xum_Latn": [
+        xum_Ital: ["Noto Sans Old Italic"],
+        xum_Latn: [
             "Noto Sans",
             "Noto Sans Display",
             "Noto Sans Mono",
             "Noto Serif",
-            "Noto Serif Display"
+            "Noto Serif Display",
         ],
-        "yad_Latn": [
+        yad_Latn: [
             "Noto Music",
             "Noto Sans",
             "Noto Sans Cypro Minoan",
@@ -11330,9 +11279,9 @@
             "Noto Serif Display",
             "Noto Serif Khitan Small Script",
             "Noto Serif Ottoman Siyaq",
-            "Noto Znamenny Musical Notation"
+            "Noto Znamenny Musical Notation",
         ],
-        "yao_Latn": [
+        yao_Latn: [
             "Noto Music",
             "Noto Sans",
             "Noto Sans Cypro Minoan",
@@ -11347,9 +11296,9 @@
             "Noto Serif Display",
             "Noto Serif Khitan Small Script",
             "Noto Serif Ottoman Siyaq",
-            "Noto Znamenny Musical Notation"
+            "Noto Znamenny Musical Notation",
         ],
-        "yap_Latn": [
+        yap_Latn: [
             "Noto Music",
             "Noto Sans",
             "Noto Sans Cypro Minoan",
@@ -11364,41 +11313,37 @@
             "Noto Serif Display",
             "Noto Serif Khitan Small Script",
             "Noto Serif Ottoman Siyaq",
-            "Noto Znamenny Musical Notation"
+            "Noto Znamenny Musical Notation",
         ],
-        "yav_Latn": [
+        yav_Latn: [
             "Noto Sans",
             "Noto Sans Display",
             "Noto Sans Mono",
             "Noto Serif",
-            "Noto Serif Display"
+            "Noto Serif Display",
         ],
-        "ybb_Latn": [
+        ybb_Latn: [
             "Noto Sans",
             "Noto Sans Display",
             "Noto Sans Mono",
             "Noto Serif",
-            "Noto Serif Display"
+            "Noto Serif Display",
         ],
-        "ybh_Deva": [
+        ybh_Deva: [
             "Noto Sans",
             "Noto Sans Devanagari",
             "Noto Sans Devanagari UI",
-            "Noto Serif Devanagari"
+            "Noto Serif Devanagari",
         ],
-        "yi_Hebr": [
-            "Noto Rashi Hebrew",
-            "Noto Sans Hebrew",
-            "Noto Serif Hebrew"
-        ],
-        "ykg_Cyrl": [
+        yi_Hebr: ["Noto Rashi Hebrew", "Noto Sans Hebrew", "Noto Serif Hebrew"],
+        ykg_Cyrl: [
             "Noto Sans",
             "Noto Sans Display",
             "Noto Sans Mono",
             "Noto Serif",
-            "Noto Serif Display"
+            "Noto Serif Display",
         ],
-        "yko_Latn": [
+        yko_Latn: [
             "Noto Music",
             "Noto Sans Cypro Minoan",
             "Noto Sans Indic Siyaq Numbers",
@@ -11408,30 +11353,30 @@
             "Noto Sans Symbols 2",
             "Noto Serif Khitan Small Script",
             "Noto Serif Ottoman Siyaq",
-            "Noto Znamenny Musical Notation"
+            "Noto Znamenny Musical Notation",
         ],
-        "yo_Latn": [
+        yo_Latn: [
             "Noto Sans",
             "Noto Sans Display",
             "Noto Sans Mono",
             "Noto Serif",
-            "Noto Serif Display"
+            "Noto Serif Display",
         ],
-        "yrk_Cyrl": [
+        yrk_Cyrl: [
             "Noto Sans",
             "Noto Sans Display",
             "Noto Sans Mono",
             "Noto Serif",
-            "Noto Serif Display"
+            "Noto Serif Display",
         ],
-        "yrl_Latn": [
+        yrl_Latn: [
             "Noto Sans",
             "Noto Sans Display",
             "Noto Sans Mono",
             "Noto Serif",
-            "Noto Serif Display"
+            "Noto Serif Display",
         ],
-        "yua_Latn": [
+        yua_Latn: [
             "Noto Music",
             "Noto Sans",
             "Noto Sans Cypro Minoan",
@@ -11446,14 +11391,14 @@
             "Noto Serif Display",
             "Noto Serif Khitan Small Script",
             "Noto Serif Ottoman Siyaq",
-            "Noto Znamenny Musical Notation"
+            "Noto Znamenny Musical Notation",
         ],
-        "yue_Hani": ["Noto Serif SC"],
-        "yue_Hans": ["Noto Sans SC", "Noto Serif SC"],
-        "yue_Hant": ["Noto Sans HK", "Noto Sans TC", "Noto Serif HK"],
-        "za_Hans": ["Noto Sans SC", "Noto Serif SC"],
-        "za_Hant": ["Noto Sans HK", "Noto Sans TC"],
-        "za_Latn": [
+        yue_Hani: ["Noto Serif SC"],
+        yue_Hans: ["Noto Sans SC", "Noto Serif SC"],
+        yue_Hant: ["Noto Sans HK", "Noto Sans TC", "Noto Serif HK"],
+        za_Hans: ["Noto Sans SC", "Noto Serif SC"],
+        za_Hant: ["Noto Sans HK", "Noto Sans TC"],
+        za_Latn: [
             "Noto Music",
             "Noto Sans",
             "Noto Sans Cypro Minoan",
@@ -11468,16 +11413,16 @@
             "Noto Serif Display",
             "Noto Serif Khitan Small Script",
             "Noto Serif Ottoman Siyaq",
-            "Noto Znamenny Musical Notation"
+            "Noto Znamenny Musical Notation",
         ],
-        "zag_Latn": [
+        zag_Latn: [
             "Noto Sans",
             "Noto Sans Display",
             "Noto Sans Mono",
             "Noto Serif",
-            "Noto Serif Display"
+            "Noto Serif Display",
         ],
-        "zam_Latn": [
+        zam_Latn: [
             "Noto Music",
             "Noto Sans",
             "Noto Sans Cypro Minoan",
@@ -11492,9 +11437,9 @@
             "Noto Serif Display",
             "Noto Serif Khitan Small Script",
             "Noto Serif Ottoman Siyaq",
-            "Noto Znamenny Musical Notation"
+            "Noto Znamenny Musical Notation",
         ],
-        "zap_Latn": [
+        zap_Latn: [
             "Noto Music",
             "Noto Sans",
             "Noto Sans Cypro Minoan",
@@ -11509,9 +11454,9 @@
             "Noto Serif Display",
             "Noto Serif Khitan Small Script",
             "Noto Serif Ottoman Siyaq",
-            "Noto Znamenny Musical Notation"
+            "Noto Znamenny Musical Notation",
         ],
-        "zay_Latn": [
+        zay_Latn: [
             "Noto Music",
             "Noto Sans Cypro Minoan",
             "Noto Sans Indic Siyaq Numbers",
@@ -11521,16 +11466,16 @@
             "Noto Sans Symbols 2",
             "Noto Serif Khitan Small Script",
             "Noto Serif Ottoman Siyaq",
-            "Noto Znamenny Musical Notation"
+            "Noto Znamenny Musical Notation",
         ],
-        "zdj_Arab": [
+        zdj_Arab: [
             "Noto Kufi Arabic",
             "Noto Naskh Arabic",
             "Noto Naskh Arabic UI",
             "Noto Sans Arabic",
-            "Noto Sans Arabic UI"
+            "Noto Sans Arabic UI",
         ],
-        "zdj_Latn": [
+        zdj_Latn: [
             "Noto Music",
             "Noto Sans",
             "Noto Sans Cypro Minoan",
@@ -11545,31 +11490,27 @@
             "Noto Serif Display",
             "Noto Serif Khitan Small Script",
             "Noto Serif Ottoman Siyaq",
-            "Noto Znamenny Musical Notation"
+            "Noto Znamenny Musical Notation",
         ],
-        "zea_Latn": [
+        zea_Latn: [
             "Noto Sans",
             "Noto Sans Display",
             "Noto Sans Mono",
             "Noto Serif",
-            "Noto Serif Display"
+            "Noto Serif Display",
         ],
-        "zen_Tfng": ["Noto Sans Tifinagh"],
-        "zgh_Tfng": ["Noto Sans Tifinagh"],
-        "zh_Hans": ["Noto Sans SC", "Noto Serif SC"],
-        "zh_Hant": [
+        zen_Tfng: ["Noto Sans Tifinagh"],
+        zgh_Tfng: ["Noto Sans Tifinagh"],
+        zh_Hans: ["Noto Sans SC", "Noto Serif SC"],
+        zh_Hant: [
             "Noto Sans HK",
             "Noto Sans TC",
             "Noto Serif HK",
-            "Noto Serif TC"
+            "Noto Serif TC",
         ],
-        "zh_Hebr": [
-            "Noto Rashi Hebrew",
-            "Noto Sans Hebrew",
-            "Noto Serif Hebrew"
-        ],
-        "zh_Phag": ["Noto Sans Phags Pa"],
-        "ziw_Latn": [
+        zh_Hebr: ["Noto Rashi Hebrew", "Noto Sans Hebrew", "Noto Serif Hebrew"],
+        zh_Phag: ["Noto Sans Phags Pa"],
+        ziw_Latn: [
             "Noto Music",
             "Noto Sans Cypro Minoan",
             "Noto Sans Indic Siyaq Numbers",
@@ -11579,16 +11520,16 @@
             "Noto Sans Symbols 2",
             "Noto Serif Khitan Small Script",
             "Noto Serif Ottoman Siyaq",
-            "Noto Znamenny Musical Notation"
+            "Noto Znamenny Musical Notation",
         ],
-        "zlm_Arab": [
+        zlm_Arab: [
             "Noto Kufi Arabic",
             "Noto Naskh Arabic",
             "Noto Naskh Arabic UI",
             "Noto Sans Arabic",
-            "Noto Sans Arabic UI"
+            "Noto Sans Arabic UI",
         ],
-        "zlm_Latn": [
+        zlm_Latn: [
             "Noto Music",
             "Noto Sans",
             "Noto Sans Cypro Minoan",
@@ -11603,16 +11544,16 @@
             "Noto Serif Display",
             "Noto Serif Khitan Small Script",
             "Noto Serif Ottoman Siyaq",
-            "Noto Znamenny Musical Notation"
+            "Noto Znamenny Musical Notation",
         ],
-        "zmi_Latn": [
+        zmi_Latn: [
             "Noto Sans",
             "Noto Sans Display",
             "Noto Sans Mono",
             "Noto Serif",
-            "Noto Serif Display"
+            "Noto Serif Display",
         ],
-        "zne_Latn": [
+        zne_Latn: [
             "Noto Music",
             "Noto Sans Cypro Minoan",
             "Noto Sans Indic Siyaq Numbers",
@@ -11622,9 +11563,9 @@
             "Noto Sans Symbols 2",
             "Noto Serif Khitan Small Script",
             "Noto Serif Ottoman Siyaq",
-            "Noto Znamenny Musical Notation"
+            "Noto Znamenny Musical Notation",
         ],
-        "zro_Latn": [
+        zro_Latn: [
             "Noto Music",
             "Noto Sans",
             "Noto Sans Cypro Minoan",
@@ -11639,9 +11580,9 @@
             "Noto Serif Display",
             "Noto Serif Khitan Small Script",
             "Noto Serif Ottoman Siyaq",
-            "Noto Znamenny Musical Notation"
+            "Noto Znamenny Musical Notation",
         ],
-        "ztu_Latn": [
+        ztu_Latn: [
             "Noto Music",
             "Noto Sans",
             "Noto Sans Cypro Minoan",
@@ -11656,9 +11597,9 @@
             "Noto Serif Display",
             "Noto Serif Khitan Small Script",
             "Noto Serif Ottoman Siyaq",
-            "Noto Znamenny Musical Notation"
+            "Noto Znamenny Musical Notation",
         ],
-        "zu_Latn": [
+        zu_Latn: [
             "Noto Music",
             "Noto Sans",
             "Noto Sans Cypro Minoan",
@@ -11674,9 +11615,9 @@
             "Noto Serif Display",
             "Noto Serif Khitan Small Script",
             "Noto Serif Ottoman Siyaq",
-            "Noto Znamenny Musical Notation"
+            "Noto Znamenny Musical Notation",
         ],
-        "zul_Latn": [
+        zul_Latn: [
             "Noto Music",
             "Noto Sans Cypro Minoan",
             "Noto Sans Indic Siyaq Numbers",
@@ -11686,21 +11627,21 @@
             "Noto Sans Symbols 2",
             "Noto Serif Khitan Small Script",
             "Noto Serif Ottoman Siyaq",
-            "Noto Znamenny Musical Notation"
+            "Noto Znamenny Musical Notation",
         ],
-        "zun_Latn": [
+        zun_Latn: [
             "Noto Sans",
             "Noto Sans Display",
             "Noto Sans Mono",
             "Noto Serif",
-            "Noto Serif Display"
+            "Noto Serif Display",
         ],
-        "zza_Latn": [
+        zza_Latn: [
             "Noto Sans",
             "Noto Sans Display",
             "Noto Sans Mono",
             "Noto Serif",
-            "Noto Serif Display"
-        ]
-    }
-}
+            "Noto Serif Display",
+        ],
+    },
+};

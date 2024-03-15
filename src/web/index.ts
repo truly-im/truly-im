@@ -61,4 +61,16 @@
 //     }
 //     // console.log(a1);
 // })();
-import "../core/Plugin/inject/injectable";
+import { injectable } from "../core/Plugin/inject/injectable";
+import { inject } from "../core/Plugin/inject/inject";
+class A {
+    constructor() {}
+    @injectable("sb")
+    a(aa) {
+        return "sb" + aa;
+    }
+}
+inject((aa) => {
+    return "nmsl" + aa;
+}, "sb");
+console.log(new A().a("sb"));

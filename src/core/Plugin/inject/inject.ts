@@ -1,10 +1,6 @@
-export interface injectList {
-    [propName: string]: Function;
-}
-
 export function inject(thing: Function, name: string) {
     if (!globalThis.injectList) {
-        globalThis.injectList = {};
+        globalThis.injectList = new Map<string, Function>();
     }
-    globalThis.injectList[name] = thing;
+    globalThis.injectList.set(name, thing);
 }

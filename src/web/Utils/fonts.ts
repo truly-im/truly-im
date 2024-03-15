@@ -1,10 +1,8 @@
 import WebFont from "webfontloader";
+import notoLanguages from "./notoLanguages";
 let languageList: any = null;
 async function decideFont(lang: string, font: string): Promise<string[]> {
-    if (languageList == null) {
-        languageList = await import("./notoLanguages.json");
-    }
-    return (languageList.langToNotoFamilies[lang] as string[]).filter((l) =>
+    return (notoLanguages.langToNotoFamilies[lang] as string[]).filter((l) =>
         l.includes(font)
     );
 }

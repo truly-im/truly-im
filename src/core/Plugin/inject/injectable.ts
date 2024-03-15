@@ -1,5 +1,4 @@
 import "reflect-metadata";
-import { injectList } from "./inject";
 export function injectable(name: string) {
     return function (
         target: any,
@@ -7,12 +6,17 @@ export function injectable(name: string) {
         descriptor: TypedPropertyDescriptor<Function>
     ) {
         let method = descriptor.value;
-        descriptor.value = function () {
-            if (globalThis.injectList && globalThis.injectList[name]) {
-                method = (globalThis.injectList as injectList)[name];
+        descriptor.value = function (...argv: any[]) {
+            if (
+                globalThis.injectList &&
+                (globalThis.injectList as Map<string, Function>).has(name)
+            ) {
+                method = (globalThis.injectList as Map<string, Function>).get(
+                    name
+                );
             }
             console.log(method);
-            return method.apply(this, arguments);
+            return method.apply(this, argv);
         };
     };
 }

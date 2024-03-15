@@ -9,5 +9,5 @@ export default function showWhich(id: string) {
     window.location.hash = "#" + id;
 }
 if (window.location.hash != "") {
-    showWhich(window.location.hash.replace("#", ""))
+    showWhich(window.location.hash.replace("#", ""));
 }
