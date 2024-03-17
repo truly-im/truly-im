@@ -61,8 +61,8 @@
 //     }
 //     // console.log(a1);
 // })();
-import { injectable } from "../core/Plugin/inject/injectable";
-import { inject } from "../core/Plugin/inject/inject";
+import { injectable } from "../../core/Plugin/inject/injectable";
+import { inject } from "../../core/Plugin/inject/inject";
 class A {
     constructor() {}
     @injectable("sb")
@@ -74,3 +74,7 @@ inject((aa) => {
     return "nmsl" + aa;
 }, "sb");
 console.log(new A().a("sb"));
+import { newPlugin } from "../../core/Plugin/addPlugin";
+(async () => {
+    (await newPlugin("http://localhost:8000/newplugin"))();
+})();

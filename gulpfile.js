@@ -58,7 +58,7 @@ function buildWeb() {
     return new Promise(async (resolve) => {
         await pipeEnd(
             gulp
-                .src("./src/web/**/*.ts")
+                .src("./src/web/Page/**/*.ts")
                 .pipe(
                     gulpIf(
                         webChanged,
@@ -102,7 +102,7 @@ function buildWeb() {
                 .pipe(gulp.dest("dist/web"))
         );
         await pipeEnd(
-            gulp.src("./src/web/**/*.html").pipe(gulp.dest("dist/web"))
+            gulp.src("./src/web/Page/**/*.html").pipe(gulp.dest("dist/web"))
         );
         resolve();
     });

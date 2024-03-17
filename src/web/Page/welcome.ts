@@ -1,5 +1,5 @@
-import showWhich from "../core/Utils/showWhich";
-import { createUser } from "./account";
+import showWhich from "../../core/Utils/showWhich";
+import { createUser } from "../account";
 
 async function initTruly(newUser: boolean, userName) {
     createUser(userName);
